@@ -34,6 +34,16 @@
          "img":"https://i.pinimg.com/originals/b1/40/47/b1404762a0deb618f8a38816ff9f861c.jpg",
          "name":"Pirates Of the Caribbean: Salazar's Revenge",
          "vid":"something idk"
-      }
+      },
+       {
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbf-VisIv0VjBuLJ7FqBulmiDJWtS0WgdcVj64X3VCWsMlfR0uEKjmRno&s=10",
+         "name":"The New Mutants",
+         "vid":"something idk"
+       },
+       {
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPIS3ORPw08TBy_JPNiod6Wcph7i3YvyLseg&usqp=CAU",
+         "name":"AK Vs AK",
+         "vid":"something idk"
+       }
    ]
 }
