@@ -14,6 +14,26 @@
          "img":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2FSonic%20the%20Hedgehog%2Fsonic.jpg?alt=media&token=7ead79c5-b2ba-4648-81e6-5fa6107322df",
          "name":"Sonic the Hedgehog",
          "vid":"something idk"
+      },
+      {
+         "img":"https://images-na.ssl-images-amazon.com/images/I/71Tw-XHzu1L._AC_SL1200_.jpg",
+         "name":"Tenet",
+         "vid":"something idk"
+      },
+      {
+         "img":"https://m.media-amazon.com/images/I/51lvxZDKppL.jpg",
+         "name":"Avengers: Endgame",
+         "vid":"something idk"
+      },
+      {
+         "img":"https://originalvintagemovieposters.com/wp-content/uploads/2020/03/Dark-Knight-70822-scaled.jpg",
+         "name":"The Dark Knight",
+         "vid":"something idk"
+      },
+      {
+         "img":"https://i.pinimg.com/originals/b1/40/47/b1404762a0deb618f8a38816ff9f861c.jpg",
+         "name":"Pirates Of the Caribbean: Salazar's Revenge",
+         "vid":"something idk"
       }
    ]
 }
