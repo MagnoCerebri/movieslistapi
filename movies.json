@@ -35,11 +35,11 @@
          "name":"Pirates Of the Caribbean: Salazar's Revenge",
          "vid":"https://cutt.ly/GjhQKdj"
       },
-       {
+      {
          "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPIS3ORPw08TBy_JPNiod6Wcph7i3YvyLseg&usqp=CAU",
          "name":"AK vs AK",
          "vid":"https://cutt.ly/IjhQ9sc"
-       },
+      },
       {
          "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlr7H2HW_Y2tcgL8VnZJksk-0IpnHJt8-fYw&usqp=CAU",
          "name":"The Matrix",
@@ -55,7 +55,8 @@
          "name":"Naruto Shippuden the Movie ",
          "vid":"https://cutt.ly/9jhJmAL"
       },
-      { "img":"https://www.anime-planet.com/images/anime/covers/naruto-movie-1-ninja-clash-in-the-land-of-snow-1285.jpg",
+      {
+         "img":"https://www.anime-planet.com/images/anime/covers/naruto-movie-1-ninja-clash-in-the-land-of-snow-1285.jpg",
          "name":"Naruto Ninja Clash in the Land of Snow ",
          "vid":"https://cutt.ly/cjhJffo"
       },
@@ -70,9 +71,9 @@
          "vid":"https://cutt.ly/Bjx5jDH"
       },
       {
-        "img":"https://images-na.ssl-images-amazon.com/images/I/81L6jWlP6IL._RI_.jpg",
+         "img":"https://images-na.ssl-images-amazon.com/images/I/81L6jWlP6IL._RI_.jpg",
          "name":"Annabelle Comes Home ",
          "vid":"https://cutt.ly/Pjx6YWc"
       }
-   ]        
+   ]
 }
