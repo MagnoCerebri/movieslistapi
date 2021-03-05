@@ -1,0 +1,92 @@
+{
+    "id": "284053",
+    "name": "Thor: Ragnarok",
+    "img": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+    "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.",
+    "release_date": 1508893200,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": "424694",
+    "name": "Bohemian Rhapsody",
+    "img": "https://image.tmdb.org/t/p/w500/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+    "overview": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+    "release_date": 1540342800,
+    "genres": [
+      "Music",
+      "Documentary"
+    ]
+  },
+  {
+    "id": "508763",
+    "name": "A Dog's Way Home",
+    "img": "https://image.tmdb.org/t/p/w500/pZn87R7gtmMCGGO8KeaAfZDhXLg.jpg",
+    "overview": "A Dog’s Way Home chronicles the heartwarming adventure of Bella, a dog who embarks on an epic 400-mile journey home after she is separated from her beloved human.",
+    "release_date": 1547078400,
+    "genres": [
+      "Drama",
+      "Family",
+      "Adventure"
+    ]
+  },
+  {
+    "id": "284054",
+    "name": "Black Panther",
+    "img": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "overview": "King T'Challa returns home from America to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantel to join with girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+    "release_date": 1518480000,
+    "genres": [
+      "Family",
+      "Drama"
+    ]
+  },
+  {
+    "id": "335983",
+    "name": "Venom",
+    "img": "https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+    "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+    "release_date": 1538096400,
+    "genres": [
+      "Thriller"
+    ]
+  },
+  {
+    "id": "440472",
+    "name": "The Upside",
+    "img": "https://image.tmdb.org/t/p/w500/hPZ2caow1PCND6qnerfgn6RTXdm.jpg",
+    "overview": "Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who's trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.",
+    "release_date": 1547078400,
+    "genres": [
+      "Drama"
+    ]
+  },
+  {
+    "id": "363088",
+    "name": "Ant-Man and the Wasp",
+    "img": "https://image.tmdb.org/t/p/w500/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg",
+    "overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+    "release_date": 1530666000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction",
+      "Comedy"
+    ]
+  },
+  {
+    "id": "351286",
+    "name": "Jurassic World: Fallen Kingdom",
+    "img": "https://image.tmdb.org/t/p/w500/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg",
+    "overview": "Three years after the demise of Jurassic World, a volcanic eruption threatens the remaining dinosaurs on the isla Nublar, so Claire Dearing, the former park manager, recruits Owen Grady to help prevent the extinction of the dinosaurs once again.",
+    "release_date": 1528246800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
+  },
