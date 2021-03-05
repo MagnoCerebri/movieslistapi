@@ -298,7 +298,7 @@
             "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
             "storyline": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery."
         },
-        [
+        
             {
                 "id": "287947",
                 "name": "Shazam!",
@@ -661,6 +661,6 @@
                     "Science Fiction"
                 ]
             }
-       ]
+       
     ]
 }
