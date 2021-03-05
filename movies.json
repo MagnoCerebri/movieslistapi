@@ -1,4 +1,674 @@
 {
+   "movies":[
+      {
+         "img":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2FThe%20Devil%20All%20The%20Time%2FThe%20devl%20all%20the%20time%20pic.jpg?alt=media&token=0fe8323f-56a2-4d39-a4ff-c5848f54bebd",
+         "name":"The Devil All the Time",
+         "vid":"https://cutt.ly/qjhvqsS"
+      },
+      {
+         "img":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2FWonder%20Woman%201984%2Fww84.jpg?alt=media&token=f798987d-fc01-4ac1-a454-37941ff89b4d",
+         "name":"Wonder Woman 1984",
+         "vid":"https://cutt.ly/ljhn6Xs"
+      },
+      {
+         "img":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2FSonic%20the%20Hedgehog%2Fsonic.jpg?alt=media&token=7ead79c5-b2ba-4648-81e6-5fa6107322df",
+         "name":"Sonic the Hedgehog",
+         "vid":"https://cutt.ly/Jjhn5uS"
+      },
+      {
+         "img":"https://images-na.ssl-images-amazon.com/images/I/71Tw-XHzu1L._AC_SL1200_.jpg",
+         "name":"Tenet",
+         "vid":"https://cutt.ly/ejhmkzs"
+      },
+      {
+         "img":"https://m.media-amazon.com/images/I/51lvxZDKppL.jpg",
+         "name":"Avengers: Endgame",
+         "vid":"https://cutt.ly/ejhQksM"
+      },
+      {
+         "img":"https://originalvintagemovieposters.com/wp-content/uploads/2020/03/Dark-Knight-70822-scaled.jpg",
+         "name":"The Dark Knight",
+         "vid":"https://cutt.ly/ejhQx3g"
+      },
+      {
+         "img":"https://i.pinimg.com/originals/b1/40/47/b1404762a0deb618f8a38816ff9f861c.jpg",
+         "name":"Pirates Of the Caribbean: Salazar's Revenge",
+         "vid":"https://cutt.ly/GjhQKdj"
+      },
+      {
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPIS3ORPw08TBy_JPNiod6Wcph7i3YvyLseg&usqp=CAU",
+         "name":"AK vs AK",
+         "vid":"https://cutt.ly/IjhQ9sc"
+      },
+      {
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlr7H2HW_Y2tcgL8VnZJksk-0IpnHJt8-fYw&usqp=CAU",
+         "name":"The Matrix",
+         "vid":"https://cutt.ly/fjhEaDr"
+      },
+      {
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ9r3FS2oxe13mlahy9RfolAJIG3ESWeYkyg&usqp=CAU",
+         "name":"Joker",
+         "vid":"https://cutt.ly/BjhEECg"
+      },
+      {
+         "img":"https://occ-0-299-300.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABYJ9i23tprS4ke9NUY2AmpX6fLjnEQ6VJNSIS66dU3RbgCp0ssHm8paKYJZsGRK1XYEGqu3xxLJm3GTu3nX_Q-KuEhwo.jpg",
+         "name":"Naruto Shippuden the Movie ",
+         "vid":"https://cutt.ly/9jhJmAL"
+      },
+      {
+         "img":"https://www.anime-planet.com/images/anime/covers/naruto-movie-1-ninja-clash-in-the-land-of-snow-1285.jpg",
+         "name":"Naruto Ninja Clash in the Land of Snow ",
+         "vid":"https://cutt.ly/cjhJffo"
+      },
+      {
+         "img":"https://m.media-amazon.com/images/M/MV5BNzg1MzM3OWUtNjgzZC00NjMzLWE1NzAtOThiMDgyMjhhZDBhXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+         "name":"Spies in Disguise ",
+         "vid":"https://cutt.ly/5jlHdhw"
+      },
+      {
+         "img":"https://images-na.ssl-images-amazon.com/images/I/61wQYpF9jSL._AC_SL1185_.jpg",
+         "name":"Artemis Fowl ",
+         "vid":"https://cutt.ly/Bjx5jDH"
+      },
+      {
+         "img":"https://images-na.ssl-images-amazon.com/images/I/81L6jWlP6IL._RI_.jpg",
+         "name":"Annabelle Comes Home ",
+         "vid":"https://cutt.ly/Pjx6YWc"
+      },
+      {
+         "img":"https://i.pinimg.com/originals/22/2b/9e/222b9ed054f44fa4f13558cdb3fa127e.png",
+         "name":"Star Wars III Revenge of the Sith",
+         "vid":"https://cutt.ly/xjQmOCO"
+      },
+      {
+         "img":"https://m.media-amazon.com/images/M/MV5BMTAzMzI0NTMzNDBeQTJeQWpwZ15BbWU3MDM3NTAyOTM@._V1_.jpg",
+         "name":"Megamind",
+         "vid":"https://cutt.ly/fjTDjoY"
+      },
+      {
+    "name": "Avatar",
+      "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "Year": "2009",
+    "Rated": "PG-13",
+    "Released": "18 Dec 2009",
+    "Runtime": "162 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "James Cameron",
+    "Writer": "James Cameron",
+    "Actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang",
+    "Plot": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "Language": "English, Spanish",
+    "Country": "USA, UK",
+    "Awards": "Won 3 Oscars. Another 80 wins & 121 nominations.",
+    "img": "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+    "Metascore": "83",
+    "imdbRating": "7.9",
+    "imdbVotes": "890,617",
+    "imdbID": "tt0499549",
+    "Type": "movie",
+    "Response": "True",
+    "Images": [
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTYyMzUxNl5BMl5BanBnXkFtZTcwNTg0MTUzNA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BNzM2MDk3MTcyMV5BMl5BanBnXkFtZTcwNjg0MTUzNA@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2ODQ3NjMyMl5BMl5BanBnXkFtZTcwODg0MTUzNA@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxOTEwNDcxN15BMl5BanBnXkFtZTcwOTg0MTUzNA@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxMDg1Nzk1MV5BMl5BanBnXkFtZTcwMDk0MTUzNA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
+    ]
+  },
+  {
+    "name": "I Am Legend",
+     "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "Year": "2007",
+    "Rated": "PG-13",
+    "Released": "14 Dec 2007",
+    "Runtime": "101 min",
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Director": "Francis Lawrence",
+    "Writer": "Mark Protosevich (screenplay), Akiva Goldsman (screenplay), Richard Matheson (novel), John William Corrington, Joyce Hooper Corrington",
+    "Actors": "Will Smith, Alice Braga, Charlie Tahan, Salli Richardson-Whitfield",
+    "Plot": "Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "9 wins & 21 nominations.",
+    "img": "http://ia.media-imdb.com/images/M/MV5BMTU4NzMyNDk1OV5BMl5BanBnXkFtZTcwOTEwMzU1MQ@@._V1_SX300.jpg",
+    "Metascore": "65",
+    "imdbRating": "7.2",
+    "imdbVotes": "533,874",
+    "imdbID": "tt0480249",
+    "Type": "movie",
+    "Response": "True",
+    "Images": [
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0NTI4NjE3NV5BMl5BanBnXkFtZTYwMDA0Nzc4._V1_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwMDg2MDU4M15BMl5BanBnXkFtZTYwMTA0Nzc4._V1_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5MDM1OTU5OV5BMl5BanBnXkFtZTYwMjA0Nzc4._V1_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0MTI2NjMzMzFeQTJeQWpwZ15BbWU2MDMwNDc3OA@@._V1_.jpg"
+    ]
+  },
+  {
+    "name": "300",
+     "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "Year": "2006",
+    "Rated": "R",
+    "Released": "09 Mar 2007",
+    "Runtime": "117 min",
+    "Genre": "Action, Drama, Fantasy",
+    "Director": "Zack Snyder",
+    "Writer": "Zack Snyder (screenplay), Kurt Johnstad (screenplay), Michael Gordon (screenplay), Frank Miller (graphic novel), Lynn Varley (graphic novel)",
+    "Actors": "Gerard Butler, Lena Headey, Dominic West, David Wenham",
+    "Plot": "King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "16 wins & 42 nominations.",
+    "img": "http://ia.media-imdb.com/images/M/MV5BMjAzNTkzNjcxNl5BMl5BanBnXkFtZTYwNDA4NjE3._V1_SX300.jpg",
+    "Metascore": "52",
+    "imdbRating": "7.7",
+    "imdbVotes": "611,046",
+    "imdbID": "tt0416449",
+    "Type": "movie",
+    "Response": "True",
+    "Images": [
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMwNTg5MzMwMV5BMl5BanBnXkFtZTcwMzA2NTIyMw@@._V1_SX1777_CR0,0,1777,937_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwNTgyNTMzNF5BMl5BanBnXkFtZTcwNDA2NTIyMw@@._V1_SX1777_CR0,0,1777,935_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0MjQzOTEwMV5BMl5BanBnXkFtZTcwMzE2NTIyMw@@._V1_SX1777_CR0,0,1777,947_AL_.jpg"
+    ]
+  },
+  {
+    "name": "The Avengers",
+     "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "04 May 2012",
+    "Runtime": "143 min",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Director": "Joss Whedon",
+    "Writer": "Joss Whedon (screenplay), Zak Penn (story), Joss Whedon (story)",
+    "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+    "Plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "Language": "English, Russian",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 34 wins & 75 nominations.",
+    "img": "http://ia.media-imdb.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_SX300.jpg",
+    "Metascore": "69",
+    "imdbRating": "8.1",
+    "imdbVotes": "1,003,301",
+    "imdbID": "tt0848228",
+    "Type": "movie",
+    "Response": "True",
+     "Images": [
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0NjY0NzE4OTReQTJeQWpwZ15BbWU3MDczODg2Nzc@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1MzEzMjcyM15BMl5BanBnXkFtZTcwNDM4ODY3Nw@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMwMzM2MTg1M15BMl5BanBnXkFtZTcwNjM4ODY3Nw@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4NzM2Mjc5MV5BMl5BanBnXkFtZTcwMTkwOTY3Nw@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3MzQ3NjA5N15BMl5BanBnXkFtZTcwMzY5OTY3Nw@@._V1_SX1777_CR0,0,1777,999_AL_.jpg"
+    ]
+  },
+  {
+    "name": "The Wolf of Wall Street",
+     "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "25 Dec 2013",
+    "Runtime": "180 min",
+    "Genre": "Biography, Comedy, Crime",
+    "Director": "Martin Scorsese",
+    "Writer": "Terence Winter (screenplay), Jordan Belfort (book)",
+    "Actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey",
+    "Plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Awards": "Nominated for 5 Oscars. Another 35 wins & 154 nominations.",
+    "img": "http://ia.media-imdb.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
+    "Metascore": "75",
+    "imdbRating": "8.2",
+    "imdbVotes": "786,985",
+    "imdbID": "tt0993846",
+    "Type": "movie",
+    "Response": "True",
+    "Images": [
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BNDIwMDIxNzk3Ml5BMl5BanBnXkFtZTgwMTg0MzQ4MDE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NzAxODAyMl5BMl5BanBnXkFtZTgwMDg0MzQ4MDE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMDk1MDE4NzVeQTJeQWpwZ15BbWU4MDM4NDM0ODAx._V1_SX1500_CR0,0,1500,999_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3MTY4NDk4Nl5BMl5BanBnXkFtZTgwNjc0MzQ4MDE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzMTg4MDI0Ml5BMl5BanBnXkFtZTgwOTY0MzQ4MDE@._V1_SY1000_CR0,0,1553,1000_AL_.jpg"
+    ]
+  },
+  {
+    "name": "Interstellar",
+     "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "Year": "2014",
+    "Rated": "PG-13",
+    "Released": "07 Nov 2014",
+    "Runtime": "169 min",
+    "Genre": "Adventure, Drama, Sci-Fi",
+    "Director": "Christopher Nolan",
+    "Writer": "Jonathan Nolan, Christopher Nolan",
+    "Actors": "Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow",
+    "Plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "Language": "English",
+    "Country": "USA, UK",
+    "Awards": "Won 1 Oscar. Another 39 wins & 134 nominations.",
+    "img": "http://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX300.jpg",
+    "Metascore": "74",
+    "imdbRating": "8.6",
+    "imdbVotes": "937,412",
+    "imdbID": "tt0816692",
+    "Type": "movie",
+    "Response": "True",
+    "Images": [
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3NTEwOTMxMV5BMl5BanBnXkFtZTgwMjMyODgxMzE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMzQ5ODE2MzEwM15BMl5BanBnXkFtZTgwMTMyODgxMzE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4Njk4MzY0Nl5BMl5BanBnXkFtZTgwMzIyODgxMzE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMzE3MTM0MTc3Ml5BMl5BanBnXkFtZTgwMDIyODgxMzE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BNjYzNjE2NDk3N15BMl5BanBnXkFtZTgwNzEyODgxMzE@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
+    ]
+  },
+      {
+  "name": "Django Unchained",
+      "img":"https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+     "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+        "storyline": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner."
+      },
+      {
+         "name": "The Avengers",
+         "img":"https://images-na.ssl-images-amazon.com/images/I/51k1da28EmL._AC_.jpg",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "storyline": "Nick Fury is the director of S.H.I.E.L.D., an international peace-keeping agency. The agency is a who's who of Marvel Super Heroes, with Iron Man, The Incredible Hulk, Thor, Captain America, Hawkeye and Black Widow. When global security is threatened by Loki and his cohorts, Nick Fury and his team will need all their powers to save the world from disaster which is formed by Loki and his team."
+},
+      {
+         "name": "Beauty and the Beast",
+          "img":"https://images-na.ssl-images-amazon.com/images/I/91p8sSMXpkL._AC_SL1500_.jpg",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"storyline": "Disney's animated classic takes on a new form, with a widened mythology and an all-star cast. A young prince, imprisoned in the form of a beast, can be freed only by true love. What may be his only opportunity arrives when he meets Belle, the only human girl to ever visit the castle since it was enchanted.\n\n"
+      },
+      {
+         "name": "Jumanji: Welcome to the jungle",
+         "img":"https://images-na.ssl-images-amazon.com/images/I/A1hFzTczzJL._AC_SL1500_.jpg",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "storyline": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.."
+      },
+      {
+         "name" : "Ad Astra",
+         "img":"https://i.pinimg.com/originals/cb/1c/db/cb1cdb36c692f23438b7752d51f035f1.jpg",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+  "storyline" : "Thirty years ago, Clifford McBride led a voyage into deep space, but the ship and crew were never heard from again. Now his son -- a fearless astronaut -- must embark on a daring mission to Neptune to uncover the truth about his missing father and a mysterious power surge that threatens the stability of the universe."    
+      },
+      {
+         "name": "The Lion King",
+         "img":"https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-movie/the-lion-king-movie-poster-image0.jpg?itok=ILK65PMU",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "storyline": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery."
+      },
+      [
+  {
+    "id": "287947",
+    "name": "Shazam!",
+    "img": "https://image.tmdb.org/t/p/w500/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+    "overview": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
+    "release_date": 1553299200,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": "299537",
+    "name": "Captain Marvel",
+    "img": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+    "overview": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+    "release_date": 1551830400,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
+  },
+  {
+    "id": "522681",
+    "name": "Escape Room",
+    "img": "https://image.tmdb.org/t/p/w500/8Ls1tZ6qjGzfGHjBB7ihOnf7f0b.jpg",
+    "overview": "Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.",
+    "release_date": 1546473600,
+    "genres": [
+      "Thriller",
+      "Action",
+      "Horror",
+      "Science Fiction"
+    ]
+  },
+  {
+    "id": "166428",
+    "name": "How to Train Your Dragon: The Hidden World",
+    "img": "https://image.tmdb.org/t/p/w500/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+    "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+    "release_date": 1546473600,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure"
+    ]
+  },
+  {
+    "id": "450465",
+    "name": "Glass",
+    "img": "https://image.tmdb.org/t/p/w500/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+    "overview": "In a series of escalating encounters, security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
+    "release_date": 1547596800,
+    "genres": [
+      "Documentary"
+    ]
+  },
+  {
+    "id": "495925",
+    "name": "Doraemon the Movie: Nobita's Treasure Island",
+    "img": "https://image.tmdb.org/t/p/w500/xiLRClQmKSVAbiu6rgCRzNQjcSX.jpg",
+    "overview": "The story is based on Robert Louis Stevenson's Treasure Island novel.",
+    "release_date": 1520035200,
+    "genres": [
+      "Animation"
+    ]
+  },
+  {
+    "id": "329996",
+    "name": "Dumbo",
+    "img": "https://image.tmdb.org/t/p/w500/deTOAcMWuHTjOUPQphwcPFFfTQz.jpg",
+    "overview": "A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.",
+    "release_date": 1553644800,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": "299536",
+    "name": "Avengers: Infinity War",
+    "img": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+    "release_date": 1524618000,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  {
+    "id": "458723",
+    "name": "Us",
+    "img": "https://image.tmdb.org/t/p/w500/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+    "overview": "Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.",
+    "release_date": 1552521600,
+    "genres": [
+      "Documentary",
+      "Family"
+    ]
+  },
+  {
+    "id": "424783",
+    "name": "Bumblebee",
+    "img": "https://image.tmdb.org/t/p/w500/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg",
+    "overview": "On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.",
+    "release_date": 1544832000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
+  },
+  {
+    "id": "920",
+    "name": "Cars",
+    "img": "https://image.tmdb.org/t/p/w500/qa6HCwP4Z15l3hpsASz3auugEW6.jpg",
+    "overview": "Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters.",
+    "release_date": 1149728400,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ]
+  },
+  {
+    "id": "299534",
+    "name": "Avengers: Endgame",
+    "img": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+    "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+    "release_date": 1556067600,
+    "genres": [
+      "Adventure",
+      "Science Fiction",
+      "Action"
+    ]
+  },
+  {
+    "id": "324857",
+    "name": "Spider-Man: Into the Spider-Verse",
+    "img": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+    "overview": "Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson 'Kingpin' Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.",
+    "release_date": 1544140800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Science Fiction",
+      "Comedy"
+    ]
+  },
+  {
+    "id": "157433",
+    "name": "Pet Sematary",
+    "img": "https://image.tmdb.org/t/p/w500/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg",
+    "overview": "Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rural home where they are welcomed and enlightened about the eerie 'Pet Sematary' located nearby. After the tragedy of their cat being killed by a truck, Louis resorts to burying it in the mysterious pet cemetery, which is definitely not as it seems, as it proves to the Creeds that sometimes dead is better.",
+    "release_date": 1554339600,
+    "genres": [
+      "Thriller",
+      "Horror"
+    ]
+  },
+  {
+    "id": "456740",
+    "name": "Hellboy",
+    "img": "https://image.tmdb.org/t/p/w500/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg",
+    "overview": "Hellboy comes to England, where he must defeat Nimue, Merlin's consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.",
+    "release_date": 1554944400,
+    "genres": [
+      "Fantasy",
+      "Action"
+    ]
+  },
+  {
+    "id": "537915",
+    "name": "After",
+    "img": "https://image.tmdb.org/t/p/w500/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
+    "overview": "A young woman falls for a guy with a dark secret and the two embark on a rocky relationship.",
+    "release_date": 1554944400,
+    "genres": [
+      "Mystery",
+      "Drama"
+    ]
+  },
+  {
+    "id": "485811",
+    "name": "Redcon-1",
+    "img": "https://image.tmdb.org/t/p/w500/vVPrWngVJ2cfYAncBedQty69Dlf.jpg",
+    "overview": "After a zombie apocalypse spreads from a London prison, the UK is brought to its knees. The spread of the virus is temporarily contained but, without a cure, it’s only a matter of time before it breaks its boundaries and the biggest problem of all… any zombies with combat skills are now enhanced. With the South East of England quarantined from the rest of the world using fortified borders, intelligence finds that the scientist responsible for the outbreak is alive and well in London. With his recovery being the only hope of a cure, a squad of eight Special Forces soldiers is sent on a suicide mission to the city, now ruled by the undead, with a single task: get him out alive within 72 hours by any means necessary. What emerges is an unlikely pairing on a course to save humanity against ever-rising odds.",
+    "release_date": 1538096400,
+    "genres": [
+      "Action",
+      "Horror"
+    ]
+  },
+  {
+    "id": "471507",
+    "name": "Destroyer",
+    "img": "https://image.tmdb.org/t/p/w500/sHw9gTdo43nJL82py0oaROkXXNr.jpg",
+    "overview": "Erin Bell is an LAPD detective who, as a young cop, was placed undercover with a gang in the California desert with tragic results. When the leader of that gang re-emerges many years later, she must work her way back through the remaining members and into her own history with them to finally reckon with the demons that destroyed her past.",
+    "release_date": 1545696000,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "id": "400650",
+    "name": "Mary Poppins Returns",
+    "img": "https://image.tmdb.org/t/p/w500/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg",
+    "overview": "In Depression-era London, a now-grown Jane and Michael Banks, along with Michael's three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives.",
+    "release_date": 1544659200,
+    "genres": [
+      "Documentary"
+    ]
+  },
+  {
+    "id": "297802",
+    "name": "Aquaman",
+    "img": "https://image.tmdb.org/t/p/w500/5Kg76ldv7VxeX9YlcQXiowHgdX6.jpg",
+    "overview": "Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne.",
+    "release_date": 1544140800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "TV Movie"
+    ]
+  },
+  {
+    "id": "512196",
+    "name": "Happy Death Day 2U",
+    "img": "https://image.tmdb.org/t/p/w500/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg",
+    "overview": "Collegian Tree Gelbman wakes up in horror to learn that she's stuck in a parallel universe. Her boyfriend Carter is now with someone else, and her friends and fellow students seem to be completely different versions of themselves. When Tree discovers that Carter's roommate has been altering time, she finds herself once again the target of a masked killer. When the psychopath starts to go after her inner circle, Tree soon realizes that she must die over and over again to save everyone.",
+    "release_date": 1550016000,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Science Fiction"
+    ]
+  },
+  {
+    "id": "390634",
+    "name": "Fate/stay night: Heaven’s Feel II. lost butterfly",
+    "img": "https://image.tmdb.org/t/p/w500/nInpnGCjhzVhsASIUAmgM1QIhYM.jpg",
+    "overview": "Theatrical-release adaptation of the visual novel 'Fate/stay night', following the third and final route. (Part 2 of a trilogy.)",
+    "release_date": 1547251200,
+    "genres": [
+      "Animation",
+      "Action",
+      "Fantasy",
+      "Drama"
+    ]
+  },
+  {
+    "id": "500682",
+    "name": "The Highwaymen",
+    "img": "https://image.tmdb.org/t/p/w500/4bRYg4l12yDuJvAfqvUOPnBrxno.jpg",
+    "overview": "In 1934, Frank Hamer and Manny Gault, two former Texas Rangers, are commissioned to put an end to the wave of vicious crimes perpetrated by Bonnie Parker and Clyde Barrow, a notorious duo of infamous robbers and cold-blooded killers who nevertheless are worshiped by the public.",
+    "release_date": 1552608000,
+    "genres": [
+      "Music"
+    ]
+  },
+  {
+    "id": "454294",
+    "name": "The Kid Who Would Be King",
+    "img": "https://image.tmdb.org/t/p/w500/kBuvLX6zynQP0sjyqbXV4jNaZ4E.jpg",
+    "overview": "Old-school magic meets the modern world when young Alex stumbles upon the mythical sword Excalibur. He soon unites his friends and enemies, and they become knights who join forces with the legendary wizard Merlin. Together, they must save mankind from the wicked enchantress Morgana and her army of supernatural warriors.",
+    "release_date": 1547596800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Family"
+    ]
+  },
+  {
+    "id": "543103",
+    "name": "Kamen Rider Heisei Generations FOREVER",
+    "img": "https://image.tmdb.org/t/p/w500/kHMuyjlvNIwhCaDFiRwnl45wF7z.jpg",
+    "overview": "In the world of Sougo Tokiwa and Sento Kiryu, their 'companions' are losing their memories one after the other as they're replaced by other people. The Super Time Jacker, Tid , appears before them. He orders his powerful underlings, Another Double and Another Den-O, to pursue a young boy called Shingo. While fighting to protect Shingo, Sougo meets Ataru, a young man who loves Riders, but Ataru says that Kamen Riders aren't real. What is the meaning of those words? While the mystery deepens, the true enemy that Sougo and Sento must defeat appears in the Kuriogatake mountain...",
+    "release_date": 1545436800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
+  },
+  {
+    "id": "404368",
+    "name": "Ralph Breaks the Internet",
+    "img": "https://image.tmdb.org/t/p/w500/qEnH5meR381iMpmCumAIMswcQw2.jpg",
+    "overview": "Video game bad guy Ralph and fellow misfit Vanellope von Schweetz must risk it all by traveling to the World Wide Web in search of a replacement part to save Vanellope's video game, 'Sugar Rush.' In way over their heads, Ralph and Vanellope rely on the citizens of the internet -- the netizens -- to help navigate their way, including an entrepreneur named Yesss, who is the head algorithm and the heart and soul of trend-making site BuzzzTube.",
+    "release_date": 1542672000,
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy",
+      "Adventure"
+    ]
+  },
+  {
+    "id": "338952",
+    "name": "Fantastic Beasts: The Crimes of Grindelwald",
+    "img": "https://image.tmdb.org/t/p/w500/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg",
+    "overview": "Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.",
+    "release_date": 1542153600,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Family"
+    ]
+  },
+  {
+    "id": "399579",
+    "name": "Alita: Battle Angel",
+    "img": "https://image.tmdb.org/t/p/w500/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+    "overview": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
+    "release_date": 1548892800,
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  {
+    "id": "450001",
+    "name": "Master Z: Ip Man Legacy",
+    "img": "https://image.tmdb.org/t/p/w500/6VxEvOF7QDovsG6ro9OVyjH07LF.jpg",
+    "overview": "After being defeated by Ip Man, Cheung Tin Chi is attempting to keep a low profile. While going about his business, he gets into a fight with a foreigner by the name of Davidson, who is a big boss behind the bar district. Tin Chi fights hard with Wing Chun and earns respect.",
+    "release_date": 1545264000,
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "id": "504172",
+    "name": "The Mule",
+    "img": "https://image.tmdb.org/t/p/w500/klazQbxk3yfuZ8JcfO9jdKOZQJ7.jpg",
+    "overview": "Earl Stone, a man in his 80s who is broke, alone, and facing foreclosure of his business when he is offered a job that simply requires him to drive. Easy enough, but, unbeknownst to Earl, he’s just signed on as a drug courier for a Mexican cartel. He does so well that his cargo increases exponentially, and Earl hit the radar of hard-charging DEA agent Colin Bates.",
+    "release_date": 1544745600,
+    "genres": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  {
+    "id": "527729",
+    "name": "Asterix: The Secret of the Magic Potion",
+    "img": "https://image.tmdb.org/t/p/w500/wmMq5ypRNJbWpdhC9aPjpdx1MMp.jpg",
+    "overview": "Following a fall during mistletoe picking, Druid Getafix decides that it is time to secure the future of the village. Accompanied by Asterix and Obelix, he undertakes to travel the Gallic world in search of a talented young druid to transmit the Secret of the Magic Potion.",
+    "release_date": 1543968000,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Adventure"
+    ]
+  },
+  {
+    "id": "118340",
+    "name": "Guardians of the Galaxy",
+    "img": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+    "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+    "release_date": 1406682000,
+    "genres": []
+  },{
     "id": "284053",
     "name": "Thor: Ragnarok",
     "img": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
@@ -89,4 +759,6 @@
       "Adventure",
       "Science Fiction"
     ]
-  },
+  }
+}
+}
