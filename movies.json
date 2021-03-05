@@ -261,7 +261,45 @@
       "https://images-na.ssl-images-amazon.com/images/M/MV5BMzE3MTM0MTc3Ml5BMl5BanBnXkFtZTgwMDIyODgxMzE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
       "https://images-na.ssl-images-amazon.com/images/M/MV5BNjYzNjE2NDk3N15BMl5BanBnXkFtZTgwNzEyODgxMzE@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
     ]
-  }
+  },
+      {
+  "name": "Django Unchained",
+      "img":"https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+     "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+        "storyline": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner."
+      },
+      {
+         "name": "The Avengers",
+         "img":"https://images-na.ssl-images-amazon.com/images/I/51k1da28EmL._AC_.jpg",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "storyline": "Nick Fury is the director of S.H.I.E.L.D., an international peace-keeping agency. The agency is a who's who of Marvel Super Heroes, with Iron Man, The Incredible Hulk, Thor, Captain America, Hawkeye and Black Widow. When global security is threatened by Loki and his cohorts, Nick Fury and his team will need all their powers to save the world from disaster which is formed by Loki and his team."
+},
+      {
+         "name": "Beauty and the Beast",
+          "img":"https://images-na.ssl-images-amazon.com/images/I/91p8sSMXpkL._AC_SL1500_.jpg",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"storyline": "Disney's animated classic takes on a new form, with a widened mythology and an all-star cast. A young prince, imprisoned in the form of a beast, can be freed only by true love. What may be his only opportunity arrives when he meets Belle, the only human girl to ever visit the castle since it was enchanted.\n\n"
+      },
+      {
+         "name": "Jumanji: Welcome to the jungle",
+         "img":"https://images-na.ssl-images-amazon.com/images/I/A1hFzTczzJL._AC_SL1500_.jpg",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "storyline": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.."
+      },
+      {
+         "name" : "Ad Astra",
+         "img":"https://i.pinimg.com/originals/cb/1c/db/cb1cdb36c692f23438b7752d51f035f1.jpg",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+  "storyline" : "Thirty years ago, Clifford McBride led a voyage into deep space, but the ship and crew were never heard from again. Now his son -- a fearless astronaut -- must embark on a daring mission to Neptune to uncover the truth about his missing father and a mysterious power surge that threatens the stability of the universe."    
+      },
+      {
+         "name": "The Lion King",
+         "img":"https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-movie/the-lion-king-movie-poster-image0.jpg?itok=ILK65PMU",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "storyline": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery."
+      }
+
+      
   
       
       
