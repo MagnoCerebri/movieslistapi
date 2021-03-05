@@ -87,7 +87,7 @@
         },
         {
             "name": "Avatar",
-            "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+            "vid": "https://i.pinimg.com/236x/59/a1/b0/59a1b00b050a0402e39664858fcc3bd2--movie-couples-wallpaper.jpg",
             "Year": "2009",
             "Rated": "PG-13",
             "Released": "18 Dec 2009",
@@ -117,7 +117,7 @@
         },
         {
             "name": "I Am Legend",
-            "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+            "vid": "https://m.media-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
             "Year": "2007",
             "Rated": "PG-13",
             "Released": "14 Dec 2007",
@@ -146,7 +146,7 @@
         },
         {
             "name": "300",
-            "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+            "vid": "https://i.pinimg.com/originals/ce/d2/97/ced2975ab2a5f57778eef66d1ba6b3a6.png",
             "Year": "2006",
             "Rated": "R",
             "Released": "09 Mar 2007",
@@ -204,7 +204,7 @@
         },
         {
             "name": "The Wolf of Wall Street",
-            "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+            "vid": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
             "Year": "2013",
             "Rated": "R",
             "Released": "25 Dec 2013",
@@ -234,7 +234,7 @@
         },
         {
             "name": "Interstellar",
-            "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+            "vid": "https://images-na.ssl-images-amazon.com/images/I/81kz06oSUeL._AC_SL1500_.jpg",
             "Year": "2014",
             "Rated": "PG-13",
             "Released": "07 Nov 2014",
@@ -268,12 +268,7 @@
             "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
             "storyline": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner."
         },
-        {
-            "name": "The Avengers",
-            "img": "https://images-na.ssl-images-amazon.com/images/I/51k1da28EmL._AC_.jpg",
-            "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-            "storyline": "Nick Fury is the director of S.H.I.E.L.D., an international peace-keeping agency. The agency is a who's who of Marvel Super Heroes, with Iron Man, The Incredible Hulk, Thor, Captain America, Hawkeye and Black Widow. When global security is threatened by Loki and his cohorts, Nick Fury and his team will need all their powers to save the world from disaster which is formed by Loki and his team."
-        },
+        
         {
             "name": "Beauty and the Beast",
             "img": "https://images-na.ssl-images-amazon.com/images/I/91p8sSMXpkL._AC_SL1500_.jpg",
