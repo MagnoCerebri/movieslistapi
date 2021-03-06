@@ -1,25 +1,459 @@
-            "Drama"
-         ]
-      },
-      {
-         "id":"363088",
-         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2""name":"Ant-Man and the Wasp",
-         "img":"https://image.tmdb.org/t/p/w500/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg",
-         "overview":"Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
-         "release_date":1530666000
-      },
-      {
-         "id":"351286",
-         "name":"Jurassic World: Fallen Kingdom",
-         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-         "img":"https://image.tmdb.org/t/p/w500/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg",
-         "overview":"Three years after the demise of Jurassic World, a volcanic eruption threatens the remaining dinosaurs on the isla Nublar, so Claire Dearing, the former park manager, recruits Owen Grady to help prevent the extinction of the dinosaurs once again.",
-         "release_date":1528246800,
-         "genres":[
-            "Action",
-            "Adventure",
-            "Science Fiction"
-         ]
-      }
-   ]
+{
+    "movies": [
+        {
+            "img": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2FThe%20Devil%20All%20The%20Time%2FThe%20devl%20all%20the%20time%20pic.jpg?alt=media&token=0fe8323f-56a2-4d39-a4ff-c5848f54bebd",
+            "name": "The Devil All the Time",
+            "vid": "https://cutt.ly/qjhvqsS"
+        },
+        {
+            "img": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2FWonder%20Woman%201984%2Fww84.jpg?alt=media&token=f798987d-fc01-4ac1-a454-37941ff89b4d",
+            "name": "Wonder Woman 1984",
+            "vid": "https://cutt.ly/ljhn6Xs"
+        },
+        {
+            "img": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2FSonic%20the%20Hedgehog%2Fsonic.jpg?alt=media&token=7ead79c5-b2ba-4648-81e6-5fa6107322df",
+            "name": "Sonic the Hedgehog",
+            "vid": "https://cutt.ly/Jjhn5uS"
+        },
+        {
+            "img": "https://images-na.ssl-images-amazon.com/images/I/71Tw-XHzu1L._AC_SL1200_.jpg",
+            "name": "Tenet",
+            "vid": "https://cutt.ly/ejhmkzs"
+        },
+        {
+            "img": "https://m.media-amazon.com/images/I/51lvxZDKppL.jpg",
+            "name": "Avengers: Endgame",
+            "vid": "https://cutt.ly/ejhQksM"
+        },
+        {
+            "img": "https://originalvintagemovieposters.com/wp-content/uploads/2020/03/Dark-Knight-70822-scaled.jpg",
+            "name": "The Dark Knight",
+            "vid": "https://cutt.ly/ejhQx3g"
+        },
+        {
+            "img": "https://i.pinimg.com/originals/b1/40/47/b1404762a0deb618f8a38816ff9f861c.jpg",
+            "name": "Pirates Of the Caribbean: Salazar's Revenge",
+            "vid": "https://cutt.ly/GjhQKdj"
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPIS3ORPw08TBy_JPNiod6Wcph7i3YvyLseg&usqp=CAU",
+            "name": "AK vs AK",
+            "vid": "https://cutt.ly/IjhQ9sc"
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlr7H2HW_Y2tcgL8VnZJksk-0IpnHJt8-fYw&usqp=CAU",
+            "name": "The Matrix",
+            "vid": "https://cutt.ly/fjhEaDr"
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ9r3FS2oxe13mlahy9RfolAJIG3ESWeYkyg&usqp=CAU",
+            "name": "Joker",
+            "vid": "https://cutt.ly/BjhEECg"
+        },
+        {
+            "img": "https://occ-0-299-300.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABYJ9i23tprS4ke9NUY2AmpX6fLjnEQ6VJNSIS66dU3RbgCp0ssHm8paKYJZsGRK1XYEGqu3xxLJm3GTu3nX_Q-KuEhwo.jpg",
+            "name": "Naruto Shippuden the Movie ",
+            "vid": "https://cutt.ly/9jhJmAL"
+        },
+        {
+            "img": "https://www.anime-planet.com/images/anime/covers/naruto-movie-1-ninja-clash-in-the-land-of-snow-1285.jpg",
+            "name": "Naruto Ninja Clash in the Land of Snow ",
+            "vid": "https://cutt.ly/cjhJffo"
+        },
+        {
+            "img": "https://m.media-amazon.com/images/M/MV5BNzg1MzM3OWUtNjgzZC00NjMzLWE1NzAtOThiMDgyMjhhZDBhXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+            "name": "Spies in Disguise ",
+            "vid": "https://cutt.ly/5jlHdhw"
+        },
+        {
+            "img": "https://images-na.ssl-images-amazon.com/images/I/61wQYpF9jSL._AC_SL1185_.jpg",
+            "name": "Artemis Fowl ",
+            "vid": "https://cutt.ly/Bjx5jDH"
+        },
+        {
+            "img": "https://images-na.ssl-images-amazon.com/images/I/81L6jWlP6IL._RI_.jpg",
+            "name": "Annabelle Comes Home ",
+            "vid": "https://cutt.ly/Pjx6YWc"
+        },
+        {
+            "img": "https://i.pinimg.com/originals/22/2b/9e/222b9ed054f44fa4f13558cdb3fa127e.png",
+            "name": "Star Wars III Revenge of the Sith",
+            "vid": "https://cutt.ly/xjQmOCO"
+        },
+        {
+            "img": "https://m.media-amazon.com/images/M/MV5BMTAzMzI0NTMzNDBeQTJeQWpwZ15BbWU3MDM3NTAyOTM@._V1_.jpg",
+            "name": "Megamind",
+            "vid": "https://cutt.ly/fjTDjoY"
+        },
+        {
+            "name": "Avatar",
+            "vid": "https://i.pinimg.com/236x/59/a1/b0/59a1b00b050a0402e39664858fcc3bd2--movie-couples-wallpaper.jpg",
+            
+            "img": "http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg"
+           
+        },
+        {
+            "name": "I Am Legend",
+            "vid": "https://m.media-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+            
+            "img": "http://ia.media-imdb.com/images/M/MV5BMTU4NzMyNDk1OV5BMl5BanBnXkFtZTcwOTEwMzU1MQ@@._V1_SX300.jpg"
+           
+        },
+        {
+            "name": "300",
+            "vid": "https://i.pinimg.com/originals/ce/d2/97/ced2975ab2a5f57778eef66d1ba6b3a6.png",
+            
+            "img": "http://ia.media-imdb.com/images/M/MV5BMjAzNTkzNjcxNl5BMl5BanBnXkFtZTYwNDA4NjE3._V1_SX300.jpg"
+            
+        },
+        {
+            "name": "The Avengers",
+            "vid": "https://m.media-amazon.com/images/I/719SFBdxRtL._AC_SL1000_.jpg",
+            
+            "img": "http://ia.media-imdb.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_SX300.jpg"
+         
+        },
+        {
+            "name": "The Wolf of Wall Street",
+            "vid": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
+            
+            "img": "http://ia.media-imdb.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg"
+            
+        },
+        {
+            "name": "Interstellar",
+            "vid": "https://images-na.ssl-images-amazon.com/images/I/81kz06oSUeL._AC_SL1500_.jpg",
+            
+            "img": "http://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX300.jpg"
+           
+        },
+        {
+            "name": "Django Unchained",
+            "img": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+            "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+            "storyline": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner."
+        },
+        
+        {
+            "name": "Beauty and the Beast",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/91p8sSMXpkL._AC_SL1500_.jpg",
+            "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+            "storyline": "Disney's animated classic takes on a new form, with a widened mythology and an all-star cast. A young prince, imprisoned in the form of a beast, can be freed only by true love. What may be his only opportunity arrives when he meets Belle, the only human girl to ever visit the castle since it was enchanted.\n\n"
+        },
+        {
+            "name": "Jumanji: Welcome to the jungle",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/A1hFzTczzJL._AC_SL1500_.jpg",
+            "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+            "storyline": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.."
+        },
+        {
+            "name": "Ad Astra",
+            "img": "https://i.pinimg.com/originals/cb/1c/db/cb1cdb36c692f23438b7752d51f035f1.jpg",
+            "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+            "storyline": "Thirty years ago, Clifford McBride led a voyage into deep space, but the ship and crew were never heard from again. Now his son -- a fearless astronaut -- must embark on a daring mission to Neptune to uncover the truth about his missing father and a mysterious power surge that threatens the stability of the universe."
+        },
+        {
+            "name": "The Lion King",
+            "img": "https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-movie/the-lion-king-movie-poster-image0.jpg?itok=ILK65PMU",
+            "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+            "storyline": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery."
+        },
+         {
+                "id": "299536",
+                "name": "Avengers: Infinity War",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "img": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+            },
+            {
+                "id": "287947",
+                "name": "Shazam!",
+                "img": "https://image.tmdb.org/t/p/w500/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+                "overview": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+                
+            },
+            {
+                "id": "299537",
+                "name": "Captain Marvel",
+                "img": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg"
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+            },
+            {
+                "id": "522681",
+                "name": "Escape Room",
+                "img": "https://image.tmdb.org/t/p/w500/8Ls1tZ6qjGzfGHjBB7ihOnf7f0b.jpg",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+                
+            },
+            {
+                "id": "166428",
+                "name": "How to Train Your Dragon: The Hidden World",
+                "img": "https://image.tmdb.org/t/p/w500/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+               
+            },
+            {
+                "id": "450465",
+                "name": "Glass",
+                "img": "https://image.tmdb.org/t/p/w500/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg"
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+            },
+            {
+                "id": "329996",
+                "name": "Dumbo",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "img": "https://image.tmdb.org/t/p/w500/deTOAcMWuHTjOUPQphwcPFFfTQz.jpg",
+                "overview": "A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.",
+                "release_date": 1553644800,
+                "genres": [
+                    "Adventure",
+                    "Family",
+                    "Fantasy"
+                ]
+            },
+           
+            {
+                "id": "458723",
+                "name": "Us",
+                "img": "https://image.tmdb.org/t/p/w500/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+                "overview": "Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"release_date": 1552521600,
+                "genres": [
+                    "Documentary",
+                    "Family"
+                ]
+            },
+            {
+                "id": "424783",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "name": "Bumblebee",
+                "img": "https://image.tmdb.org/t/p/w500/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg"
+            },
+            {
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "id": "920",
+                "name": "Cars",
+                "img": "https://image.tmdb.org/t/p/w500/qa6HCwP4Z15l3hpsASz3auugEW6.jpg"
+            },
+            {
+                "id": "324857",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "name": "Spider-Man: Into the Spider-Verse",
+                "img": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+            },
+            {
+                "id": "157433",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "name": "Pet Sematary",
+                "img": "https://image.tmdb.org/t/p/w500/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg"
+            },
+            {
+                "id": "456740",
+                 "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+                "name": "Hellboy",
+                "img": "https://image.tmdb.org/t/p/w500/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg"
+            },
+            {
+                "id": "485811",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "name": "Redcon-1",
+                "img": "https://image.tmdb.org/t/p/w500/vVPrWngVJ2cfYAncBedQty69Dlf.jpg",
+                "overview": "After a zombie apocalypse spreads from a London prison, the UK is brought to its knees. The spread of the virus is temporarily contained but, without a cure, it’s only a matter of time before it breaks its boundaries and the biggest problem of all… any zombies with combat skills are now enhanced. With the South East of England quarantined from the rest of the world using fortified borders, intelligence finds that the scientist responsible for the outbreak is alive and well in London. With his recovery being the only hope of a cure, a squad of eight Special Forces soldiers is sent on a suicide mission to the city, now ruled by the undead, with a single task: get him out alive within 72 hours by any means necessary. What emerges is an unlikely pairing on a course to save humanity against ever-rising odds.",
+                "release_date": 1538096400,
+                "genres": [
+                    "Action",
+                    "Horror"
+                ]
+            },
+            {
+                "id": "400650",
+                "name": "Mary Poppins Returns",
+                "img": "https://image.tmdb.org/t/p/w500/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg",
+                "overview": "In Depression-era London, a now-grown Jane and Michael Banks, along with Michael's three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives.",
+                "release_date": 1544659200,
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "id": "297802",
+                "name": "Aquaman",
+                 "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "img": "https://image.tmdb.org/t/p/w500/5Kg76ldv7VxeX9YlcQXiowHgdX6.jpg",
+                "overview": "Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne.",
+                "release_date": 1544140800,
+                "genres": [
+                    "Action",
+                    "Adventure",
+                    "TV Movie"
+                ]
+            },
+            {
+                "id": "512196",
+                 "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+                "name": "Happy Death Day 2U",
+                "img": "https://image.tmdb.org/t/p/w500/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg",
+                "overview": "Collegian Tree Gelbman wakes up in horror to learn that she's stuck in a parallel universe. Her boyfriend Carter is now with someone else, and her friends and fellow students seem to be completely different versions of themselves. When Tree discovers that Carter's roommate has been altering time, she finds herself once again the target of a masked killer. When the psychopath starts to go after her inner circle, Tree soon realizes that she must die over and over again to save everyone.",
+                "release_date": 1550016000,
+                "genres": [
+                    "Comedy",
+                    "Horror",
+                    "Science Fiction"
+                ]
+            },
+            {
+                "id": "500682",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "name": "The Highwaymen",
+                "img": "https://image.tmdb.org/t/p/w500/4bRYg4l12yDuJvAfqvUOPnBrxno.jpg",
+                "overview": "In 1934, Frank Hamer and Manny Gault, two former Texas Rangers, are commissioned to put an end to the wave of vicious crimes perpetrated by Bonnie Parker and Clyde Barrow, a notorious duo of infamous robbers and cold-blooded killers who nevertheless are worshiped by the public.",
+                "release_date": 1552608000,
+                "genres": [
+                    "Music"
+                ]
+            },
+            {
+                "id": "454294",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "name": "The Kid Who Would Be King",
+                "img": "https://image.tmdb.org/t/p/w500/kBuvLX6zynQP0sjyqbXV4jNaZ4E.jpg",
+                "overview": "Old-school magic meets the modern world when young Alex stumbles upon the mythical sword Excalibur. He soon unites his friends and enemies, and they become knights who join forces with the legendary wizard Merlin. Together, they must save mankind from the wicked enchantress Morgana and her army of supernatural warriors.",
+                "release_date": 1547596800,
+                "genres": [
+                    "Action",
+                    "Adventure",
+                    "Fantasy",
+                    "Family"
+                ]
+            },
+            {
+                "id": "404368",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "name": "Ralph Breaks the Internet",
+                "img": "https://image.tmdb.org/t/p/w500/qEnH5meR381iMpmCumAIMswcQw2.jpg",
+                "overview": "Video game bad guy Ralph and fellow misfit Vanellope von Schweetz must risk it all by traveling to the World Wide Web in search of a replacement part to save Vanellope's video game, 'Sugar Rush.' In way over their heads, Ralph and Vanellope rely on the citizens of the internet -- the netizens -- to help navigate their way, including an entrepreneur named Yesss, who is the head algorithm and the heart and soul of trend-making site BuzzzTube.",
+                "release_date": 1542672000,
+                "genres": [
+                    "Family",
+                    "Animation",
+                    "Comedy",
+                    "Adventure"
+                ]
+            },
+            {
+                "id": "338952",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "name": "Fantastic Beasts: The Crimes of Grindelwald",
+                "img": "https://image.tmdb.org/t/p/w500/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg",
+                "overview": "Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.",
+                "release_date": 1542153600,
+                
+            },
+            {
+                "id": "399579",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "name": "Alita: Battle Angel",
+                "img": "https://image.tmdb.org/t/p/w500/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+                "overview": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
+                "release_date": 1548892800,
+                "genres": [
+                    "Action",
+                    "Science Fiction"
+                ]
+            },
+            {
+                "id": "118340",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "name": "Guardians of the Galaxy",
+                "img": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+                "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+                "release_date": 1406682000,
+                "genres": []
+            },
+            {
+                "id": "284053",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "name": "Thor: Ragnarok",
+                "img": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+                "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.",
+                "release_date": 1508893200,
+                "genres": [
+                    "Action",
+                    "Adventure",
+                    "Comedy",
+                    "Fantasy"
+                ]
+            },
+            {
+                "id": "424694",
+               "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "name": "Bohemian Rhapsody",
+                "img": "https://image.tmdb.org/t/p/w500/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+                "overview": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+                "release_date": 1540342800,
+                "genres": [
+                    "Music",
+                    "Documentary"
+                ]
+            },
+            {
+                "id": "284054",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "name": "Black Panther",
+                "img": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+                "overview": "King T'Challa returns home from America to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantel to join with girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+                "release_date": 1518480000,
+                "genres": [
+                    "Family",
+                    "Drama"
+                ]
+            },
+            {
+                "id": "335983",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "name": "Venom",
+                "img": "https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+                "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+                "release_date": 1538096400,
+                "genres": [
+                    "Thriller"
+                ]
+            },
+            {
+                "id": "440472",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "name": "The Upside",
+                "img": "https://image.tmdb.org/t/p/w500/hPZ2caow1PCND6qnerfgn6RTXdm.jpg",
+                "overview": "Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who's trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.",
+                "release_date": 1547078400,
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "id": "363088",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "name": "Ant-Man and the Wasp",
+                "img": "https://image.tmdb.org/t/p/w500/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg",
+                "overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+                "release_date": 1530666000,
+               
+            },
+            {
+                "id": "351286",
+                "name": "Jurassic World: Fallen Kingdom",
+                "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+                "img": "https://image.tmdb.org/t/p/w500/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg",
+                "overview": "Three years after the demise of Jurassic World, a volcanic eruption threatens the remaining dinosaurs on the isla Nublar, so Claire Dearing, the former park manager, recruits Owen Grady to help prevent the extinction of the dinosaurs once again.",
+                "release_date": 1528246800,
+                "genres": [
+                    "Action",
+                    "Adventure",
+                    "Science Fiction"
+                ]
+            }
+       
+    ]
 }
