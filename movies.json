@@ -525,8 +525,7 @@
          "id":"16",
          "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
          "name":"Spider-Man: Homecoming",
-         "img":"https://i.pinimg.com/originals/e6/a2/5a/e6a25a2855e741f7461fe1698db3153a.jpg",
-         "release_date":"2017-07-05"
+         "img":"https://i.pinimg.com/originals/e6/a2/5a/e6a25a2855e741f7461fe1698db3153a.jpg""release_date":"2017-07-05"
       }
    ]
 }
