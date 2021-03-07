@@ -306,7 +306,7 @@
       },
       {
          "id":"15",
-         "series":"t",
+         "series":"True",
          "vid":"https://raw.githubusercontent.com/MagnoCerebri/movieslistapi/main/Animes/OnePunchMan.json",
          "name":"One Punch Man S1",
          "img":"https://m.media-amazon.com/images/M/MV5BMTNmZDE2NDEtNTg3MS00OTE1LThlZGUtOGZkZTg0NTUyNGVmXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
