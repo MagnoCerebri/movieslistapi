@@ -1,1 +1,52 @@
-
+{
+  "story":{
+    "story":"It tells the story of Saitama, a superhero who can defeat any opponent with a single punch but seeks to find a worthy opponent after growing bored by a lack of challenge due to his overwhelming strength"},
+      
+   "episodes":[
+      {
+         
+         "name":"Ep-1 Filmed Before a Live Studio Audience",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+      },
+{
+         
+         "name":"Ep-2 Don't Touch That Dial",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+      },
+{
+         
+         "name":"Ep-3 Now in Color",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+      },
+{
+         
+         "name":"Ep-4 We Interrupt This Program",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+      },
+{
+         
+         "name":"Ep-5 On a Very Special Episode...",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+      },
+{
+         
+         "name":"Ep-6 All-New Halloween Spooktacular!",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+      },
+{
+         
+         "name":"Ep-7 Breaking the Fourth Wall",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+      },
+{
+         
+         "name":"Ep-8 Previously On",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+      },
+{
+         
+         "name":"Ep-9 The Series Finale",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+      }
+ ]
+}
