@@ -26,6 +26,13 @@
          "vid":"https://cutt.ly/ejhmkzs"
       },
       {
+         "id":"15",
+         "series":"True",
+         "vid":"https://raw.githubusercontent.com/MagnoCerebri/movieslistapi/main/Animes/Attack on Titan S1.json",
+         "name":"Attack on Titan S1",
+         "img":"https://resizing.flixster.com/cYT0gW23UZWexqWoHqvu5fBejNI=/fit-in/1152x864/v1.dDszMTg1MTI7ajsxODcwNjsxMjAwOzEyMDA7MTgwMA"
+      },
+      {
          "img":"https://m.media-amazon.com/images/I/51lvxZDKppL.jpg",
          "name":"Avengers: Endgame",
          "series":"False",
