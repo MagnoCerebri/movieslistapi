@@ -1,1 +1,155 @@
-
+{
+   "movies":[
+     {
+         "id":"15",
+         "series":"False",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "name":"Guardians of the Galaxy Vol. 2",
+         "img":"https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_UY1200_CR89,0,630,1200_AL_.jpg"
+      },
+     {
+         "id":"4",
+         "series":"False",
+         "name":"Thor",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "release_date":"2011-04-21",
+         "img":"https://images-na.ssl-images-amazon.com/images/I/511PQT86A0L._AC_.jpg"
+      },
+      {
+         "id":"5",
+         "series":"False",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "name":"Captain America: The First Avenger",
+         "release_date":"2011-07-22",
+         "img":"https://i.pinimg.com/originals/c9/50/47/c95047c24210408fbfd142fd7754a860.jpg"
+      },
+     
+      
+      {
+         "id":"11",
+         "series":"False",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "name":"Avengers: Age of Ultron",
+         "img":"https://meshthemoviefreak.files.wordpress.com/2015/05/avengers-age-of-ultron-movie-poster-marvel.jpg?w=603&h=804",
+         "release_date":"2015-04-22"
+      },
+      
+      {
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "id":"14",
+         "series":"False",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "name":"Doctor Strange",
+         "img":"https://www.joblo.com/assets/images/oldsite/posters/images/full/Doctor_Strange_IMAX_3D_Preview_Exclusive_Poster_thumb.jpg",
+         "release_date":"2016-10-25"
+      },{
+         "id":"363088",
+         "series":"False",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "name":"Ant-Man and the Wasp",
+         "img":"https://image.tmdb.org/t/p/w500/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg",
+         "overview":"Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+         "release_date":1530666000
+      },
+     {
+         "id":"284054",
+         "series":"False",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "name":"Black Panther",
+         "img":"https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+         "overview":"King T'Challa returns home from America to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantel to join with girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+         "release_date":1518480000,
+         "genres":[
+            "Family",
+            "Drama"
+         ]
+      },
+     {
+         "id":"118340",
+         "series":"False",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "name":"Guardians of the Galaxy",
+         "img":"https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+         "overview":"Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+         "release_date":1406682000,
+         "genres":[
+            
+         ]
+      },
+     {
+         "id":"297802",
+         "series":"False",
+         "name":"Aquaman",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "img":"https://image.tmdb.org/t/p/w500/5Kg76ldv7VxeX9YlcQXiowHgdX6.jpg",
+         "overview":"Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne.",
+         "release_date":1544140800,
+         "genres":[
+            "Action",
+            "Adventure",
+            "TV Movie"
+         ]
+      },
+     {
+         "id":"15",
+         "series":"True",
+         "vid":"https://raw.githubusercontent.com/MagnoCerebri/movieslistapi/main/Animes/OnePunchMan.json",
+         "name":"One Punch Man S1",
+         "img":"https://m.media-amazon.com/images/M/MV5BMTNmZDE2NDEtNTg3MS00OTE1LThlZGUtOGZkZTg0NTUyNGVmXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+      },
+     {
+         "id":"299536",
+         "name":"Avengers: Infinity War",
+         "series":"False",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "img":"https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+      },
+      {
+         "id":"287947",
+         "series":"False",
+         "name":"Shazam!",
+         "img":"https://image.tmdb.org/t/p/w500/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+         "overview":"A boy is given the ability to become an adult superhero in times of need with a single magic word.",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+      },
+      {
+         "id":"299537",
+         "series":"False",
+         "name":"Captain Marvel",
+         "img":"https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+      },{
+         "name":"The Avengers",
+         "series":"False",
+         "vid":"https://m.media-amazon.com/images/I/719SFBdxRtL._AC_SL1000_.jpg",
+         "img":"https://www.vintagemovieposters.co.uk/wp-content/uploads/2018/04/IMG_3059-482x714.jpg"
+      },{
+         "id":"15",
+         "series":"True",
+         "vid":"https://raw.githubusercontent.com/MagnoCerebri/movieslistapi/main/Animes/WandaVision.json",
+         "name":"WandaVision",
+         "img":"https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2021/02/EtJXFJyVEAER0n3.jpeg"
+      },     {
+         "img":"https://m.media-amazon.com/images/I/51lvxZDKppL.jpg",
+         "name":"Avengers: Endgame",
+         "series":"False",
+         "vid":"https://cutt.ly/ejhQksM"
+      },
+      {
+         "img":"https://originalvintagemovieposters.com/wp-content/uploads/2020/03/Dark-Knight-70822-scaled.jpg",
+         "name":"The Dark Knight",
+         "series":"False",
+         "vid":"https://cutt.ly/ejhQx3g"
+      },
+     {
+         "img":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2FWonder%20Woman%201984%2Fww84.jpg?alt=media&token=f798987d-fc01-4ac1-a454-37941ff89b4d",
+         "name":"Wonder Woman 1984",
+         "series":"False",
+         "vid":"https://cutt.ly/ljhn6Xs"
+      }
+   
+   
+   
+   
+   
+   ]}
