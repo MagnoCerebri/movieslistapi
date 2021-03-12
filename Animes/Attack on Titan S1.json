@@ -1,5 +1,12 @@
 {
-  "img":"http://animationrevelation.com/readables/wp-content/uploads/2013/06/dmncap00001.png",
+  "img":[{"img":"http://animationrevelation.com/readables/wp-content/uploads/2013/06/dmncap00001.png"},
+         {"img":"https://wallpaperarc.com/wp-content/uploads/2020/06/Dina-Fritz-Smiling-Titan-Full-HD-Wallpaper-1920x1080-8.jpg"},
+         {"img":"https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/08/Levi-Ackerman-Facts-Cover-Image-1.jpg"},
+         {"img":"https://static.wikia.nocookie.net/shingekinokyojin/images/8/83/Eren_vs_Colossal_Titan.png/revision/latest?cb=20170623113218"},
+         {"img":"https://dailyanimeart.files.wordpress.com/2017/05/attack-on-titan-female-titan-by-waywayart.jpg?w=392&h=262&crop=1"},
+         {"img":"https://i.pinimg.com/originals/7a/0d/c2/7a0dc24f568b81a39ba1ce797f65d355.jpg"}
+        ],
+
   "story":{
     "story":""},
       
