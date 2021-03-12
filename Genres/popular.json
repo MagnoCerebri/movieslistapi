@@ -1,1 +1,36 @@
+{
+   "movies":[
+     {
+         "img":"https://i.pinimg.com/originals/b1/40/47/b1404762a0deb618f8a38816ff9f861c.jpg",
+         "name":"Pirates Of the Caribbean: Salazar's Revenge",
+         "series":"False",
+         "vid":"https://cutt.ly/GjhQKdj"
+      },
+     {
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ9r3FS2oxe13mlahy9RfolAJIG3ESWeYkyg&usqp=CAU",
+         "name":"Joker",
+         "series":"False",
+         "vid":"https://cutt.ly/BjhEECg"
+      },
+     {
+         "name":"The Avengers",
+         "series":"False",
+         "vid":"https://m.media-amazon.com/images/I/719SFBdxRtL._AC_SL1000_.jpg",
+         "img":"https://www.vintagemovieposters.co.uk/wp-content/uploads/2018/04/IMG_3059-482x714.jpg"
+      },
+     {
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlr7H2HW_Y2tcgL8VnZJksk-0IpnHJt8-fYw&usqp=CAU",
+         "name":"The Matrix",
+         "series":"False",
+         "vid":"https://cutt.ly/fjhEaDr"
+      }
+   
+   
+   
+   
+   
+   
+   ]
 
+
+}
