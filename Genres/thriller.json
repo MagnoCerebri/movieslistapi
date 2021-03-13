@@ -13,6 +13,65 @@
             "Documentary",
             "Family"
          ]
+      },{
+         "img":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2FThe%20Devil%20All%20The%20Time%2FThe%20devl%20all%20the%20time%20pic.jpg?alt=media&token=0fe8323f-56a2-4d39-a4ff-c5848f54bebd",
+         "name":"The Devil All the Time",
+         "series":"False",
+         "vid":"https://cutt.ly/qjhvqsS"
+         
+      },
+      {
+         "id":"440472",
+         "series":"False",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "name":"The Upside",
+         "img":"https://image.tmdb.org/t/p/w500/hPZ2caow1PCND6qnerfgn6RTXdm.jpg",
+         "overview":"Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who's trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.",
+         "release_date":1547078400,
+         "genres":[
+            "Drama"
+         ]
+      },
+      {
+         "id":"335983",
+         "series":"False",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "name":"Venom",
+         "img":"https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+         "overview":"Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+         "release_date":1538096400,
+         "genres":[
+            "Thriller"
+         ]
+      },{
+         "id":"157433",
+         "series":"False",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "name":"Pet Sematary",
+         "img":"https://image.tmdb.org/t/p/w500/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg"
+      },{
+         "id":"450465",
+         "series":"False",
+         "name":"Glass",
+         "img":"https://image.tmdb.org/t/p/w500/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+      },{
+         "id":"522681",
+         "series":"False",
+         "name":"Escape Room",
+         "img":"https://image.tmdb.org/t/p/w500/8Ls1tZ6qjGzfGHjBB7ihOnf7f0b.jpg",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+      },{
+         "name":"Ad Astra",
+         "series":"False",
+         "img":"https://i.pinimg.com/originals/cb/1c/db/cb1cdb36c692f23438b7752d51f035f1.jpg",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "storyline":"Thirty years ago, Clifford McBride led a voyage into deep space, but the ship and crew were never heard from again. Now his son -- a fearless astronaut -- must embark on a daring mission to Neptune to uncover the truth about his missing father and a mysterious power surge that threatens the stability of the universe."
+      }, {
+         "name":"I Am Legend",
+         "series":"False",
+         "vid":"https://m.media-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+         "img":"https://static.wikia.nocookie.net/soundeffects/images/2/2d/I_Am_Legend_%282007%29_Movie_Poster.jpg/revision/latest/scale-to-width-down/340?cb=20190806041307"
       }
 
    
