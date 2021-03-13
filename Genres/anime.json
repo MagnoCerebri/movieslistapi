@@ -1,1 +1,18 @@
-
+{
+   "movies":[
+    {
+         "id":"15",
+         "series":"True",
+         "vid":"https://raw.githubusercontent.com/MagnoCerebri/movieslistapi/main/Animes/Attack on Titan S1.json",
+         "name":"Attack on Titan S1",
+         "img":"https://resizing.flixster.com/cYT0gW23UZWexqWoHqvu5fBejNI=/fit-in/1152x864/v1.dDszMTg1MTI7ajsxODcwNjsxMjAwOzEyMDA7MTgwMA"
+      },
+     {
+         "id":"15",
+         "series":"True",
+         "vid":"https://raw.githubusercontent.com/MagnoCerebri/movieslistapi/main/Animes/OnePunchMan.json",
+         "name":"One Punch Man S1",
+         "img":"https://m.media-amazon.com/images/M/MV5BMTNmZDE2NDEtNTg3MS00OTE1LThlZGUtOGZkZTg0NTUyNGVmXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+      }
+   
+   ]}
