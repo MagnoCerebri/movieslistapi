@@ -1,1 +1,16 @@
-
+{
+   "movies":[
+   {
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ9r3FS2oxe13mlahy9RfolAJIG3ESWeYkyg&usqp=CAU",
+         "name":"Joker",
+         "series":"False",
+         "vid":"https://cutt.ly/BjhEECg"
+      },
+     {
+         "img":"https://originalvintagemovieposters.com/wp-content/uploads/2020/03/Dark-Knight-70822-scaled.jpg",
+         "name":"The Dark Knight",
+         "series":"False",
+         "vid":"https://cutt.ly/ejhQx3g"
+      }
+   
+   ]}
