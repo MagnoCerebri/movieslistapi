@@ -1,1 +1,35 @@
-
+{
+   "movies":[
+   {
+         "img":"https://m.media-amazon.com/images/M/MV5BNzg1MzM3OWUtNjgzZC00NjMzLWE1NzAtOThiMDgyMjhhZDBhXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+         "name":"Spies in Disguise ",
+         "series":"False",
+         "vid":"https://cutt.ly/5jlHdhw"
+      },
+     {
+         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPIS3ORPw08TBy_JPNiod6Wcph7i3YvyLseg&usqp=CAU",
+         "name":"AK vs AK",
+         "series":"False",
+         "vid":"https://cutt.ly/IjhQ9sc"
+      },
+     {
+         "img":"https://m.media-amazon.com/images/M/MV5BMTAzMzI0NTMzNDBeQTJeQWpwZ15BbWU3MDM3NTAyOTM@._V1_.jpg",
+         "name":"Megamind",
+         "series":"False",
+         "vid":"https://cutt.ly/fjTDjoY"
+      },
+      {
+         "id":"329996",
+         "series":"False",
+         "name":"Dumbo",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "img":"https://image.tmdb.org/t/p/w500/deTOAcMWuHTjOUPQphwcPFFfTQz.jpg",
+         "overview":"A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.",
+         "release_date":1553644800,
+         "genres":[
+            "Adventure",
+            "Family",
+            "Fantasy"
+         ]
+      }
+   ]}
