@@ -1,1 +1,23 @@
+{
+   "movies":[
+   
+   {
+         "id":"458723",
+         "series":"False",
+         "name":"Us",
+         "img":"https://image.tmdb.org/t/p/w500/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+         "overview":"Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+         "release_date":1552521600,
+         "genres":[
+            "Documentary",
+            "Family"
+         ]
+      }
 
+   
+   ]
+
+
+
+}
