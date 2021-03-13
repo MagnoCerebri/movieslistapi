@@ -11,6 +11,34 @@
          "name":"The Dark Knight",
          "series":"False",
          "vid":"https://cutt.ly/ejhQx3g"
-      }
+      },
+      {
+        "name": "The Lord of the Rings: The Two Towers",
+         "series":"False",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+        "rank": "20",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/513kXgLe6ZL._AC_.jpg"
+    },
+      {
+        "name": "Toy Story 3",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+        "rank": "64",
+         "series":"False",
+        "img": "https://upload.wikimedia.org/wikipedia/en/6/69/Toy_Story_3_poster.jpg"
+    },
+      {
+        "name": "WALL·E",
+          "series":"False",
+          "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+        "rank": "62",
+        "img": "https://upload.wikimedia.org/wikipedia/en/c/c2/WALL-Eposter.jpg"
+    },
+       {
+        "name": "The Shining",
+         "series":"False",
+         "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+        "rank": "46",
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg/220px-The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg"
+    }
    
    ]}
