@@ -969,6 +969,84 @@
       "Drama",
       "Thriller"
     ]
+  },
+    {"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "id": "158852",
+    "name": "Tomorrowland",
+    "img": "https://image.tmdb.org/t/p/w500/iHh0nVGVODAFduF6Q6njdSSCEfX.jpg",
+    "overview": "Bound by a shared destiny, a bright, optimistic teen bursting with scientific curiosity and a former boy-genius inventor jaded by disillusionment embark on a danger-filled mission to unearth the secrets of an enigmatic place somewhere in time and space that exists in their collective memory as 'Tomorrowland.'",
+    "release_date": 1431997200,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Mystery",
+      "Science Fiction"
+    ]
+  },
+  {"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "id": "315837",
+    "name": "Ghost in the Shell",
+    "img": "https://image.tmdb.org/t/p/w500/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg",
+    "overview": "In the near future, Major is the first of her kind: a human saved from a terrible crash, then cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals.",
+    "release_date": 1490749200,
+    "genres": [
+      "Animation",
+      "Action",
+      "Science Fiction"
+    ]
+  },
+  {"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "id": "181533",
+    "name": "Night at the Museum: Secret of the Tomb",
+    "img": "https://image.tmdb.org/t/p/w500/xwgy305K6qDs3D20xUO4OZu1HPY.jpg",
+    "overview": "When the magic powers of The Tablet of Ahkmenrah begin to die out, Larry Daley spans the globe, uniting favorite and new characters while embarking on an epic quest to save the magic before it is gone forever.",
+    "release_date": 1418774400,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Family"
+    ]
+  },
+  {"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "id": "293167",
+    "name": "Kong: Skull Island",
+    "img": "https://image.tmdb.org/t/p/w500/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
+    "overview": "Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.",
+    "release_date": 1488931200,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  {"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "id": "452832",
+    "name": "Serenity",
+    "img": "https://image.tmdb.org/t/p/w500/hgWAcic93phg4DOuQ8NrsgQWiqu.jpg",
+    "overview": "Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.",
+    "release_date": 1548288000,
+    "genres": [
+      
+    ]
+  },
+  {"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "id": "674",
+    "name": "Harry Potter and the Goblet of Fire",
+    "img": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+    "overview": "Harry starts his fourth year at Hogwarts, competes in the treacherous Triwizard Tournament and faces the evil Lord Voldemort. Ron and Hermione help Harry manage the pressure – but Voldemort lurks, awaiting his chance to destroy Harry and all that he stands for.",
+    "release_date": 1132099200,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Family"
+    ]
   }
   ]
 }
