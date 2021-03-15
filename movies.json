@@ -631,6 +631,104 @@
       "release_date": "2011-04-21",
       "img": "https://images-na.ssl-images-amazon.com/images/I/511PQT86A0L._AC_.jpg"
     },
+    
+    "id": "280217",
+    "name": "The Lego Movie 2: The Second Part",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "img": "https://image.tmdb.org/t/p/w500/QTESAsBVZwjtGJNDP7utiGV37z.jpg",
+    "overview": "It's been five years since everything was awesome and the citizens are facing a huge new threat: LEGO DUPLO® invaders from outer space, wrecking everything faster than they can rebuild.",
+    "release_date": 1548460800,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Science Fiction",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": "135397",
+    "name": "Jurassic World",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "img": "https://image.tmdb.org/t/p/w500/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+    "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+    "release_date": 1433552400,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
+  },
+  {
+    "id": "245891",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "name": "John Wick",
+    "img": "https://image.tmdb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+    "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+    "release_date": 1413939600,
+    "genres": [
+      
+    ]
+  },
+  {
+    "id": "348350",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "name": "Solo: A Star Wars Story",
+    "img": "https://image.tmdb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+    "overview": "Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.",
+    "release_date": 1526346000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
+  },
+  {
+    "id": "543540",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "name": "The Perfect Date",
+    "img": "https://image.tmdb.org/t/p/w500/m5LqnnkN09124CSE8yGskeCv3kb.jpg",
+    "overview": "No beau? No problem! To earn money for college, a high schooler creates a dating app that lets him act as a stand-in boyfriend.",
+    "release_date": 1555030800,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ]
+  },
+  {
+    "id": "12444",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "name": "Harry Potter and the Deathly Hallows: Part 1",
+    "img": "https://image.tmdb.org/t/p/w500/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+    "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
+    "release_date": 1287277200,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": "198663",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "name": "The Maze Runner",
+    "img": "https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+    "overview": "Set in a post-apocalyptic world, young Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow “runners” for a shot at escape.",
+    "release_date": 1410310800,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ]
+  },
     {
       "id": "5",
       "series": "False",
