@@ -984,19 +984,7 @@
       "Science Fiction"
     ]
   },
-  {"series": "False",
-      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "315837",
-    "name": "Ghost in the Shell",
-    "img": "https://image.tmdb.org/t/p/w500/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg",
-    "overview": "In the near future, Major is the first of her kind: a human saved from a terrible crash, then cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals.",
-    "release_date": 1490749200,
-    "genres": [
-      "Animation",
-      "Action",
-      "Science Fiction"
-    ]
-  },
+  
   {"series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
     "id": "181533",
@@ -1119,17 +1107,7 @@
       "Adventure"
     ]
   },
-  {"series": "False",
-      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "553100",
-    "name": "Wild and Free",
-    "img": "https://image.tmdb.org/t/p/w500/pQJXFgeykKqdk9PdOgHl8ITewkC.jpg",
-    "overview": "Ellie and Jake fall in love, but struggle with their relationship when they discover an unexpected connection between their pasts.",
-    "release_date": 1539133200,
-    "genres": [
-      "Drama"
-    ]
-  },
+  
   {"series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
     "id": "93456",
