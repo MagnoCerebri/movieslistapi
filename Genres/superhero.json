@@ -89,7 +89,32 @@
             "Adventure",
             "TV Movie"
          ]
-      },
+      },{"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "id": "1724",
+    "name": "The Incredible Hulk",
+    "img": "https://image.tmdb.org/t/p/w500/2nBpExDoInX3VreBsIm9qOTqXs8.jpg",
+    "overview": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
+    "release_date": 1213232400,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure",
+      "Drama"
+    ]
+  },{"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+    "id": "102382",
+    "name": "The Amazing Spider-Man 2",
+    "img": "https://image.tmdb.org/t/p/w500/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",
+    "overview": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
+    "release_date": 1397610000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
      {
          "id":"15",
          "series":"True",
