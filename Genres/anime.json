@@ -6,7 +6,23 @@
          "vid":"https://raw.githubusercontent.com/MagnoCerebri/movieslistapi/main/Animes/Attack on Titan S1.json",
          "name":"Attack on Titan S1",
          "img":"https://resizing.flixster.com/cYT0gW23UZWexqWoHqvu5fBejNI=/fit-in/1152x864/v1.dDszMTg1MTI7ajsxODcwNjsxMjAwOzEyMDA7MTgwMA"
-      },{
+      },
+      {
+      "series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+      "id": "505262",
+      "name": "My Hero Academia: Two Heroes",
+      "img": "https://image.tmdb.org/t/p/w500/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg",
+      "overview": "All Might and Deku accept an invitation to go abroad to a floating and mobile manmade city, called 'I Island', where they research quirks as well as hero supplemental items at the special 'I Expo' convention that is currently being held on the island. During that time, suddenly, despite an iron wall of security surrounding the island, the system is breached by a villain, and the only ones able to stop him are the students of Class 1-A.",
+      "release_date": 1533258000,
+      "genres": [
+        "Animation",
+        "Action",
+        "Comedy",
+        "Fantasy",
+        "Adventure"
+      ]
+    },{
          "img":"https://occ-0-299-300.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABYJ9i23tprS4ke9NUY2AmpX6fLjnEQ6VJNSIS66dU3RbgCp0ssHm8paKYJZsGRK1XYEGqu3xxLJm3GTu3nX_Q-KuEhwo.jpg",
          "name":"Naruto Shippuden the Movie ",
          "series":"False",
