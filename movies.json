@@ -500,414 +500,429 @@
       "release_date": 1406682000,
       "genres": []
     },
-    {"series": "False",
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-     
-    "id": "505262",
-    "name": "My Hero Academia: Two Heroes",
-    "img": "https://image.tmdb.org/t/p/w500/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg",
-    "overview": "All Might and Deku accept an invitation to go abroad to a floating and mobile manmade city, called 'I Island', where they research quirks as well as hero supplemental items at the special 'I Expo' convention that is currently being held on the island. During that time, suddenly, despite an iron wall of security surrounding the island, the system is breached by a villain, and the only ones able to stop him are the students of Class 1-A.",
-    "release_date": 1533258000,
-    "genres": [
-      "Animation",
-      "Action",
-      "Comedy",
-      "Fantasy",
-      "Adventure"
-    ]
-  },
-{"series": "False",
+      "id": "505262",
+      "name": "My Hero Academia: Two Heroes",
+      "img": "https://image.tmdb.org/t/p/w500/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg",
+      "overview": "All Might and Deku accept an invitation to go abroad to a floating and mobile manmade city, called 'I Island', where they research quirks as well as hero supplemental items at the special 'I Expo' convention that is currently being held on the island. During that time, suddenly, despite an iron wall of security surrounding the island, the system is breached by a villain, and the only ones able to stop him are the students of Class 1-A.",
+      "release_date": 1533258000,
+      "genres": [
+        "Animation",
+        "Action",
+        "Comedy",
+        "Fantasy",
+        "Adventure"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "49051",
-    "name": "The Hobbit: An Unexpected Journey",
-    "img": "https://image.tmdb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
-    "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
-    "release_date": 1353888000,
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Action"
-    ]
-  },{"series": "False",
+      "id": "49051",
+      "name": "The Hobbit: An Unexpected Journey",
+      "img": "https://image.tmdb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+      "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+      "release_date": 1353888000,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "272",
-    "name": "Batman Begins",
-    "img": "https://image.tmdb.org/t/p/w500/1P3ZyEq02wcTMd3iE4ebtLvncvH.jpg",
-    "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
-    "release_date": 1118365200,
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ]
-  },
-   {"series": "False",
+      "id": "272",
+      "name": "Batman Begins",
+      "img": "https://image.tmdb.org/t/p/w500/1P3ZyEq02wcTMd3iE4ebtLvncvH.jpg",
+      "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+      "release_date": 1118365200,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "8355",
-    "name": "Ice Age: Dawn of the Dinosaurs",
-    "img": "https://image.tmdb.org/t/p/w500/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg",
-    "overview": "Times are changing for Manny the moody mammoth, Sid the motor mouthed sloth and Diego the crafty saber-toothed tiger. Life heats up for our heroes when they meet some new and none-too-friendly neighbors – the mighty dinosaurs.",
-    "release_date": 1246237200,
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Family",
-      "Adventure"
-    ]
-  }, {"series": "False",
+      "id": "8355",
+      "name": "Ice Age: Dawn of the Dinosaurs",
+      "img": "https://image.tmdb.org/t/p/w500/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg",
+      "overview": "Times are changing for Manny the moody mammoth, Sid the motor mouthed sloth and Diego the crafty saber-toothed tiger. Life heats up for our heroes when they meet some new and none-too-friendly neighbors – the mighty dinosaurs.",
+      "release_date": 1246237200,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Adventure"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "597",
-    "name": "Titanic",
-    "img": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
-    "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
-    "release_date": 879811200,
-    "genres": [
-      "Action",
-      "Drama",
-      "History"
-    ]
-  }, {"series": "False",
+      "id": "597",
+      "name": "Titanic",
+      "img": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+      "release_date": 879811200,
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "238636",
-    "name": "The Purge: Anarchy",
-    "img": "https://image.tmdb.org/t/p/w500/f2HD5iVhJWWv72QVWThUKk09zYy.jpg",
-    "overview": "One night per year, the government sanctions a 12-hour period in which citizens can commit any crime they wish -- including murder -- without fear of punishment or imprisonment. Leo, a sergeant who lost his son, plans a vigilante mission of revenge during the mayhem. However, instead of a death-dealing avenger, he becomes the unexpected protector of four innocent strangers who desperately need his help if they are to survive the night.",
-    "release_date": 1405558800,
-    "genres": [
-      "Horror",
-      "Thriller"
-    ]
-  },
-  {"series": "False",
+      "id": "238636",
+      "name": "The Purge: Anarchy",
+      "img": "https://image.tmdb.org/t/p/w500/f2HD5iVhJWWv72QVWThUKk09zYy.jpg",
+      "overview": "One night per year, the government sanctions a 12-hour period in which citizens can commit any crime they wish -- including murder -- without fear of punishment or imprisonment. Leo, a sergeant who lost his son, plans a vigilante mission of revenge during the mayhem. However, instead of a death-dealing avenger, he becomes the unexpected protector of four innocent strangers who desperately need his help if they are to survive the night.",
+      "release_date": 1405558800,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "206647",
-    "name": "Spectre",
-    "img": "https://image.tmdb.org/t/p/w500/672kUEMtTHcaVYSVY4eiHEliHFa.jpg",
-    "overview": "A cryptic message from Bond’s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.",
-    "release_date": 1445817600,
-    "genres": [
-      "TV Movie",
-      "Horror"
-    ]
-  },
-  {"series": "False",
+      "id": "206647",
+      "name": "Spectre",
+      "img": "https://image.tmdb.org/t/p/w500/672kUEMtTHcaVYSVY4eiHEliHFa.jpg",
+      "overview": "A cryptic message from Bond’s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.",
+      "release_date": 1445817600,
+      "genres": [
+        "TV Movie",
+        "Horror"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "1893",
-    "name": "Star Wars: Episode I - The Phantom Menace",
-    "img": "https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
-    "overview": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
-    "release_date": 927075600,
-    "genres": [
-      "Adventure",
-      "Action",
-      "Science Fiction"
-    ]
-  },{"series": "False",
+      "id": "1893",
+      "name": "Star Wars: Episode I - The Phantom Menace",
+      "img": "https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
+      "overview": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
+      "release_date": 927075600,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Science Fiction"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "812",
-    "name": "Aladdin",
-    "img": "https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
-    "overview": "Princess Jasmine grows tired of being forced to remain in the palace, so she sneaks out into the marketplace, in disguise, where she meets street-urchin Aladdin.  The couple falls in love, although Jasmine may only marry a prince.  After being thrown in jail, Aladdin becomes embroiled in a plot to find a mysterious lamp, with which the evil Jafar hopes to rule the land.",
-    "release_date": 722649600,
-    "genres": [
-      "Adventure",
-      "Family",
-      "Fantasy"
-    ]
-  },{"series": "False",
+      "id": "812",
+      "name": "Aladdin",
+      "img": "https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+      "overview": "Princess Jasmine grows tired of being forced to remain in the palace, so she sneaks out into the marketplace, in disguise, where she meets street-urchin Aladdin.  The couple falls in love, although Jasmine may only marry a prince.  After being thrown in jail, Aladdin becomes embroiled in a plot to find a mysterious lamp, with which the evil Jafar hopes to rule the land.",
+      "release_date": 722649600,
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-      "img": "https://images-na.ssl-images-amazon.com/images/I/91kFYg4fX3L.jpg"
-    "id": "98",
-    "name": "Gladiator",
-    "img": "https://image.tmdb.org/t/p/w500/ehGpN04mLJIrSnxcZBMvHeG0eDc.jpg",
-    "overview": "In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos.  Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor.  As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed.  He escapes, but is captured by slave traders.  Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences.",
-    "release_date": 957142800,
-    "genres": [
-      "Action",
-      "Drama",
-      "Adventure"
-    ]
-  }, {"series": "False",
+      "id": "98",
+      "name": "Gladiator",
+      "img": "https://image.tmdb.org/t/p/w500/ehGpN04mLJIrSnxcZBMvHeG0eDc.jpg",
+      "overview": "In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos.  Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor.  As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed.  He escapes, but is captured by slave traders.  Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences.",
+      "release_date": 957142800,
+      "genres": [
+        "Action",
+        "Drama",
+        "Adventure"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "217",
-    "name": "Indiana Jones and the Kingdom of the Crystal Skull",
-    "img": "https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg",
-    "overview": "Set during the Cold War, the Soviets – led by sword-wielding Irina Spalko – are in search of a crystal skull which has supernatural powers related to a mystical Lost City of Gold. After being captured and then escaping from them, Indy is coerced to head to Peru at the behest of a young man whose friend – and Indy's colleague – Professor Oxley has been captured for his knowledge of the skull's whereabouts.",
-    "release_date": 1211331600,
-    "genres": [
-      "Adventure",
-      "Action"
-    ]
-  },{"series": "False",
+      "id": "217",
+      "name": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "img": "https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg",
+      "overview": "Set during the Cold War, the Soviets – led by sword-wielding Irina Spalko – are in search of a crystal skull which has supernatural powers related to a mystical Lost City of Gold. After being captured and then escaping from them, Indy is coerced to head to Peru at the behest of a young man whose friend – and Indy's colleague – Professor Oxley has been captured for his knowledge of the skull's whereabouts.",
+      "release_date": 1211331600,
+      "genres": [
+        "Adventure",
+        "Action"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "57158",
-    "name": "The Hobbit: The Desolation of Smaug",
-    "img": "https://image.tmdb.org/t/p/w500/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
-    "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
-    "release_date": 1386720000,
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Action"
-    ]
-  },{"series": "False",
+      "id": "57158",
+      "name": "The Hobbit: The Desolation of Smaug",
+      "img": "https://image.tmdb.org/t/p/w500/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+      "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
+      "release_date": 1386720000,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "1369",
-    "name": "Rambo: First Blood Part II",
-    "img": "https://image.tmdb.org/t/p/w500/lIyUiHted0eWUceCx2ZHLnQGmgy.jpg",
-    "overview": "John Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he'd want to return - the jungles of Vietnam.",
-    "release_date": 485485200,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller",
-      "War"
-    ]
-  },
-  {"series": "False",
+      "id": "1369",
+      "name": "Rambo: First Blood Part II",
+      "img": "https://image.tmdb.org/t/p/w500/lIyUiHted0eWUceCx2ZHLnQGmgy.jpg",
+      "overview": "John Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he'd want to return - the jungles of Vietnam.",
+      "release_date": 485485200,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller",
+        "War"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "257445",
-    "name": "Goosebumps",
-    "img": "https://image.tmdb.org/t/p/w500/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg",
-    "overview": "After moving to a small town, Zach Cooper finds a silver lining when he meets next door neighbor Hannah, the daughter of bestselling Goosebumps series author R.L. Stine. When Zach unintentionally unleashes real monsters from their manuscripts and they begin to terrorize the town, it’s suddenly up to Stine, Zach and Hannah to get all of them back in the books where they belong.",
-    "release_date": 1438736400,
-    "genres": [
-      "Adventure",
-      "Horror",
-      "Comedy"
-    ]
-  }, {"series": "False",
+      "id": "257445",
+      "name": "Goosebumps",
+      "img": "https://image.tmdb.org/t/p/w500/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg",
+      "overview": "After moving to a small town, Zach Cooper finds a silver lining when he meets next door neighbor Hannah, the daughter of bestselling Goosebumps series author R.L. Stine. When Zach unintentionally unleashes real monsters from their manuscripts and they begin to terrorize the town, it’s suddenly up to Stine, Zach and Hannah to get all of them back in the books where they belong.",
+      "release_date": 1438736400,
+      "genres": [
+        "Adventure",
+        "Horror",
+        "Comedy"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "854",
-    "name": "The Mask",
-    "img": "https://image.tmdb.org/t/p/w500/zJUvFtaGPQkcQYE8nmhU66ESpWe.jpg",
-    "overview": "When timid bank clerk Stanley Ipkiss discovers a magical mask containing the spirit of the Norse god Loki, his entire life changes. While wearing the mask, Ipkiss becomes a supernatural playboy exuding charm and confidence which allows him to catch the eye of local nightclub singer Tina Carlyle. Unfortunately, under the mask's influence, Ipkiss also robs a bank, which angers junior crime lord Dorian Tyrell, whose goons get blamed for the heist.",
-    "release_date": 775443600,
-    "genres": [
-      "Action",
-      "Drama",
-      "Crime"
-    ]
-  },
-  {"series": "False",
+      "id": "854",
+      "name": "The Mask",
+      "img": "https://image.tmdb.org/t/p/w500/zJUvFtaGPQkcQYE8nmhU66ESpWe.jpg",
+      "overview": "When timid bank clerk Stanley Ipkiss discovers a magical mask containing the spirit of the Norse god Loki, his entire life changes. While wearing the mask, Ipkiss becomes a supernatural playboy exuding charm and confidence which allows him to catch the eye of local nightclub singer Tina Carlyle. Unfortunately, under the mask's influence, Ipkiss also robs a bank, which angers junior crime lord Dorian Tyrell, whose goons get blamed for the heist.",
+      "release_date": 775443600,
+      "genres": [
+        "Action",
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "442062",
-    "name": "Goosebumps 2: Haunted Halloween",
-    "img": "https://image.tmdb.org/t/p/w500/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg",
-    "overview": "Two boys face an onslaught from witches, monsters, ghouls and a talking dummy after they discover a mysterious book by author R. L. Stine.",
-    "release_date": 1539219600,
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Family",
-      "Horror"
-    ]
-  },{"series": "False",
+      "id": "442062",
+      "name": "Goosebumps 2: Haunted Halloween",
+      "img": "https://image.tmdb.org/t/p/w500/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg",
+      "overview": "Two boys face an onslaught from witches, monsters, ghouls and a talking dummy after they discover a mysterious book by author R. L. Stine.",
+      "release_date": 1539219600,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Family",
+        "Horror"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "102651",
-    "name": "Maleficent",
-    "img": "https://image.tmdb.org/t/p/w500/ik8PugpL41s137RAWEGTAWu0dPo.jpg",
-    "overview": "A beautiful, pure-hearted young woman, Maleficent has an idyllic life growing up in a peaceable forest kingdom, until one day when an invading army threatens the harmony of the land.  Maleficent rises to be the land's fiercest protector, but she ultimately suffers a ruthless betrayal – an act that begins to turn her heart into stone. Bent on revenge, Maleficent faces an epic battle with the invading King's successor and, as a result, places a curse upon his newborn infant Aurora. As the child grows, Maleficent realizes that Aurora holds the key to peace in the kingdom – and to Maleficent's true happiness as well.",
-    "release_date": 1401238800,
-    "genres": [
-      "Fantasy",
-      "Adventure",
-      "Action",
-      "Family",
-      "Romance"
-    ]
-  },{"series": "False",
+      "id": "102651",
+      "name": "Maleficent",
+      "img": "https://image.tmdb.org/t/p/w500/ik8PugpL41s137RAWEGTAWu0dPo.jpg",
+      "overview": "A beautiful, pure-hearted young woman, Maleficent has an idyllic life growing up in a peaceable forest kingdom, until one day when an invading army threatens the harmony of the land.  Maleficent rises to be the land's fiercest protector, but she ultimately suffers a ruthless betrayal – an act that begins to turn her heart into stone. Bent on revenge, Maleficent faces an epic battle with the invading King's successor and, as a result, places a curse upon his newborn infant Aurora. As the child grows, Maleficent realizes that Aurora holds the key to peace in the kingdom – and to Maleficent's true happiness as well.",
+      "release_date": 1401238800,
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Action",
+        "Family",
+        "Romance"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "14161",
-    "name": "2012",
-    "img": "https://image.tmdb.org/t/p/w500/zaqam2RNscH5ooYFWInV6hjx6y5.jpg",
-    "overview": "Dr. Adrian Helmsley, part of a worldwide geophysical team investigating the effect on the earth of radiation from unprecedented solar storms, learns that the earth's core is heating up. He warns U.S. President Thomas Wilson that the crust of the earth is becoming unstable and that without proper preparations for saving a fraction of the world's population, the entire race is doomed. Meanwhile, writer Jackson Curtis stumbles on the same information. While the world's leaders race to build 'arks' to escape the impending cataclysm, Curtis struggles to find a way to save his family. Meanwhile, volcanic eruptions and earthquakes of unprecedented strength wreak havoc around the world.",
-    "release_date": 1255136400,
-    "genres": [
-      "Drama",
-      "Romance"
-    ]
-  },{"series": "False",
+      "id": "14161",
+      "name": "2012",
+      "img": "https://image.tmdb.org/t/p/w500/zaqam2RNscH5ooYFWInV6hjx6y5.jpg",
+      "overview": "Dr. Adrian Helmsley, part of a worldwide geophysical team investigating the effect on the earth of radiation from unprecedented solar storms, learns that the earth's core is heating up. He warns U.S. President Thomas Wilson that the crust of the earth is becoming unstable and that without proper preparations for saving a fraction of the world's population, the entire race is doomed. Meanwhile, writer Jackson Curtis stumbles on the same information. While the world's leaders race to build 'arks' to escape the impending cataclysm, Curtis struggles to find a way to save his family. Meanwhile, volcanic eruptions and earthquakes of unprecedented strength wreak havoc around the world.",
+      "release_date": 1255136400,
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "324552",
-    "name": "John Wick: Chapter 2",
-    "img": "https://image.tmdb.org/t/p/w500/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
-    "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
-    "release_date": 1486512000,
-    "genres": [
-      "Documentary"
-    ]
-  },{"series": "False",
+      "id": "324552",
+      "name": "John Wick: Chapter 2",
+      "img": "https://image.tmdb.org/t/p/w500/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+      "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
+      "release_date": 1486512000,
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "10587",
-    "name": "Police Academy 4: Citizens on Patrol",
-    "img": "https://image.tmdb.org/t/p/w500/vvk5aWBJE3EqDX2ln6M4J4UiUXr.jpg",
-    "overview": "A new batch of recruits arrives at Police Academy, this time a group of civilian volunteers who have joined Commandant Lassard's new Citizens on Patrol program. Although the community relations project has strong governmental support, a disgusted Captain Harris is determined to see it fail.",
-    "release_date": 544323600,
-    "genres": [
-      "Comedy",
-      "Crime"
-    ]
-  },
-  {"series": "False",
+      "id": "10587",
+      "name": "Police Academy 4: Citizens on Patrol",
+      "img": "https://image.tmdb.org/t/p/w500/vvk5aWBJE3EqDX2ln6M4J4UiUXr.jpg",
+      "overview": "A new batch of recruits arrives at Police Academy, this time a group of civilian volunteers who have joined Commandant Lassard's new Citizens on Patrol program. Although the community relations project has strong governmental support, a disgusted Captain Harris is determined to see it fail.",
+      "release_date": 544323600,
+      "genres": [
+        "Comedy",
+        "Crime"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "557",
-    "name": "Spider-Man",
-    "img": "https://image.tmdb.org/t/p/w500/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
-    "overview": "After being bitten by a genetically altered spider, nerdy high school student Peter Parker is endowed with amazing powers.",
-    "release_date": 1020214800,
-    "genres": [
-      
-    ]
-  },{"series": "False",
+      "id": "557",
+      "name": "Spider-Man",
+      "img": "https://image.tmdb.org/t/p/w500/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
+      "overview": "After being bitten by a genetically altered spider, nerdy high school student Peter Parker is endowed with amazing powers.",
+      "release_date": 1020214800,
+      "genres": []
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "330459",
-    "name": "Rogue One: A Star Wars Story",
-    "img": "https://image.tmdb.org/t/p/w500/5jX3p0apUG5bkMHtnKZch0xpkBS.jpg",
-    "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
-    "release_date": 1481673600,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ]
-  },{"series": "False",
+      "id": "330459",
+      "name": "Rogue One: A Star Wars Story",
+      "img": "https://image.tmdb.org/t/p/w500/5jX3p0apUG5bkMHtnKZch0xpkBS.jpg",
+      "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+      "release_date": 1481673600,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "41439",
-    "name": "Saw: The Final Chapter",
-    "img": "https://image.tmdb.org/t/p/w500/z0pT5jNWwSdazvrqPBVs1sdKjxu.jpg",
-    "overview": "As a deadly battle rages over Jigsaw's brutal legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.",
-    "release_date": 1287622800
-  },{"series": "False",
+      "id": "41439",
+      "name": "Saw: The Final Chapter",
+      "img": "https://image.tmdb.org/t/p/w500/z0pT5jNWwSdazvrqPBVs1sdKjxu.jpg",
+      "overview": "As a deadly battle rages over Jigsaw's brutal legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.",
+      "release_date": 1287622800
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-      "img": "https://images-na.ssl-images-amazon.com/images/I/91kFYg4fX3L.jpg"
-    "id": "480414",
-    "name": "The Curse of La Llorona",
-    "img": "https://image.tmdb.org/t/p/w500/jhZlXSnFUpNiLAek9EkPrtLEWQI.jpg",
-    "overview": "A social worker dealing with the disappearance of two children fears for her own family after beginning the investigation.",
-    "release_date": 1555462800,
-    "genres": [
-      "Thriller",
-      "Horror",
-      "Mystery"
-    ]
-  },{"series": "False",
+      "id": "480414",
+      "name": "The Curse of La Llorona",
+      "img": "https://image.tmdb.org/t/p/w500/jhZlXSnFUpNiLAek9EkPrtLEWQI.jpg",
+      "overview": "A social worker dealing with the disappearance of two children fears for her own family after beginning the investigation.",
+      "release_date": 1555462800,
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Mystery"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "106",
-    "name": "Predator",
-    "img": "https://image.tmdb.org/t/p/w500/biznhvfedHPp9GKjlVFXH6OZtyU.jpg",
-    "overview": "Dutch and his group of commandos are hired by the CIA to rescue downed airmen from guerillas in a Central American jungle. The mission goes well but as they return they find that something is hunting them. Nearly invisible, it blends in with the forest, taking trophies from the bodies of its victims as it goes along. Occasionally seeing through its eyes, the audience sees it is an intelligent alien hunter, hunting them for sport, killing them off one at a time.",
-    "release_date": 550458000,
-    "genres": [
-      "Horror",
-      "Thriller",
-      "Crime",
-      "Drama",
-      "Mystery"
-    ]
-  },{"series": "False",
+      "id": "106",
+      "name": "Predator",
+      "img": "https://image.tmdb.org/t/p/w500/biznhvfedHPp9GKjlVFXH6OZtyU.jpg",
+      "overview": "Dutch and his group of commandos are hired by the CIA to rescue downed airmen from guerillas in a Central American jungle. The mission goes well but as they return they find that something is hunting them. Nearly invisible, it blends in with the forest, taking trophies from the bodies of its victims as it goes along. Occasionally seeing through its eyes, the audience sees it is an intelligent alien hunter, hunting them for sport, killing them off one at a time.",
+      "release_date": 550458000,
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "177677",
-    "name": "Mission: Impossible - Rogue Nation",
-    "img": "https://image.tmdb.org/t/p/w500/oUDKymEL932AeHyl4A4ee8zuBLF.jpg",
-    "overview": "Ethan and team take on their most impossible mission yet—eradicating 'The Syndicate', an International and highly-skilled rogue organisation committed to destroying the IMF.",
-    "release_date": 1437613200,
-    "genres": [
-      "Action",
-      "Adventure"
-    ]
-  },
-  {"series": "False",
+      "id": "177677",
+      "name": "Mission: Impossible - Rogue Nation",
+      "img": "https://image.tmdb.org/t/p/w500/oUDKymEL932AeHyl4A4ee8zuBLF.jpg",
+      "overview": "Ethan and team take on their most impossible mission yet—eradicating 'The Syndicate', an International and highly-skilled rogue organisation committed to destroying the IMF.",
+      "release_date": 1437613200,
+      "genres": [
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "281338",
-    "name": "War for the Planet of the Apes",
-    "img": "https://image.tmdb.org/t/p/w500/ijQHiImv16vNSeZQsmih04kwn0C.jpg",
-    "overview": "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.",
-    "release_date": 1499734800,
-    "genres": [
-      "Drama",
-      "Science Fiction",
-      "War"
-    ]
-  },
-  {"series": "False",
+      "id": "281338",
+      "name": "War for the Planet of the Apes",
+      "img": "https://image.tmdb.org/t/p/w500/ijQHiImv16vNSeZQsmih04kwn0C.jpg",
+      "overview": "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.",
+      "release_date": 1499734800,
+      "genres": [
+        "Drama",
+        "Science Fiction",
+        "War"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "408",
-    "name": "Snow White and the Seven Dwarfs",
-    "img": "https://image.tmdb.org/t/p/w500/b43jrEguirXjtAVgXMiTvs8wUhC.jpg",
-    "overview": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
-    "release_date": -1010880000,
-    "genres": [
-      "Romance",
-      "Fantasy"
-    ]
-  },{"series": "False",
+      "id": "408",
+      "name": "Snow White and the Seven Dwarfs",
+      "img": "https://image.tmdb.org/t/p/w500/b43jrEguirXjtAVgXMiTvs8wUhC.jpg",
+      "overview": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as 'the fairest in the land,' and Snow White's beauty surpasses her own.",
+      "release_date": -1010880000,
+      "genres": [
+        "Romance",
+        "Fantasy"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "2062",
-    "name": "Ratatouille",
-    "img": "https://image.tmdb.org/t/p/w500/npHNjldbeTHdKKw28bJKs7lzqzj.jpg",
-    "overview": "A rat named Remy dreams of becoming a great French chef despite his family's wishes and the obvious problem of being a rat in a decidedly rodent-phobic profession. When fate places Remy in the sewers of Paris, he finds himself ideally situated beneath a restaurant made famous by his culinary hero, Auguste Gusteau. Despite the apparent dangers of being an unlikely - and certainly unwanted - visitor in the kitchen of a fine French restaurant, Remy's passion for cooking soon sets into motion a hilarious and exciting rat race that turns the culinary world of Paris upside down.",
-    "release_date": 1182474000,
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Family",
-      "Fantasy"
-    ]
-  },
-  {"series": "False",
+      "id": "2062",
+      "name": "Ratatouille",
+      "img": "https://image.tmdb.org/t/p/w500/npHNjldbeTHdKKw28bJKs7lzqzj.jpg",
+      "overview": "A rat named Remy dreams of becoming a great French chef despite his family's wishes and the obvious problem of being a rat in a decidedly rodent-phobic profession. When fate places Remy in the sewers of Paris, he finds himself ideally situated beneath a restaurant made famous by his culinary hero, Auguste Gusteau. Despite the apparent dangers of being an unlikely - and certainly unwanted - visitor in the kitchen of a fine French restaurant, Remy's passion for cooking soon sets into motion a hilarious and exciting rat race that turns the culinary world of Paris upside down.",
+      "release_date": 1182474000,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "71676",
-    "name": "Ghost Rider: Spirit of Vengeance",
-    "img": "https://image.tmdb.org/t/p/w500/fDtIZXLNreDHk3mOskJYABrQNOQ.jpg",
-    "overview": "When the devil resurfaces with aims to take over the world in human form, Johnny Blaze reluctantly comes out of hiding to transform into the flame-spewing supernatural hero Ghost Rider -- and rescue a 10-year-old boy from an unsavory end.",
-    "release_date": 1323475200,
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Thriller"
-    ]
-  },
-  {"series": "False",
+      "id": "71676",
+      "name": "Ghost Rider: Spirit of Vengeance",
+      "img": "https://image.tmdb.org/t/p/w500/fDtIZXLNreDHk3mOskJYABrQNOQ.jpg",
+      "overview": "When the devil resurfaces with aims to take over the world in human form, Johnny Blaze reluctantly comes out of hiding to transform into the flame-spewing supernatural hero Ghost Rider -- and rescue a 10-year-old boy from an unsavory end.",
+      "release_date": 1323475200,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Thriller"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-
-    "id": "72190",
-    "name": "World War Z",
-    "img": "https://image.tmdb.org/t/p/w500/1SWBSYJsnyhdNRfLI1T6RsCxAQ4.jpg",
-    "overview": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-    "release_date": 1371690000,
-    "genres": [
-      
-    ]
-  },
+      "id": "72190",
+      "name": "World War Z",
+      "img": "https://image.tmdb.org/t/p/w500/1SWBSYJsnyhdNRfLI1T6RsCxAQ4.jpg",
+      "overview": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+      "release_date": 1371690000,
+      "genres": []
+    },
     {
       "id": "284053",
       "series": "False",
@@ -1031,68 +1046,73 @@
       "rank": "62",
       "img": "https://upload.wikimedia.org/wikipedia/en/c/c2/WALL-Eposter.jpg"
     },
-    {"series": "False",
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "293660",
-    "name": "Deadpool",
-    "img": "https://image.tmdb.org/t/p/w500/yGSxMiF0cYuAiyuve5DA6bnWEOI.jpg",
-    "overview": "Deadpool tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
-    "release_date": 1454976000,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ]
-  },
-  {"series": "False",
+      "id": "293660",
+      "name": "Deadpool",
+      "img": "https://image.tmdb.org/t/p/w500/yGSxMiF0cYuAiyuve5DA6bnWEOI.jpg",
+      "overview": "Deadpool tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+      "release_date": 1454976000,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "332562",
-    "name": "A Star Is Born",
-    "img": "https://image.tmdb.org/t/p/w500/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
-    "overview": "Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
-    "release_date": 1538528400,
-    "genres": [
-      "Documentary",
-      "Music"
-    ]
-  },
-  {"series": "False",
+      "id": "332562",
+      "name": "A Star Is Born",
+      "img": "https://image.tmdb.org/t/p/w500/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "overview": "Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+      "release_date": 1538528400,
+      "genres": [
+        "Documentary",
+        "Music"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "426563",
-    "name": "Holmes & Watson",
-    "img": "https://image.tmdb.org/t/p/w500/orEUlKndjV1rEcWqXbbjegjfv97.jpg",
-    "overview": "Detective Sherlock Holmes and Dr. John Watson join forces to investigate a murder at Buckingham Palace. They soon learn that they have only four days to solve the case, or the queen will become the next victim.",
-    "release_date": 1545696000,
-    "genres": [
-      "Mystery",
-      "Adventure",
-      "Comedy",
-      "Crime"
-    ]
-  },
-  {"series": "False",
+      "id": "426563",
+      "name": "Holmes & Watson",
+      "img": "https://image.tmdb.org/t/p/w500/orEUlKndjV1rEcWqXbbjegjfv97.jpg",
+      "overview": "Detective Sherlock Holmes and Dr. John Watson join forces to investigate a murder at Buckingham Palace. They soon learn that they have only four days to solve the case, or the queen will become the next victim.",
+      "release_date": 1545696000,
+      "genres": [
+        "Mystery",
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "429197",
-    "name": "Vice",
-    "img": "https://image.tmdb.org/t/p/w500/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
-    "overview": "George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney's impressive résumé includes stints as White House chief of staff, House Minority Whip and defense secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.",
-    "release_date": 1545696000,
-    "genres": [
-      "Action",
-      "Thriller"
-    ]
-  },
-  {"series": "False",
+      "id": "429197",
+      "name": "Vice",
+      "img": "https://image.tmdb.org/t/p/w500/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+      "overview": "George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney's impressive résumé includes stints as White House chief of staff, House Minority Whip and defense secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.",
+      "release_date": 1545696000,
+      "genres": [
+        "Action",
+        "Thriller"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "335984",
-    "name": "Blade Runner 2049",
-    "img": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
-    "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
-    "release_date": 1507078800,
-    "genres": [
-      "Documentary"
-    ]
-  },
+      "id": "335984",
+      "name": "Blade Runner 2049",
+      "img": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+      "release_date": 1507078800,
+      "genres": [
+        "Documentary"
+      ]
+    },
     {
       "id": "4",
       "series": "False",
@@ -1102,103 +1122,101 @@
       "img": "https://images-na.ssl-images-amazon.com/images/I/511PQT86A0L._AC_.jpg"
     },
     {
-    "id": "280217",
-    "name": "The Lego Movie 2: The Second Part",
-"series": "False",
+      "id": "280217",
+      "name": "The Lego Movie 2: The Second Part",
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "img": "https://image.tmdb.org/t/p/w500/QTESAsBVZwjtGJNDP7utiGV37z.jpg",
-    "overview": "It's been five years since everything was awesome and the citizens are facing a huge new threat: LEGO DUPLO® invaders from outer space, wrecking everything faster than they can rebuild.",
-    "release_date": 1548460800,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Animation",
-      "Comedy",
-      "Family",
-      "Science Fiction",
-      "Fantasy"
-    ]
-  },
-  {
-    "id": "135397",
-    "name": "Jurassic World",
-"series": "False",
+      "img": "https://image.tmdb.org/t/p/w500/QTESAsBVZwjtGJNDP7utiGV37z.jpg",
+      "overview": "It's been five years since everything was awesome and the citizens are facing a huge new threat: LEGO DUPLO® invaders from outer space, wrecking everything faster than they can rebuild.",
+      "release_date": 1548460800,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Science Fiction",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "135397",
+      "name": "Jurassic World",
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "img": "https://image.tmdb.org/t/p/w500/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
-    "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-    "release_date": 1433552400,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ]
-  },
-  {
-    "id": "245891",
-"series": "False",
+      "img": "https://image.tmdb.org/t/p/w500/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+      "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+      "release_date": 1433552400,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ]
+    },
+    {
+      "id": "245891",
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "name": "John Wick",
-    "img": "https://image.tmdb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
-    "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
-    "release_date": 1413939600,
-    "genres": [
-      
-    ]
-  },
-  {
-    "id": "348350",
-"series": "False",
+      "name": "John Wick",
+      "img": "https://image.tmdb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+      "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+      "release_date": 1413939600,
+      "genres": []
+    },
+    {
+      "id": "348350",
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "name": "Solo: A Star Wars Story",
-    "img": "https://image.tmdb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
-    "overview": "Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.",
-    "release_date": 1526346000,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ]
-  },
-  {
-    "id": "543540",
-"series": "False",
+      "name": "Solo: A Star Wars Story",
+      "img": "https://image.tmdb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+      "overview": "Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.",
+      "release_date": 1526346000,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ]
+    },
+    {
+      "id": "543540",
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "name": "The Perfect Date",
-    "img": "https://image.tmdb.org/t/p/w500/m5LqnnkN09124CSE8yGskeCv3kb.jpg",
-    "overview": "No beau? No problem! To earn money for college, a high schooler creates a dating app that lets him act as a stand-in boyfriend.",
-    "release_date": 1555030800,
-    "genres": [
-      "Romance",
-      "Comedy"
-    ]
-  },
-  {
-    "id": "12444",
-"series": "False",
+      "name": "The Perfect Date",
+      "img": "https://image.tmdb.org/t/p/w500/m5LqnnkN09124CSE8yGskeCv3kb.jpg",
+      "overview": "No beau? No problem! To earn money for college, a high schooler creates a dating app that lets him act as a stand-in boyfriend.",
+      "release_date": 1555030800,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "12444",
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "name": "Harry Potter and the Deathly Hallows: Part 1",
-    "img": "https://image.tmdb.org/t/p/w500/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
-    "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
-    "release_date": 1287277200,
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ]
-  },
-  {
-    "id": "198663",
-"series": "False",
+      "name": "Harry Potter and the Deathly Hallows: Part 1",
+      "img": "https://image.tmdb.org/t/p/w500/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+      "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
+      "release_date": 1287277200,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "198663",
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "name": "The Maze Runner",
-    "img": "https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg",
-    "overview": "Set in a post-apocalyptic world, young Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow “runners” for a shot at escape.",
-    "release_date": 1410310800,
-    "genres": [
-      "Action",
-      "Science Fiction",
-      "Thriller"
-    ]
-  },
+      "name": "The Maze Runner",
+      "img": "https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+      "overview": "Set in a post-apocalyptic world, young Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow “runners” for a shot at escape.",
+      "release_date": 1410310800,
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Thriller"
+      ]
+    },
     {
       "id": "5",
       "series": "False",
@@ -1237,453 +1255,477 @@
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
     },
     {
-    "id": "238",
-    "name": "The Godfather",
-"series": "False",
+      "id": "238",
+      "name": "The Godfather",
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "img": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-    "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
-    "release_date": 69379200,
-    "genres": [
-      "Thriller",
-      "Action",
-      "Crime",
-      "Drama"
-    ]
-  },
-{
-    "id": "76341",
-"series": "False",
+      "img": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "release_date": 69379200,
+      "genres": [
+        "Thriller",
+        "Action",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "76341",
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "name": "Mad Max: Fury Road",
-    "img": "https://image.tmdb.org/t/p/w500/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg",
-    "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order. There's Max, a man of action and a man of few words, who seeks peace of mind following the loss of his wife and child in the aftermath of the chaos. And Furiosa, a woman of action and a woman who believes her path to survival may be achieved if she can make it across the desert back to her childhood homeland.",
-    "release_date": 1431478800,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ]
-  },
-  {
-    "id": "269149",
-"series": "False",
+      "name": "Mad Max: Fury Road",
+      "img": "https://image.tmdb.org/t/p/w500/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg",
+      "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order. There's Max, a man of action and a man of few words, who seeks peace of mind following the loss of his wife and child in the aftermath of the chaos. And Furiosa, a woman of action and a woman who believes her path to survival may be achieved if she can make it across the desert back to her childhood homeland.",
+      "release_date": 1431478800,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ]
+    },
+    {
+      "id": "269149",
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "name": "Zootopia",
-    "img": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
-    "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
-    "release_date": 1455148800,
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Family",
-      "Comedy"
-    ]
-  },
-    {"series": "False",
-
+      "name": "Zootopia",
+      "img": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+      "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+      "release_date": 1455148800,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family",
+        "Comedy"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "353081",
-    "name": "Mission: Impossible - Fallout",
-    "img": "https://image.tmdb.org/t/p/w500/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
-    "overview": "When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfill his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.",
-    "release_date": 1531443600,
-    "genres": [
-      "Action",
-      "Adventure"
-    ]
-  },
-  {"series": "False",
-
+      "id": "353081",
+      "name": "Mission: Impossible - Fallout",
+      "img": "https://image.tmdb.org/t/p/w500/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "overview": "When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfill his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.",
+      "release_date": 1531443600,
+      "genres": [
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "8966",
-    "name": "Twilight",
-    "img": "https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
-    "overview": "When Bella Swan moves to a small town in the Pacific Northwest to live with her father, she meets the reclusive Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't help but fall in love with him, a fatal move that endangers her own life when a coven of bloodsuckers try to challenge the Cullen clan.",
-    "release_date": 1227139200,
-    "genres": [
-      "Animation"
-    ]
-  },
-  {"series": "False",
-
+      "id": "8966",
+      "name": "Twilight",
+      "img": "https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+      "overview": "When Bella Swan moves to a small town in the Pacific Northwest to live with her father, she meets the reclusive Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't help but fall in love with him, a fatal move that endangers her own life when a coven of bloodsuckers try to challenge the Cullen clan.",
+      "release_date": 1227139200,
+      "genres": [
+        "Animation"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-"id": "8966",
-    "name": "Twilight",
-    "img": "https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
-    "overview": "When Bella Swan moves to a small town in the Pacific Northwest to live with her father, she meets the reclusive Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't help but fall in love with him, a fatal move that endangers her own life when a coven of bloodsuckers try to challenge the Cullen clan.",
-    "release_date": 1227139200,
-    "genres": [
-      "Animation"
-    ]
-  },{"series": "False",
-
+      "id": "8966",
+      "name": "Twilight",
+      "img": "https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+      "overview": "When Bella Swan moves to a small town in the Pacific Northwest to live with her father, she meets the reclusive Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't help but fall in love with him, a fatal move that endangers her own life when a coven of bloodsuckers try to challenge the Cullen clan.",
+      "release_date": 1227139200,
+      "genres": [
+        "Animation"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "12445",
-    "name": "Harry Potter and the Deathly Hallows: Part 2",
-    "img": "https://image.tmdb.org/t/p/w500/da22ZBmrDOXOCDRvr8Gic8ldhv4.jpg",
-    "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
-    "release_date": 1310000400,
-    "genres": [
-      "Fantasy",
-      "Adventure"
-    ]
-  },
-  {"series": "False",
+      "id": "12445",
+      "name": "Harry Potter and the Deathly Hallows: Part 2",
+      "img": "https://image.tmdb.org/t/p/w500/da22ZBmrDOXOCDRvr8Gic8ldhv4.jpg",
+      "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
+      "release_date": 1310000400,
+      "genres": [
+        "Fantasy",
+        "Adventure"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "207703",
-    "name": "Kingsman: The Secret Service",
-    "img": "https://image.tmdb.org/t/p/w500/ay7xwXn1G9fzX9TUBlkGA584rGi.jpg",
-    "overview": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a global threat emerges from a twisted tech genius.",
-    "release_date": 1422057600,
-    "genres": [
-      "Crime",
-      "Comedy",
-      "Action",
-      "Adventure"
-    ]
-  },{"series": "False",
+      "id": "207703",
+      "name": "Kingsman: The Secret Service",
+      "img": "https://image.tmdb.org/t/p/w500/ay7xwXn1G9fzX9TUBlkGA584rGi.jpg",
+      "overview": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a global threat emerges from a twisted tech genius.",
+      "release_date": 1422057600,
+      "genres": [
+        "Crime",
+        "Comedy",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "85",
-    "name": "Raiders of the Lost Ark",
-    "img": "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
-    "overview": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
-    "release_date": 361155600,
-    "genres": [
-      "Action",
-      "Adventure"
-    ]
-  },
-  {"series": "False",
+      "id": "85",
+      "name": "Raiders of the Lost Ark",
+      "img": "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "overview": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+      "release_date": 361155600,
+      "genres": [
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "439079",
-    "name": "The Nun",
-    "img": "https://image.tmdb.org/t/p/w500/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
-    "overview": "When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order’s unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in “The Conjuring 2” as the abbey becomes a horrific battleground between the living and the damned.",
-    "release_date": 1536109200,
-    "genres": [
-      
-    ]
-  },
-  {"series": "False",
+      "id": "439079",
+      "name": "The Nun",
+      "img": "https://image.tmdb.org/t/p/w500/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
+      "overview": "When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order’s unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in “The Conjuring 2” as the abbey becomes a horrific battleground between the living and the damned.",
+      "release_date": 1536109200,
+      "genres": []
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "286217",
-    "name": "The Martian",
-    "img": "https://image.tmdb.org/t/p/w500/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
-    "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
-    "release_date": 1443574800,
-    "genres": [
-      
-    ]
-  },
-  {"series": "False",
+      "id": "286217",
+      "name": "The Martian",
+      "img": "https://image.tmdb.org/t/p/w500/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
+      "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+      "release_date": 1443574800,
+      "genres": []
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "156022",
-    "name": "The Equalizer",
-    "img": "https://image.tmdb.org/t/p/w500/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
-    "overview": "McCall believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when he meets Teri, a young girl under the control of ultra-violent Russian gangsters, he can’t stand idly by – he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked against them, if they have nowhere else to turn, McCall will help. He is The Equalizer.",
-    "release_date": 1411520400,
-    "genres": [
-      "Action",
-      "Thriller",
-      "TV Movie"
-    ]
-  },{"series": "False",
+      "id": "156022",
+      "name": "The Equalizer",
+      "img": "https://image.tmdb.org/t/p/w500/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
+      "overview": "McCall believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when he meets Teri, a young girl under the control of ultra-violent Russian gangsters, he can’t stand idly by – he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked against them, if they have nowhere else to turn, McCall will help. He is The Equalizer.",
+      "release_date": 1411520400,
+      "genres": [
+        "Action",
+        "Thriller",
+        "TV Movie"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "1724",
-    "name": "The Incredible Hulk",
-    "img": "https://image.tmdb.org/t/p/w500/2nBpExDoInX3VreBsIm9qOTqXs8.jpg",
-    "overview": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
-    "release_date": 1213232400,
-    "genres": [
-      "Science Fiction",
-      "Action",
-      "Adventure",
-      "Drama"
-    ]
-  },
-  {"series": "False",
+      "id": "1724",
+      "name": "The Incredible Hulk",
+      "img": "https://image.tmdb.org/t/p/w500/2nBpExDoInX3VreBsIm9qOTqXs8.jpg",
+      "overview": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
+      "release_date": 1213232400,
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "333339",
-    "name": "Ready Player One",
-    "img": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
-    "overview": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
-    "release_date": 1522198800,
-    "genres": [
-      "Adventure",
-      "Science Fiction"
-    ]
-  },
-  {"series": "False",
+      "id": "333339",
+      "name": "Ready Player One",
+      "img": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+      "overview": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
+      "release_date": 1522198800,
+      "genres": [
+        "Adventure",
+        "Science Fiction"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "78",
-    "name": "Blade Runner",
-    "img": "https://image.tmdb.org/t/p/w500/vfzE3pjE5G7G7kcZWrA3fnbZo7V.jpg",
-    "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
-    "release_date": 393814800,
-    "genres": [
-      "Documentary"
-    ]
-  },
-  {"series": "False",
+      "id": "78",
+      "name": "Blade Runner",
+      "img": "https://image.tmdb.org/t/p/w500/vfzE3pjE5G7G7kcZWrA3fnbZo7V.jpg",
+      "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+      "release_date": 393814800,
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "9714",
-    "name": "Home Alone 3",
-    "img": "https://image.tmdb.org/t/p/w500/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg",
-    "overview": "9-year-old Alex Pruitt is home alone with the chicken pox. Turns out, due to a mix-up among nefarious spies, Alex was given a toy car concealing a top-secret microchip. Now Alex must fend off the spies as they try break into his house to get it back.",
-    "release_date": 881884800,
-    "genres": [
-      "Comedy",
-      "Family"
-    ]
-  },{"series": "False",
+      "id": "9714",
+      "name": "Home Alone 3",
+      "img": "https://image.tmdb.org/t/p/w500/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg",
+      "overview": "9-year-old Alex Pruitt is home alone with the chicken pox. Turns out, due to a mix-up among nefarious spies, Alex was given a toy car concealing a top-secret microchip. Now Alex must fend off the spies as they try break into his house to get it back.",
+      "release_date": 881884800,
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "343668",
-    "name": "Kingsman: The Golden Circle",
-    "img": "https://image.tmdb.org/t/p/w500/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg",
-    "overview": "When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.",
-    "release_date": 1505869200,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ]
-  },
-  {"series": "False",
+      "id": "343668",
+      "name": "Kingsman: The Golden Circle",
+      "img": "https://image.tmdb.org/t/p/w500/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg",
+      "overview": "When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.",
+      "release_date": 1505869200,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "150689",
-    "name": "Cinderella",
-    "img": "https://image.tmdb.org/t/p/w500/ryKwNlAfDXu0do6SX9h4G9Si1kG.jpg",
-    "overview": "When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her daughters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger in the woods.",
-    "release_date": 1426118400,
-    "genres": [
-      "Animation"
-    ]
-  },{"series": "False",
+      "id": "150689",
+      "name": "Cinderella",
+      "img": "https://image.tmdb.org/t/p/w500/ryKwNlAfDXu0do6SX9h4G9Si1kG.jpg",
+      "overview": "When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her daughters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger in the woods.",
+      "release_date": 1426118400,
+      "genres": [
+        "Animation"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "102382",
-    "name": "The Amazing Spider-Man 2",
-    "img": "https://image.tmdb.org/t/p/w500/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",
-    "overview": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
-    "release_date": 1397610000,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ]
-  },
-  {"series": "False",
+      "id": "102382",
+      "name": "The Amazing Spider-Man 2",
+      "img": "https://image.tmdb.org/t/p/w500/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",
+      "overview": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
+      "release_date": 1397610000,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "2048",
-    "name": "I, Robot",
-    "img": "https://image.tmdb.org/t/p/w500/dlb6JKYv25rJSk2n2hwhOeJ7Dk.jpg",
-    "overview": "In 2035, where robots are common-place and abide by the three laws of robotics, a techno-phobic cop investigates an apparent suicide. Suspecting that a robot may be responsible for the death, his investigation leads him to believe that humanity may be in danger.",
-    "release_date": 1089853200,
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Science Fiction"
-    ]
-  },
-  {"series": "False",
+      "id": "2048",
+      "name": "I, Robot",
+      "img": "https://image.tmdb.org/t/p/w500/dlb6JKYv25rJSk2n2hwhOeJ7Dk.jpg",
+      "overview": "In 2035, where robots are common-place and abide by the three laws of robotics, a techno-phobic cop investigates an apparent suicide. Suspecting that a robot may be responsible for the death, his investigation leads him to believe that humanity may be in danger.",
+      "release_date": 1089853200,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Science Fiction"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "105",
-    "name": "Back to the Future",
-    "img": "https://image.tmdb.org/t/p/w500/xlBivetfrtF84Yx0zISShnNtHYe.jpg",
-    "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
-    "release_date": 489200400,
-    "genres": [
-      
-    ]
-  },
-  {"series": "False",
+      "id": "105",
+      "name": "Back to the Future",
+      "img": "https://image.tmdb.org/t/p/w500/xlBivetfrtF84Yx0zISShnNtHYe.jpg",
+      "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+      "release_date": 489200400,
+      "genres": []
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "399055",
-    "name": "The Shape of Water",
-    "img": "https://image.tmdb.org/t/p/w500/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
-    "overview": "An other-worldly story, set against the backdrop of Cold War era America circa 1962, where a mute janitor working at a lab falls in love with an amphibious man being held captive there and devises a plan to help him escape.",
-    "release_date": 1512086400,
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Romance"
-    ]
-  },
-  {"series": "False",
+      "id": "399055",
+      "name": "The Shape of Water",
+      "img": "https://image.tmdb.org/t/p/w500/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "overview": "An other-worldly story, set against the backdrop of Cold War era America circa 1962, where a mute janitor working at a lab falls in love with an amphibious man being held captive there and devises a plan to help him escape.",
+      "release_date": 1512086400,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "374720",
-    "name": "Dunkirk",
-    "img": "https://image.tmdb.org/t/p/w500/ebSnODDg9lbsMIaWg2uAbjn7TO5.jpg",
-    "overview": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
-    "release_date": 1500426000,
-    "genres": [
-      "War",
-      "Action",
-      "Drama"
-    ]
-  },
-  {"series": "False",
+      "id": "374720",
+      "name": "Dunkirk",
+      "img": "https://image.tmdb.org/t/p/w500/ebSnODDg9lbsMIaWg2uAbjn7TO5.jpg",
+      "overview": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
+      "release_date": 1500426000,
+      "genres": [
+        "War",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "119450",
-    "name": "Dawn of the Planet of the Apes",
-    "img": "https://image.tmdb.org/t/p/w500/ie14Sm0hRI5f7Te2KIfU64NyCPr.jpg",
-    "overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
-    "release_date": 1403744400,
-    "genres": [
-      "Science Fiction",
-      "Action",
-      "Drama",
-      "Thriller"
-    ]
-  },
-    {"series": "False",
+      "id": "119450",
+      "name": "Dawn of the Planet of the Apes",
+      "img": "https://image.tmdb.org/t/p/w500/ie14Sm0hRI5f7Te2KIfU64NyCPr.jpg",
+      "overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+      "release_date": 1403744400,
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "158852",
-    "name": "Tomorrowland",
-    "img": "https://image.tmdb.org/t/p/w500/iHh0nVGVODAFduF6Q6njdSSCEfX.jpg",
-    "overview": "Bound by a shared destiny, a bright, optimistic teen bursting with scientific curiosity and a former boy-genius inventor jaded by disillusionment embark on a danger-filled mission to unearth the secrets of an enigmatic place somewhere in time and space that exists in their collective memory as 'Tomorrowland.'",
-    "release_date": 1431997200,
-    "genres": [
-      "Adventure",
-      "Family",
-      "Mystery",
-      "Science Fiction"
-    ]
-  },
-  
-  {"series": "False",
+      "id": "158852",
+      "name": "Tomorrowland",
+      "img": "https://image.tmdb.org/t/p/w500/iHh0nVGVODAFduF6Q6njdSSCEfX.jpg",
+      "overview": "Bound by a shared destiny, a bright, optimistic teen bursting with scientific curiosity and a former boy-genius inventor jaded by disillusionment embark on a danger-filled mission to unearth the secrets of an enigmatic place somewhere in time and space that exists in their collective memory as 'Tomorrowland.'",
+      "release_date": 1431997200,
+      "genres": [
+        "Adventure",
+        "Family",
+        "Mystery",
+        "Science Fiction"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "181533",
-    "name": "Night at the Museum: Secret of the Tomb",
-    "img": "https://image.tmdb.org/t/p/w500/xwgy305K6qDs3D20xUO4OZu1HPY.jpg",
-    "overview": "When the magic powers of The Tablet of Ahkmenrah begin to die out, Larry Daley spans the globe, uniting favorite and new characters while embarking on an epic quest to save the magic before it is gone forever.",
-    "release_date": 1418774400,
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Family"
-    ]
-  },
-  {"series": "False",
+      "id": "181533",
+      "name": "Night at the Museum: Secret of the Tomb",
+      "img": "https://image.tmdb.org/t/p/w500/xwgy305K6qDs3D20xUO4OZu1HPY.jpg",
+      "overview": "When the magic powers of The Tablet of Ahkmenrah begin to die out, Larry Daley spans the globe, uniting favorite and new characters while embarking on an epic quest to save the magic before it is gone forever.",
+      "release_date": 1418774400,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Family"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "293167",
-    "name": "Kong: Skull Island",
-    "img": "https://image.tmdb.org/t/p/w500/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
-    "overview": "Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.",
-    "release_date": 1488931200,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ]
-  },
-  {"series": "False",
+      "id": "293167",
+      "name": "Kong: Skull Island",
+      "img": "https://image.tmdb.org/t/p/w500/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
+      "overview": "Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.",
+      "release_date": 1488931200,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "452832",
-    "name": "Serenity",
-    "img": "https://image.tmdb.org/t/p/w500/hgWAcic93phg4DOuQ8NrsgQWiqu.jpg",
-    "overview": "Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.",
-    "release_date": 1548288000,
-    "genres": [
-      
-    ]
-  },
-  {"series": "False",
+      "id": "452832",
+      "name": "Serenity",
+      "img": "https://image.tmdb.org/t/p/w500/hgWAcic93phg4DOuQ8NrsgQWiqu.jpg",
+      "overview": "Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.",
+      "release_date": 1548288000,
+      "genres": []
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "674",
-    "name": "Harry Potter and the Goblet of Fire",
-    "img": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
-    "overview": "Harry starts his fourth year at Hogwarts, competes in the treacherous Triwizard Tournament and faces the evil Lord Voldemort. Ron and Hermione help Harry manage the pressure – but Voldemort lurks, awaiting his chance to destroy Harry and all that he stands for.",
-    "release_date": 1132099200,
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Family"
-    ]
-  },
-    {"series": "False",
+      "id": "674",
+      "name": "Harry Potter and the Goblet of Fire",
+      "img": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+      "overview": "Harry starts his fourth year at Hogwarts, competes in the treacherous Triwizard Tournament and faces the evil Lord Voldemort. Ron and Hermione help Harry manage the pressure – but Voldemort lurks, awaiting his chance to destroy Harry and all that he stands for.",
+      "release_date": 1132099200,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Family"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "585",
-    "name": "Monsters, Inc.",
-    "img": "https://image.tmdb.org/t/p/w500/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
-    "overview": "James Sullivan and Mike Wazowski are monsters, they earn their living scaring children and are the best in the business... even though they're more afraid of the children than they are of them. When a child accidentally enters their world, James and Mike suddenly find that kids are not to be afraid of and they uncover a conspiracy that could threaten all children across the world.",
-    "release_date": 1004572800,
-    "genres": [
-      
-    ]
-  },
-{"series": "False",
+      "id": "585",
+      "name": "Monsters, Inc.",
+      "img": "https://image.tmdb.org/t/p/w500/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
+      "overview": "James Sullivan and Mike Wazowski are monsters, they earn their living scaring children and are the best in the business... even though they're more afraid of the children than they are of them. When a child accidentally enters their world, James and Mike suddenly find that kids are not to be afraid of and they uncover a conspiracy that could threaten all children across the world.",
+      "release_date": 1004572800,
+      "genres": []
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "166426",
-    "name": "Pirates of the Caribbean: Dead Men Tell No Tales",
-    "img": "https://image.tmdb.org/t/p/w500/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
-    "overview": "Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy.",
-    "release_date": 1495501200,
-    "genres": [
-      "Adventure",
-      "Action",
-      "Fantasy",
-      "Comedy"
-    ]
-  },
- {"series": "False",
+      "id": "166426",
+      "name": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "img": "https://image.tmdb.org/t/p/w500/xbpSDU3p7YUGlu9Mr6Egg2Vweto.jpg",
+      "overview": "Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy.",
+      "release_date": 1495501200,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy",
+        "Comedy"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "604",
-    "name": "The Matrix Reloaded",
-    "img": "https://image.tmdb.org/t/p/w500/aA5qHS0FbSXO8PxcxUIHbDrJyuh.jpg",
-    "overview": "Six months after the events depicted in The Matrix, Neo has proved to be a good omen for the free humans, as more and more humans are being freed from the matrix and brought to Zion, the one and only stronghold of the Resistance.  Neo himself has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix and a certain degree of pre-cognition. But a nasty piece of news hits the human resistance: 250,000 machine sentinels are digging to Zion and would reach them in 72 hours. As Zion prepares for the ultimate war, Neo, Morpheus and Trinity are advised by the Oracle to find the Keymaker who would help them reach the Source.  Meanwhile Neo's recurrent dreams depicting Trinity's death have got him worried and as if it was not enough, Agent Smith has somehow escaped deletion, has become more powerful than before and has fixed Neo as his next target.",
-    "release_date": 1052960400,
-    "genres": [
-      "Documentary"
-    ]
-  },{"series": "False",
+      "id": "604",
+      "name": "The Matrix Reloaded",
+      "img": "https://image.tmdb.org/t/p/w500/aA5qHS0FbSXO8PxcxUIHbDrJyuh.jpg",
+      "overview": "Six months after the events depicted in The Matrix, Neo has proved to be a good omen for the free humans, as more and more humans are being freed from the matrix and brought to Zion, the one and only stronghold of the Resistance.  Neo himself has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix and a certain degree of pre-cognition. But a nasty piece of news hits the human resistance: 250,000 machine sentinels are digging to Zion and would reach them in 72 hours. As Zion prepares for the ultimate war, Neo, Morpheus and Trinity are advised by the Oracle to find the Keymaker who would help them reach the Source.  Meanwhile Neo's recurrent dreams depicting Trinity's death have got him worried and as if it was not enough, Agent Smith has somehow escaped deletion, has become more powerful than before and has fixed Neo as his next target.",
+      "release_date": 1052960400,
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "20352",
-    "name": "Despicable Me",
-    "img": "https://image.tmdb.org/t/p/w500/wqtH95Ri9Au2euC4p86lLoFCJQk.jpg",
-    "overview": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
-    "release_date": 1278550800,
-    "genres": [
-      "Animation",
-      "Family"
-    ]
-  }, {"series": "False",
+      "id": "20352",
+      "name": "Despicable Me",
+      "img": "https://image.tmdb.org/t/p/w500/wqtH95Ri9Au2euC4p86lLoFCJQk.jpg",
+      "overview": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
+      "release_date": 1278550800,
+      "genres": [
+        "Animation",
+        "Family"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "857",
-    "name": "Saving Private Ryan",
-    "img": "https://image.tmdb.org/t/p/w500/1wY4psJ5NVEhCuOYROwLH2XExM2.jpg",
-    "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
-    "release_date": 901242000,
-    "genres": [
-      "Drama",
-      "History",
-      "War"
-    ]
-  },
-  {"series": "False",
+      "id": "857",
+      "name": "Saving Private Ryan",
+      "img": "https://image.tmdb.org/t/p/w500/1wY4psJ5NVEhCuOYROwLH2XExM2.jpg",
+      "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+      "release_date": 901242000,
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "184315",
-    "name": "Hercules",
-    "img": "https://image.tmdb.org/t/p/w500/5X3VOy9lD44VclKsWTi8gHZGjhL.jpg",
-    "overview": "Fourteen hundred years ago, a tormented soul walked the earth that was neither man nor god. Hercules was the powerful son of the god king Zeus, for this he received nothing but suffering his entire life. After twelve arduous labors and the loss of his family, this dark, world-weary soul turned his back on the gods finding his only solace in bloody battle. Over the years he warmed to the company of six similar souls, their only bond being their love of fighting and presence of death. These men and woman never question where they go to fight or why or whom, just how much they will be paid. Now the King of Thrace has hired these mercenaries to train his men to become the greatest army of all time. It is time for this bunch of lost souls to finally have their eyes opened to how far they have fallen when they must train an army to become as ruthless and blood thirsty as their reputation has become.",
-    "release_date": 1406077200,
-    "genres": [
-      "Fantasy",
-      "Adventure"
-    ]
-  },
-  
-  {"series": "False",
+      "id": "184315",
+      "name": "Hercules",
+      "img": "https://image.tmdb.org/t/p/w500/5X3VOy9lD44VclKsWTi8gHZGjhL.jpg",
+      "overview": "Fourteen hundred years ago, a tormented soul walked the earth that was neither man nor god. Hercules was the powerful son of the god king Zeus, for this he received nothing but suffering his entire life. After twelve arduous labors and the loss of his family, this dark, world-weary soul turned his back on the gods finding his only solace in bloody battle. Over the years he warmed to the company of six similar souls, their only bond being their love of fighting and presence of death. These men and woman never question where they go to fight or why or whom, just how much they will be paid. Now the King of Thrace has hired these mercenaries to train his men to become the greatest army of all time. It is time for this bunch of lost souls to finally have their eyes opened to how far they have fallen when they must train an army to become as ruthless and blood thirsty as their reputation has become.",
+      "release_date": 1406077200,
+      "genres": [
+        "Fantasy",
+        "Adventure"
+      ]
+    },
+    {
+      "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-    "id": "93456",
-    "name": "Despicable Me 2",
-    "img": "https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg",
-    "overview": "Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.",
-    "release_date": 1372122000,
-    "genres": [
-      "Animation"
-    ]
-  }
+      "id": "93456",
+      "name": "Despicable Me 2",
+      "img": "https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg",
+      "overview": "Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.",
+      "release_date": 1372122000,
+      "genres": [
+        "Animation"
+      ]
+    }
   ]
 }
