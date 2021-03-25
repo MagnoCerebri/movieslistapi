@@ -13,6 +13,11 @@ def download():
     #For windows you need to use drive name [ex: F:/Example.pdf]
     path = "Isaac.jpg"
     return send_file(path, as_attachment=True)
+@app.route('/monke')
+def load():
+    #For windows you need to use drive name [ex: F:/Example.pdf]
+    path = "MONKE.jpg"
+    return send_file(path, as_attachment=True)
 
 @app.route('/movies')
 def movielist():         
