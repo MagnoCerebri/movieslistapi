@@ -12,18 +12,20 @@ def movielist():
 def query(query):
     with open("movies.json") as jsondata:
         items = json.load(jsondata)
+        initial={"movies":[]}
+        
         def search_name (name):
             for keyval in items["movies"]:
                 if name.lower() in keyval['name'].lower():
-                    return keyval
-        if (search_name(query) != None):
-            result={"movies":[
-                search_name(query)
-                 ]
-                }
-            return jsonify(result)
-        else:
-            return jsonify("Movie is not found")
+                    initial["movies"].append(keyval)
+                    
+            
+
+   
+    search_name(query)
+    return initial
+                    
+       
 
     
     
