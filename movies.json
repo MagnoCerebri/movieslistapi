@@ -1805,6 +1805,135 @@
       "genres": [
         "Animation"
       ]
-    }
+    },
+    {
+"id": "332411",
+"name": "I Am Wrath",
+"img": "https://image.tmdb.org/t/p/w500/uUfEYRW3LAh0hzhf78IWSsUC99b.jpg",
+"overview": "A man is out for justice after a group of corrupt police officers are unable to catch his wife's killer.",
+"release_date": 1460595600,
+"vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+      "series": "False",
+"genres": [
+"Action",
+"Crime",
+"Drama",
+"Thriller"
+]
+},
+{
+"id": "74465",
+"name": "We Bought a Zoo",
+"img": "https://image.tmdb.org/t/p/w500/dcOvIqdsojUdAtWt1nPT9xS76Su.jpg",
+"overview": "Benjamin has lost his wife and, in a bid to start his life over, purchases a large house that has a zoo – welcome news for his daughter, but his son is not happy about it. The zoo is in need of renovation and Benjamin sets about the work with the head keeper and the rest of the staff, but, the zoo soon runs into financial trouble.",
+"release_date": 1324512000,
+"vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+      "series": "False",
+"genres": [
+"Drama",
+"Comedy",
+"Family"
+]
+},
+{
+"id": "9470",
+"name": "Kung Fu Hustle",
+"img": "https://image.tmdb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
+"overview": "Set in Canton, China in the 1940s, the story revolves in a town ruled by the Axe Gang, Sing who desperately wants to become a member. He stumbles into a slum ruled by eccentric landlords who turns out to be the greatest kung-fu masters in disguise. Sing's actions eventually cause the Axe Gang and the slumlords to engage in an explosive kung-fu battle. Only one side will win and only one hero will emerge as the greatest kung-fu master of all.",
+"release_date": 1076371200,
+"vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+      "series": "False",
+"genres": []
+},
+{
+"id": "1936",
+"name": "River of No Return",
+"img": "https://image.tmdb.org/t/p/w500/3kw7fGVsBdFocDTTGazbc0szF55.jpg",
+"overview": "The itinerant farmer and his young son help a heart-of-gold saloon singer search for her estranged husband",
+"release_date": -494640000,
+"vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+      "series": "False",
+"genres": [
+"Adventure",
+"Western"
+]
+},
+{
+"id": "589853",
+"name": "Q Ball",
+"img": "https://image.tmdb.org/t/p/w500/xJaDSFH5A6pDzFwDCHl2Y6XkKFB.jpg",
+"overview": "Across the Bay from the NBA champion Golden State Warriors is another Warriors team, one that plays only home games. Felony convictions derailed the lives of the San Quentin Prison squad, some of them promising players. The rocky road to rehabilitation is the point of the game in this eye-opening, inspirational documentary. Q Ball‘s focus is on determined men grappling indelibly with the gravity of their crimes and reaching for redemption. The film zeroes in on about-to-be-paroled star player Harry “ATL” Smith, who has not surrendered his NBA dreams; Anthony “Ant” Ammons, a lifer who has become a mentor to younger inmates; and head coach Rafael Cuevas, a convicted murderer who understands his role in preparing his players for life on the outside. For all three men, the team is not just a means of recreation, but a form of family.",
+"release_date": 1554944400,
+"vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+      "series": "False",
+"genres": [
+"Documentary"
+]
+},
+{
+"id": "639",
+"name": "When Harry Met Sally...",
+"img": "https://image.tmdb.org/t/p/w500/3wkbKeowUp1Zpkw1KkBqMWbt0P9.jpg",
+"overview": "During their travel from Chicago to New York, Harry and Sally debate whether or not sex ruins a friendship between a man and a woman. Eleven years later, and they're still no closer to finding the answer.",
+"release_date": 616986000,
+"vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+      "series": "False",
+"genres": [
+"Comedy",
+"Romance",
+"Drama"
+]
+},
+{
+"id": "44251",
+"name": "Dragon Ball Z: Broly – Second Coming",
+"vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+      "series": "False",
+"img": "https://image.tmdb.org/t/p/w500/4CkArpSqySpBQH95Oqr94ktU6rU.jpg",
+"overview": "The film opens with a Saiyan Space pod flying through space and crash-landing on Earth out of which a wounded Saiyan crawls out: Broly, the Legendary Super Saiyan. The wounded Broly shouts out in frustation and turns into normal form. The place soon freezes, trapping him in it and he falls into a coma.",
+"release_date": 763430400,
+"genres": [
+"Action",
+"Animation",
+"Science Fiction"
+]
+},
+{
+"id": "9833",
+"name": "The Phantom of the Opera",
+"vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+      "series": "False",
+"img": "https://image.tmdb.org/t/p/w500/aTsp2VTaCBiGs8w05OTXfD97FRZ.jpg",
+"overview": "Deformed since birth, a bitter man known only as the Phantom lives in the sewers underneath the Paris Opera House. He falls in love with the obscure chorus singer Christine, and privately tutors her while terrorizing the rest of the opera house and demanding Christine be given lead roles. Things get worse when Christine meets back up with her childhood acquaintance Raoul and the two fall in love",
+"release_date": 1102464000,
+"genres": [
+"Drama",
+"Horror"
+]
+},
+{
+"id": "1996",
+"name": "Lara Croft: Tomb Raider – The Cradle of Life",
+"vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+      "series": "False",
+"img": "https://image.tmdb.org/t/p/w500/vzWqkXbqs3EEMi3jgFpiRPgFGlG.jpg",
+"overview": "Lara Croft ventures to an underwater temple in search of the mythological Pandora's Box but, after securing it, it is promptly stolen by the villainous leader of a Chinese crime syndicate. Lara must recover the box before the syndicate's evil mastermind uses it to construct a weapon of catastrophic capabilities.",
+"release_date": 1058749200
+},
+{
+"id": "1579",
+"name": "Apocalypto",
+"vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+      "series": "False",
+"img": "https://image.tmdb.org/t/p/w500/cBFQsU1LDBEOl0Ik0cygeB6wCLE.jpg",
+"overview": "Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.",
+"release_date": 1165449600,
+"genres": [
+"Action",
+"Adventure",
+"Drama",
+"Thriller"
+]
+}
   ]
 }
