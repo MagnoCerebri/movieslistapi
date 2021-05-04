@@ -19,7 +19,7 @@ def query(query):
         
         for keyval in items["movies"]:
                 if query.lower() in keyval['name'].lower():
-                    if len(initial[num])==11:
+                    if len(initial[num])==5:
                         num=num+1
                         initial[num]=[]
                         initial[num].append(keyval)
