@@ -12,17 +12,24 @@ def movielist():
 def query(query):
     with open("movies.json") as jsondata:
         items = json.load(jsondata)
-        initial={"movies":[]}
+        num=1
+        initial={}
+        initial[num]=[]
         
-        def search_name (name):
-            for keyval in items["movies"]:
-                if name.lower() in keyval['name'].lower():
-                    initial["movies"].append(keyval)
+        
+        for keyval in items["movies"]:
+                if query.lower() in keyval['name'].lower():
+                    if len(initial[num])==11:
+                        num=num+1
+                        initial[num]=[]
+                        initial[num].append(keyval)
+                    else:
+                        initial[num].append(keyval)
                     
             
 
    
-    search_name(query)
+    
     return initial
                     
        
