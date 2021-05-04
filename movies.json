@@ -1934,6 +1934,560 @@
 "Drama",
 "Thriller"
 ]
+},
+    {
+"id": "74",
+"name": "War of the Worlds",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"img": "https://image.tmdb.org/t/p/w500/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+"overview": "Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop of his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.",
+"release_date": 1119920400,
+"genres": [
+"Adventure",
+"Action",
+"Animation",
+"Science Fiction"
+]
+},
+{
+"id": "2144",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "One Night at McCool's",
+"img": "https://image.tmdb.org/t/p/w500/uGx1MdP4m4nurfB0HAwahaHMIU3.jpg",
+"overview": "Every man has a different recollection of the beautiful young woman who wreaked havoc on their lives during one heated night.",
+"release_date": 987642000,
+"genres": [
+"Comedy",
+"Crime"
+]
+},
+{
+"id": "127493",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Stolen",
+"img": "https://image.tmdb.org/t/p/w500/9UDl3jgTsITaaIJw8nlo9TdW7if.jpg",
+"overview": "Master thief Will Montgomery is just released from the State penitentiary after serving a 10 year sentence, is contacted by Vincent, his ex comrade in crime, who is holding Will’s teenage daughter ransom in a hijacked taxi cab. Vincent will only surrender her when Will reveals the whereabouts of the 20 million dollars he contrived to conceal from their last robbery.",
+"release_date": 1346893200,
+"genres": []
+},
+{
+"id": "2024",
+"name": "The Patriot",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"img": "https://image.tmdb.org/t/p/w500/fWZd815QxUCUcrWQZwUkAp9ljG.jpg",
+"overview": "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+"release_date": 962154000,
+"genres": [
+"Comedy"
+]
+},
+{
+"id": "429415",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Extinction",
+"img": "https://image.tmdb.org/t/p/w500/qjnNdjrZIdi7d316SjjkgEjJRSg.jpg",
+"overview": "A chief mechanic at a factory, haunted by apocalyptic nightmares, becomes a hero when Earth is invaded by a mysterious army bent on destruction.",
+"release_date": 1531616400,
+"genres": [
+"Documentary",
+"History"
+]
+},
+{
+"id": "9408",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Surf's Up",
+"img": "https://image.tmdb.org/t/p/w500/tTDsCVlDA8QR4Dc6t6nERfwl5z.jpg",
+"overview": "Cody is a surfing penguin from Shiverpool who dreams of making it big and being like his idol Big Z. On his journey he discovers his talents are not all he thinks they are and he must learn to accept that their is more to surfing than fame and fortune.  Surf's Up is a 2007 American computer-animated mockumentary film produced by Sony Pictures Animation and distributed by Columbia Pictures and ImageWorks Studios. It stars the voices of Shia LaBeouf, Jeff Bridges, Zooey Deschanel, Jon Heder among others.",
+"release_date": 1181264400,
+"genres": [
+"Animation",
+"Comedy",
+"Family"
+]
+},
+{
+"id": "184",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Jackie Brown",
+"img": "https://image.tmdb.org/t/p/w500/ewbLUXvm4riZL0aepy90o0vMesn.jpg",
+"overview": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan—with help from a bail bondsman—to keep the money for herself. Based on Elmore Leonard's novel “Rum Punch”.",
+"release_date": 882921600,
+"genres": [
+"Crime",
+"Thriller",
+"Drama",
+"Comedy"
+]
+},
+{
+"id": "280996",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Mr. Holmes",
+"img": "https://image.tmdb.org/t/p/w500/iNnHMoj2oldH7O9uL08iGhfHzh.jpg",
+"overview": "The story is set in 1947, following a long-retired Holmes living in a Sussex village with his housekeeper and rising detective son. But then he finds himself haunted by an unsolved 50-year old case. Holmes' memory isn't what it used to be, so he only remembers fragments of the case: a confrontation with an angry husband, a secret bond with his beautiful but unstable wife.",
+"release_date": 1434675600,
+"genres": [
+"Drama"
+]
+},
+{
+"id": "4327",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Charlie's Angels",
+"img": "https://image.tmdb.org/t/p/w500/iHTmZs0BmkwMCYi8rhvMWC5G4EM.jpg",
+"overview": "Three women, detectives with a mysterious boss, retrieve stolen voice-ID software, using martial arts, tech skills, and sex appeal.",
+"release_date": 973123200,
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Crime",
+"Thriller"
+]
+},
+{
+"id": "13811",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Knowing",
+"img": "https://image.tmdb.org/t/p/w500/nO9gTGDNdYnPr9ILKNQmk6EVTVR.jpg",
+"overview": "A teacher opens a time capsule that has been dug up at his son's elementary school; in it are some chilling predictions -- some that have already occurred and others that are about to -- that lead him to believe his family plays a role in the events that are about to unfold.",
+"release_date": 1237420800,
+"genres": [
+"Action",
+"Adventure",
+"Drama",
+"Mystery",
+"Science Fiction",
+"Thriller"
+]
+},
+{
+"id": "11005",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Awakenings",
+"img": "https://image.tmdb.org/t/p/w500/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg",
+"overview": "Dr. Malcolm Sayer, a shy research physician, uses an experimental drug to 'awaken' the catatonic victims of a rare disease. Leonard is the first patient to receive the controversial treatment. His awakening, filled with awe and enthusiasm, proves a rebirth for Sayer too, as the exuberant patient reveals life's simple but unutterably sweet pleasures to the introverted doctor.",
+"release_date": 660268800,
+"genres": [
+"Drama"
+]
+},
+{
+"id": "55301",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Alvin and the Chipmunks: Chipwrecked",
+"img": "https://image.tmdb.org/t/p/w500/jm2cEy9A8EIvTcUHcNqGPEbN2lo.jpg",
+"overview": "Playing around while aboard a cruise ship, the Chipmunks and Chipettes accidentally go overboard and end up marooned in a tropical paradise. They discover their new turf is not as deserted as it seems.",
+"release_date": 1323820800,
+"genres": [
+"Comedy",
+"Fantasy",
+"Family",
+"Music",
+"Animation"
+]
+},
+{
+"id": "8078",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Alien Resurrection",
+"img": "https://image.tmdb.org/t/p/w500/kzslFL1n01WI5lEcYzFSUi3Quik.jpg",
+"overview": "Two hundred years after Lt. Ripley died, a group of scientists clone her, hoping to breed the ultimate weapon. But the new Ripley is full of surprises … as are the new aliens. Ripley must team with a band of smugglers to keep the creatures from reaching Earth.",
+"release_date": 879292800,
+"genres": [
+"Science Fiction",
+"Horror",
+"Action"
+]
+},
+{
+"id": "4233",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Scream 2",
+"img": "https://image.tmdb.org/t/p/w500/mumarnp1ZBHFdmt2q6x9ELuC3x0.jpg",
+"overview": "Two years after the terrifying events that occurred in Woodsboro, Sidney is now attending Windsor College in Cincinnati, and Gale Weathers' best selling book on Sidney's life has now been made into a major motion picture. When two college students are killed in a theatre while watching the new film 'Stab', Sidney knows deep down that history is repeating itself.",
+"release_date": 881625600,
+"genres": [
+"Horror",
+"Mystery"
+]
+},
+{
+"id": "62213",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Dark Shadows",
+"img": "https://image.tmdb.org/t/p/w500/eteQ3gyMpA0oiWcYX4XoXGry0cB.jpg",
+"overview": "Vampire Barnabas Collins is inadvertently freed from his tomb and emerges into the very changed world of 1972. He returns to Collinwood Manor to find that his once-grand estate and family have fallen into ruin.",
+"release_date": 1336438800,
+"genres": [
+"Drama"
+]
+},
+{
+"id": "9348",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Species",
+"img": "https://image.tmdb.org/t/p/w500/cT5wdyo8kT7dycqjrolJ2sHWkFx.jpg",
+"overview": "In 1993, the Search for Extra Terrestrial Intelligence Project receives a transmission detailing an alien DNA structure, along with instructions on how to splice it with human DNA. The result is Sil, a sensual but deadly creature who can change from a beautiful woman to an armour-plated killing machine in the blink of an eye.",
+"release_date": 805078800,
+"genres": [
+"Science Fiction",
+"Horror",
+"Action"
+]
+},
+{
+"id": "59965",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Abduction",
+"img": "https://image.tmdb.org/t/p/w500/coL8O01xtvBTT6KsjGteDNglmKJ.jpg",
+"overview": "A young man sets out to uncover the truth about his life after finding his baby photo on a missing persons website.",
+"release_date": 1316653200,
+"genres": [
+"Thriller",
+"Horror"
+]
+},
+{
+"id": "207932",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Inferno",
+"img": "https://image.tmdb.org/t/p/w500/dtMJQzCxw2AY6tfcxhzlFpiD3BM.jpg",
+"overview": "After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.",
+"release_date": 1476320400,
+"genres": []
+},
+{
+"id": "365222",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Ip Man 3",
+"img": "https://image.tmdb.org/t/p/w500/RTt4lgyTDI8JHMGbZGDDbcZmkM.jpg",
+"overview": "When a band of brutal gangsters led by a crooked property developer make a play to take over the city, Master Ip is forced to take a stand.",
+"release_date": 1450483200,
+"genres": [
+"Action",
+"Drama",
+"History"
+]
+},
+{
+"id": "10201",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Yes Man",
+"img": "https://image.tmdb.org/t/p/w500/16zVbgFLTUaUTG1wQHuGjfWNuDM.jpg",
+"overview": "Carl Allen has stumbled across a way to shake free of post-divorce blues and a dead-end job: embrace life and say yes to everything.",
+"release_date": 1228780800,
+"genres": [
+"Comedy"
+]
+},
+{
+"id": "370567",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Sherlock Gnomes",
+"img": "https://image.tmdb.org/t/p/w500/wqnzpJR3PwS4doVkAkt9seSEpoX.jpg",
+"overview": "Garden gnomes, Gnomeo & Juliet, recruit renown detective, Sherlock Gnomes, to investigate the mysterious disappearance of other garden ornaments.",
+"release_date": 1521072000,
+"genres": [
+"Animation",
+"Family",
+"Fantasy"
+]
+},
+{
+"id": "431259",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Escape Room",
+"img": "https://image.tmdb.org/t/p/w500/dCthgwsV0AXIMqliQL6njAWf7Sb.jpg",
+"overview": "Four friends who partake in a popular Los Angeles escape room find themselves stuck with a demonically possessed killer. The friends have less than an hour to solve the puzzles needed to escape the room alive.",
+"release_date": 1504141200,
+"genres": [
+"Thriller",
+"Action",
+"Horror",
+"Science Fiction"
+]
+},
+{
+"id": "334541",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Manchester by the Sea",
+"img": "https://image.tmdb.org/t/p/w500/e8daDzP0vFOnGyKmve95Yv0D0io.jpg",
+"overview": "After his older brother passes away, Lee Chandler is forced to return home to care for his 16-year-old nephew. There he is compelled to deal with a tragic past that separated him from his family and the community where he was born and raised.",
+"release_date": 1479427200,
+"genres": [
+"Drama"
+]
+},
+{
+"id": "10647",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Pay It Forward",
+"img": "https://image.tmdb.org/t/p/w500/q5xZpLih6L5rAIcT5r6WYB6Os7F.jpg",
+"overview": "Like some other kids, 12-year-old Trevor McKinney believed in the goodness of human nature. Like many other kids, he was determined to change the world for the better. Unlike most other kids, he succeeded.",
+"release_date": 972003600,
+"genres": [
+"Drama",
+"Romance",
+"Comedy"
+]
+},
+{
+"id": "11362",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "The Count of Monte Cristo",
+"img": "https://image.tmdb.org/t/p/w500/aoKzR82lgcle1NmlayZ9wURhwFa.jpg",
+"overview": "Edmond Dantés's life and plans to marry the beautiful Mercedes are shattered when his best friend, Fernand, deceives him. After spending 13 miserable years in prison, Dantés escapes with the help of a fellow inmate and plots his revenge, cleverly insinuating himself into the French nobility.",
+"release_date": 1011744000,
+"genres": [
+"Adventure"
+]
+},
+{
+"id": "869",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Planet of the Apes",
+"img": "https://image.tmdb.org/t/p/w500/njdwSoVL1qMgdOCV0RwwuOfG3vF.jpg",
+"overview": "After a spectacular crash-landing on an uncharted planet, brash astronaut Leo Davidson finds himself trapped in a savage world where talking apes dominate the human race. Desperate to find a way home, Leo must evade the invincible gorilla army led by Ruthless General Thade.",
+"release_date": 996022800,
+"genres": [
+"Music"
+]
+},
+{
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"id": "109418",
+"name": "Grown Ups 2",
+"img": "https://image.tmdb.org/t/p/w500/5vLeJchL3zosBj10CJP1h54xyBs.jpg",
+"overview": "The all-star comedy cast from Grown Ups returns (with some exciting new additions) for more summertime laughs. Lenny (Adam Sandler) has relocated his family back to the small town where he and his friends grew up. This time around, the grown ups are the ones learning lessons from their kids on a day notoriously full of surprises: the last day of school.",
+"release_date": 1373504400,
+"genres": [
+"Comedy"
+]
+},
+{
+"id": "957",
+"name": "Spaceballs",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"img": "https://image.tmdb.org/t/p/w500/o624HTt93iIJIc1Sg5hNkDTnk5l.jpg",
+"overview": "When the nefarious Dark Helmet hatches a plan to snatch Princess Vespa and steal her planet's air, space-bum-for-hire Lone Starr and his clueless sidekick fly to the rescue. Along the way, they meet Yogurt, who puts Lone Starr wise to the power of 'The Schwartz.' Can he master it in time to save the day?",
+"release_date": 551494800,
+"genres": [
+"Comedy",
+"Science Fiction"
+]
+},
+{
+"id": "297725",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "The Man Who Killed Don Quixote",
+"img": "https://image.tmdb.org/t/p/w500/4o4zw2c9sfHvszIb5xpuFagnouR.jpg",
+"overview": "Toby, a cynical advertising director finds himself trapped in the outrageous delusions of an old Spanish shoe-maker who believes himself to be Don Quixote. In the course of their comic and increasingly surreal adventures, Toby is forced to confront the tragic repercussions of a film he made in his idealistic youth.",
+"release_date": 1526691600,
+"genres": [
+"Comedy",
+"Fantasy",
+"Adventure"
+]
+},
+{
+"id": "16866",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Planet 51",
+"img": "https://image.tmdb.org/t/p/w500/x7Itcg3ZdExKwdKguy73WPEqosW.jpg",
+"overview": "When Earth astronaut Capt. Chuck Baker arrives on Planet 51 -- a world reminiscent of American suburbia circa 1950 -- he tries to avoid capture, recover his spaceship and make it home safely, all with the help of an empathetic little green being.",
+"release_date": 1258588800,
+"genres": [
+"Science Fiction",
+"Family",
+"Comedy",
+"Adventure",
+"Animation"
+]
+},
+{
+"id": "476926",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "The Titan",
+"img": "https://image.tmdb.org/t/p/w500/qRmQazyIBZR4pQIk9VruiZul0Au.jpg",
+"overview": "On a bleak future Earth, a soldier endures a radical genetic transformation to save humanity. But his wife fears he's becoming more creature than man.",
+"release_date": 1522371600,
+"genres": []
+},
+{
+"id": "17295",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "The Battle of Algiers",
+"img": "https://image.tmdb.org/t/p/w500/9fHkCuYEKsu7j0xsI2HbBvlZNZc.jpg",
+"overview": "Tracing the struggle of the Algerian Front de Liberation Nationale to gain freedom from French colonial rule as seen through the eyes of Ali from his start as a petty thief to his rise to prominence in the organisation and capture by the French in 1957. The film traces the rebels' struggle and the increasingly extreme measures taken by the French government to quell the revolt.",
+"release_date": -104630400,
+"genres": []
+},
+{
+"id": "10303",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "The Jewel of the Nile",
+"img": "https://image.tmdb.org/t/p/w500/6VjsIhnIcrz2XdQVHdsMj5DdSa1.jpg",
+"overview": "Joan Wilder is thrust back into a world of murder, chases, foreign intrigue... and love. This time out she's duped by a duplicitous Arab dignitary who brings her to the Middle East, ostensibly to write a book about his life. Of course he's up to no good, and Joan is just another pawn in his wicked game. But Jack Colton and his sidekick Ralph show up to help our intrepid heroine save the day.",
+"release_date": 502502400,
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Romance"
+]
+},
+{
+"id": "8005",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Robin Hood: Men in Tights",
+"img": "https://image.tmdb.org/t/p/w500/woexOLEkUlYsPLLuZRK6LjZaF38.jpg",
+"overview": "Robin Hood comes home after fighting in the Crusades to learn that the noble King Richard is in exile and that the despotic King John now rules England, with the help of the Sheriff of Rottingham. Robin Hood assembles a band of fellow patriots to do battle with King John and the Sheriff.",
+"release_date": 743821200,
+"genres": [
+"Comedy"
+]
+},
+{
+"id": "46261",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Don't Be Afraid of the Dark",
+"img": "https://image.tmdb.org/t/p/w500/jMBMm1jwqvILV8p1K44brBnmwLK.jpg",
+"overview": "A young girl sent to live with her father and his new girlfriend discovers creatures in her new home who want to claim her as one of their own.",
+"release_date": 1289001600,
+"genres": [
+"Horror",
+"TV Movie"
+]
+},
+{
+"id": "522417",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "The Scorpion King: Book of Souls",
+"img": "https://image.tmdb.org/t/p/w500/mSviUMejPmerwoQxdj7wR4Ky1Fd.jpg",
+"overview": "The Scorpion King teams up with a female warrior named Tala, who is the sister of The Nubian King. Together they search for a legendary relic known as The Book of Souls, which will allow them to put an end to an evil warlord.",
+"release_date": 1540256400,
+"genres": [
+"Adventure",
+"Action",
+"Fantasy"
+]
+},
+{
+"id": "467248",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Bring It On: Worldwide #Cheersmack",
+"img": "https://image.tmdb.org/t/p/w500/jNZnw3TXNFWv7KVhZIDOszZnUH9.jpg",
+"overview": "When Destiny, captain of three-time national champions 'The Rebels,' is challenged to a global cheer showdown by an edgy new team called 'The Truth,' the Cheer Goddess organizes a virtual battle for squads from all around the world. It seems like the whole world wants to take down Destiny and her team, and they just might succeed, unless Destiny can rise to the challenge, set her ego aside and figure out who her real friends are.",
+"release_date": 1503968400,
+"genres": [
+"Comedy",
+"Romance"
+]
+},
+{
+"id": "278924",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Mechanic: Resurrection",
+"img": "https://image.tmdb.org/t/p/w500/3FUJT82YKY1EJ1dmunQhW5PUZAT.jpg",
+"overview": "Arthur Bishop thought he had put his murderous past behind him when his most formidable foe kidnaps the love of his life. Now he is forced to travel the globe to complete three impossible assassinations, and do what he does best, make them look like accidents.",
+"release_date": 1472086800,
+"genres": [
+"Action",
+"Crime",
+"Thriller"
+]
+},
+{
+"id": "400710",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Flatliners",
+"img": "https://image.tmdb.org/t/p/w500/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg",
+"overview": "Five medical students, hoping to gain insight into the mystery of what lies beyond the confines of life, embark on a daring and dangerous experiment. By stopping their hearts for short periods of time, each triggers a near-death experience. As the investigation becomes more and more perilous, they are forced to confront the sins of their pasts, as well as contend with the paranormal consequences of trespassing to the other side.",
+"release_date": 1506560400,
+"genres": [
+"Drama",
+"Horror",
+"Science Fiction",
+"Thriller"
+]
+},
+{
+"id": "819",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Sleepers",
+"img": "https://image.tmdb.org/t/p/w500/yUpiEk2EojS9ZEXb3nIQonQCYYF.jpg",
+"overview": "Two gangsters seek revenge on the state jail worker who during their stay at a youth prison sexually abused them. A sensational court hearing takes place to charge him for the crimes.",
+"release_date": 845600400,
+"genres": []
+},
+{
+"id": "3049",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "Ace Ventura: Pet Detective",
+"img": "https://image.tmdb.org/t/p/w500/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg",
+"overview": "He's Ace Ventura: Pet Detective. Jim Carrey is on the case to find the Miami Dolphins' missing mascot and quarterback Dan Marino. He goes eyeball to eyeball with a man-eating shark, stakes out the Miami Dolphins and woos and wows the ladies. Whether he's undercover, under fire or underwater, he always gets his man… or beast!",
+"release_date": 760320000,
+"genres": [
+"Comedy",
+"Mystery"
+]
+},
+{
+"id": "168672",
+"series": "False",
+      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
+"name": "American Hustle",
+"img": "https://image.tmdb.org/t/p/w500/z6O1KDhfWDTm5ZBr6Ovr0eg8LqO.jpg",
+"overview": "A conman and his seductive partner are forced to work for a wild FBI agent, who pushes them into a world of Jersey power-brokers and the Mafia.",
+"release_date": 1386806400,
+"genres": [
+"Drama",
+"Crime"
+]
 }
+    
   ]
 }
