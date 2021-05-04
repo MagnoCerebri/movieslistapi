@@ -8,7 +8,7 @@
   
   "story":{
     "story":"It tells the story of Saitama, a superhero who can defeat any opponent with a single punch but seeks to find a worthy opponent after growing bored by a lack of challenge due to his overwhelming strength"},
-     
+  "episodes":{
    "1":[
       {
          
@@ -85,6 +85,7 @@
          "vid":"https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2FAnime%20or%20WebSeries%2FOne%20Punch%20Man%2FS1%2FEP%2012.mp4?alt=media&token=c81e6858-d237-40e6-807b-6c3411fdbaf6"
       }
   ]
+  }
 }
  
 
