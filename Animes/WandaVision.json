@@ -17,7 +17,10 @@
 		"story": "WandaVision takes place after the events of Avengers: Endgame (2019), and directly sets up Doctor Strange in the Multiverse of Madness, in which Olsen reprises her role as Maximoff."
 	},
 
-	"episodes": [{
+	"episodes":{
+		
+	"1":[
+		{
 
 			"name": "Ep-1 Filmed Before a Live Studio Audience",
 			"vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
@@ -63,4 +66,6 @@
 			"vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2FAnime%20or%20WebSeries%2FWandaVision%2FWandavision%20S01E09%20720p%20English.mkv?alt=media&token=4084aa3e-fed3-4e63-9386-adeb6cd0b8f6"
 		}
 	]
-}
+
+	}
+}	
