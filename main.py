@@ -31,9 +31,10 @@ def query(query):
    
     
     return initial
+                    
+       
 
-
-
+    
 @app.route('/genre/<string:query>')   
 def genre(query):
     with open("movies.json") as jsondata:
@@ -58,10 +59,6 @@ def genre(query):
    
     
     return initial
-    
-                    
-       
-
     
 
 
