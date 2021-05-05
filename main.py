@@ -35,31 +35,6 @@ def query(query):
        
 
     
-@app.route('/genre/<string:query>')   
-def genre(query):
-    with open("movies.json") as jsondata:
-        items = json.load(jsondata)
-        num=1
-        initial={}
-        initial[num]=[]
-        
-        
-        for keyval in items["movies"]:
-            for i in keyval["genres"]:
-                if query.lower() in i.lower():
-                    if len(initial[num])==11:
-                        num=num+1
-                        initial[num]=[]
-                        initial[num].append(keyval)
-                    else:
-                        initial[num].append(keyval)
-                    
-            
-
-   
-    
-    return initial
-    
 
 
 
