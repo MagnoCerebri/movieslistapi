@@ -4,23 +4,36 @@
       "img": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2FThe%20Devil%20All%20The%20Time%2FThe%20devl%20all%20the%20time%20pic.jpg?alt=media&token=0fe8323f-56a2-4d39-a4ff-c5848f54bebd",
       "name": "The Devil All the Time",
       "series": "False",
+      "genres": [
+      "Thriller","Drama"
+    ],
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
+      
     },
     {
       "img": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2FWonder%20Woman%201984%2Fww84.jpg?alt=media&token=f798987d-fc01-4ac1-a454-37941ff89b4d",
       "name": "Wonder Woman 1984",
       "series": "False",
+      "genres": [
+      "Action","Superhero"
+    ],
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
     },
     {
       "img": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2FSonic%20the%20Hedgehog%2Fsonic.jpg?alt=media&token=7ead79c5-b2ba-4648-81e6-5fa6107322df",
       "name": "Sonic the Hedgehog",
+      "genres": [
+      "Comedy"
+    ],
       "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
     },
     {
       "img": "https://images-na.ssl-images-amazon.com/images/I/71Tw-XHzu1L._AC_SL1200_.jpg",
       "name": "Tenet",
+      "genres": [
+      "Thriller","Action"
+    ],
       "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
     },
@@ -28,13 +41,19 @@
       "id": "15",
       "series": "True",
       "vid": "https://raw.githubusercontent.com/MagnoCerebri/movieslistapi/main/Animes/Attack on Titan S1.json",
-      "name": "Attack on Titan S1",
+      "name": "Attack on Titan",
+      "genres": [
+      "Anime","Action"
+    ],
       "img": "https://resizing.flixster.com/cYT0gW23UZWexqWoHqvu5fBejNI=/fit-in/1152x864/v1.dDszMTg1MTI7ajsxODcwNjsxMjAwOzEyMDA7MTgwMA"
     },
     {
       "img": "https://m.media-amazon.com/images/I/51lvxZDKppL.jpg",
       "name": "Avengers: Endgame",
       "series": "False",
+      "genres": [
+      "Action","Superhero"
+    ],
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
     },
     {"series": "False",
@@ -45,7 +64,7 @@
     "overview": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.",
     "release_date": 1241571600,
     "genres": [
-      "Documentary"
+      "Action"
     ]
   },
   {"series": "False",
@@ -120,42 +139,63 @@
       "img": "https://originalvintagemovieposters.com/wp-content/uploads/2020/03/Dark-Knight-70822-scaled.jpg",
       "name": "The Dark Knight",
       "series": "False",
+      "genres": [
+      "Action","Thriller"
+    ],
       "vid": "https://cutt.ly/ejhQx3g"
     },
     {
       "img": "https://i.pinimg.com/originals/b1/40/47/b1404762a0deb618f8a38816ff9f861c.jpg",
       "name": "Pirates Of the Caribbean: Salazar's Revenge",
       "series": "False",
+      "genres": [
+      "Action"
+    ],
       "vid": "https://cutt.ly/GjhQKdj"
     },
     {
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPIS3ORPw08TBy_JPNiod6Wcph7i3YvyLseg&usqp=CAU",
       "name": "AK vs AK",
       "series": "False",
+      "genres": [
+      "Drama"
+    ],
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
     },
     {
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlr7H2HW_Y2tcgL8VnZJksk-0IpnHJt8-fYw&usqp=CAU",
       "name": "The Matrix",
       "series": "False",
+      "genres": [
+      "Action","Thriller"
+    ],
       "vid": "https://cutt.ly/fjhEaDr"
     },
     {
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ9r3FS2oxe13mlahy9RfolAJIG3ESWeYkyg&usqp=CAU",
       "name": "Joker",
       "series": "False",
+      "genres": [
+      "Thriller","Drama"
+    ],
       "vid": "https://cutt.ly/BjhEECg"
     },
     {
       "img": "https://occ-0-299-300.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABYJ9i23tprS4ke9NUY2AmpX6fLjnEQ6VJNSIS66dU3RbgCp0ssHm8paKYJZsGRK1XYEGqu3xxLJm3GTu3nX_Q-KuEhwo.jpg",
       "name": "Naruto Shippuden the Movie ",
       "series": "False",
+      "genres": [
+      "Anime"
+    ],
       "vid": "https://cutt.ly/9jhJmAL"
     },
     {
       "img": "https://www.anime-planet.com/images/anime/covers/naruto-movie-1-ninja-clash-in-the-land-of-snow-1285.jpg",
       "name": "Naruto Ninja Clash in the Land of Snow ",
       "series": "False",
+      "genres": [
+      "Anime"
+    ],
       "vid": "https://cutt.ly/cjhJffo"
     },
     {
@@ -168,30 +208,45 @@
       "img": "https://images-na.ssl-images-amazon.com/images/I/61wQYpF9jSL._AC_SL1185_.jpg",
       "name": "Artemis Fowl ",
       "series": "False",
+      "genres": [
+      "Drama","Action"
+    ],
       "vid": "https://cutt.ly/Bjx5jDH"
     },
     {
       "img": "https://images-na.ssl-images-amazon.com/images/I/81L6jWlP6IL._RI_.jpg",
       "name": "Annabelle Comes Home ",
       "series": "False",
+      "genres": [
+      "Horror","Thriller"
+    ],
       "vid": "https://cutt.ly/Pjx6YWc"
     },
     {
       "img": "https://i.pinimg.com/originals/22/2b/9e/222b9ed054f44fa4f13558cdb3fa127e.png",
       "name": "Star Wars III Revenge of the Sith",
       "series": "False",
+      "genres": [
+      "Action"
+    ],
       "vid": "https://cutt.ly/xjQmOCO"
     },
     {
       "img": "https://m.media-amazon.com/images/M/MV5BMTAzMzI0NTMzNDBeQTJeQWpwZ15BbWU3MDM3NTAyOTM@._V1_.jpg",
       "name": "Megamind",
       "series": "False",
+      "genres": [
+      "Comedy"
+    ],
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2Y"
     },
     {
       "name": "Avatar",
       "vid": "https://i.pinimg.com/236x/59/a1/b0/59a1b00b050a0402e39664858fcc3bd2--movie-couples-wallpaper.jpg",
       "series": "False",
+      "genres": [
+      "Action","Drama"
+    ],
       "img": "https://i.pinimg.com/736x/0c/4f/8f/0c4f8fe58a8f06bdd7e63550aa7bf338.jpg"
     },
     {
@@ -199,41 +254,62 @@
       "series": "True",
       "vid": "https://raw.githubusercontent.com/MagnoCerebri/movieslistapi/main/Animes/WandaVision.json",
       "name": "WandaVision",
+      "genres": [
+      "Web Series","Action","Superhero"
+    ],
       "img": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2021/02/EtJXFJyVEAER0n3.jpeg"
     },
     {
       "name": "I Am Legend",
       "series": "False",
+      "genres": [
+      "Action"
+    ],
       "vid": "https://m.media-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
       "img": "https://static.wikia.nocookie.net/soundeffects/images/2/2d/I_Am_Legend_%282007%29_Movie_Poster.jpg/revision/latest/scale-to-width-down/340?cb=20190806041307"
     },
     {
       "name": "300",
       "series": "False",
+      "genres": [
+      "Action","Drama"
+    ],
       "vid": "https://i.pinimg.com/originals/ce/d2/97/ced2975ab2a5f57778eef66d1ba6b3a6.png",
       "img": "https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-movie/300-poster.jpg?itok=av9XNG6x"
     },
     {
       "name": "The Avengers",
       "series": "False",
+      "genres": [
+      "Action","Superhero"
+    ],
       "vid": "https://m.media-amazon.com/images/I/719SFBdxRtL._AC_SL1000_.jpg",
       "img": "https://www.vintagemovieposters.co.uk/wp-content/uploads/2018/04/IMG_3059-482x714.jpg"
     },
     {
       "name": "The Wolf of Wall Street",
       "series": "False",
+      "genres": [
+      "Drama"
+    ],
       "vid": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
       "img": "https://images-na.ssl-images-amazon.com/images/I/61qHVnmegzL._AC_SY679_.jpg"
     },
     {
       "name": "Interstellar",
       "series": "False",
+      "genres": [
+      "Drama","Thriller"
+    ],
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "img": "https://images-na.ssl-images-amazon.com/images/I/91kFYg4fX3L.jpg"
     },
     {
       "name": "Django Unchained",
       "series": "False",
+      "genres": [
+      "Action"
+    ],
       "img": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "storyline": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner."
@@ -241,6 +317,9 @@
     {
       "name": "Beauty and the Beast",
       "series": "False",
+      "genres": [
+      "Drama"
+    ],
       "img": "https://images-na.ssl-images-amazon.com/images/I/91p8sSMXpkL._AC_SL1500_.jpg",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "storyline": "Disney's animated classic takes on a new form, with a widened mythology and an all-star cast. A young prince, imprisoned in the form of a beast, can be freed only by true love. What may be his only opportunity arrives when he meets Belle, the only human girl to ever visit the castle since it was enchanted.\n\n"
@@ -248,12 +327,18 @@
     {
       "name": "Jumanji: Welcome to the jungle",
       "series": "False",
+      "genres": [
+      "Action"
+    ],
       "img": "https://images-na.ssl-images-amazon.com/images/I/A1hFzTczzJL._AC_SL1500_.jpg",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "storyline": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.."
     },
     {
       "name": "Ad Astra",
+      "genres": [
+      "Drama","Thriller"
+    ],
       "series": "False",
       "img": "https://i.pinimg.com/originals/cb/1c/db/cb1cdb36c692f23438b7752d51f035f1.jpg",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
@@ -262,12 +347,18 @@
     {
       "name": "The Lion King",
       "series": "False",
+      "genres": [
+      "Drama"
+    ],
       "img": "https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-movie/the-lion-king-movie-poster-image0.jpg?itok=ILK65PMU",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "storyline": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery."
     },
     {
       "id": "299536",
+      "genres": [
+      "Action","Superhero"
+    ],
       "name": "Avengers: Infinity War",
       "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
@@ -277,6 +368,9 @@
       "id": "287947",
       "series": "False",
       "name": "Shazam!",
+      "genres": [
+      "Action","Superhero","Comedy"
+    ],
       "img": "https://image.tmdb.org/t/p/w500/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
       "overview": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
@@ -285,6 +379,7 @@
       "id": "607",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "series": "False",
+     
       "name": "Men in Black",
       "img": "https://image.tmdb.org/t/p/w500/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
       "overview": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent Kay and new recruit Agent Jay find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
@@ -316,7 +411,7 @@
       "overview": "Nearly a decade after occupation by an extraterrestrial force, the lives of a Chicago neighborhood on both sides of the conflict are explored.",
       "release_date": 1552608000,
       "genres": [
-        "Science Fiction"
+        "Science Fiction","Drama"
       ]
     },
     {
@@ -351,6 +446,9 @@
     {
       "id": "299537",
       "series": "False",
+      "genres": [
+        "Action","Superhero"
+      ],
       "name": "Captain Marvel",
       "img": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
@@ -359,12 +457,18 @@
       "id": "522681",
       "series": "False",
       "name": "Escape Room",
+      "genres": [
+        "Thriller"
+      ],
       "img": "https://image.tmdb.org/t/p/w500/8Ls1tZ6qjGzfGHjBB7ihOnf7f0b.jpg",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
     },
     {
       "id": "166428",
       "series": "False",
+      "genres": [
+        "Action"
+      ],
       "name": "How to Train Your Dragon: The Hidden World",
       "img": "https://image.tmdb.org/t/p/w500/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
@@ -372,6 +476,9 @@
     {
       "id": "450465",
       "series": "False",
+      "genres": [
+        "Action"
+      ],
       "name": "Glass",
       "img": "https://image.tmdb.org/t/p/w500/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
@@ -379,6 +486,9 @@
     {
       "id": "329996",
       "series": "False",
+      "genres": [
+        "Drama"
+      ],
       "name": "Dumbo",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "img": "https://image.tmdb.org/t/p/w500/deTOAcMWuHTjOUPQphwcPFFfTQz.jpg",
@@ -399,7 +509,8 @@
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "release_date": 1552521600,
       "genres": [
-        "Documentary",
+        "Horror",
+        "Thriller",
         "Family"
       ]
     },
@@ -408,6 +519,9 @@
       "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "name": "Bumblebee",
+       "genres": [
+        "Action"
+      ],
       "img": "https://image.tmdb.org/t/p/w500/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg"
     },
     {
@@ -415,11 +529,17 @@
       "id": "920",
       "series": "False",
       "name": "Cars",
+       "genres": [
+        "Comedy"
+      ],
       "img": "https://image.tmdb.org/t/p/w500/qa6HCwP4Z15l3hpsASz3auugEW6.jpg"
     },
     {
       "id": "324857",
       "series": "False",
+       "genres": [
+        "Action","Comedy","Superhero"
+      ],
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "name": "Spider-Man: Into the Spider-Verse",
       "img": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
@@ -427,12 +547,18 @@
     {
       "id": "157433",
       "series": "False",
+       "genres": [
+        "Horror","Thriller"
+      ],
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "name": "Pet Sematary",
       "img": "https://image.tmdb.org/t/p/w500/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg"
     },
     {
       "id": "456740",
+       "genres": [
+        "Action"
+      ],
       "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "name": "Hellboy",
@@ -460,14 +586,17 @@
       "release_date": 1544659200,
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "genres": [
-        "Documentary"
+        "Comedy"
       ]
     },
     {
       "id": "15",
+       "genres": [
+        "Anime","Action"
+      ],
       "series": "True",
       "vid": "https://raw.githubusercontent.com/MagnoCerebri/movieslistapi/main/Animes/OnePunchMan.json",
-      "name": "One Punch Man S1",
+      "name": "One Punch Man",
       "img": "https://m.media-amazon.com/images/M/MV5BMTNmZDE2NDEtNTg3MS00OTE1LThlZGUtOGZkZTg0NTUyNGVmXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
     },
     {
@@ -480,7 +609,7 @@
       "release_date": 1544140800,
       "genres": [
         "Action",
-        "Adventure",
+        "Superhero",
         "TV Movie"
       ]
     },
@@ -493,7 +622,7 @@
       "overview": "Collegian Tree Gelbman wakes up in horror to learn that she's stuck in a parallel universe. Her boyfriend Carter is now with someone else, and her friends and fellow students seem to be completely different versions of themselves. When Tree discovers that Carter's roommate has been altering time, she finds herself once again the target of a masked killer. When the psychopath starts to go after her inner circle, Tree soon realizes that she must die over and over again to save everyone.",
       "release_date": 1550016000,
       "genres": [
-        "Comedy",
+        "Thriller",
         "Horror",
         "Science Fiction"
       ]
@@ -507,7 +636,7 @@
       "overview": "In 1934, Frank Hamer and Manny Gault, two former Texas Rangers, are commissioned to put an end to the wave of vicious crimes perpetrated by Bonnie Parker and Clyde Barrow, a notorious duo of infamous robbers and cold-blooded killers who nevertheless are worshiped by the public.",
       "release_date": 1552608000,
       "genres": [
-        "Music"
+        "Action"
       ]
     },
     {
@@ -545,6 +674,9 @@
       "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "rank": "20",
+       "genres": [
+        "Action"
+      ],
       "img": "https://images-na.ssl-images-amazon.com/images/I/513kXgLe6ZL._AC_.jpg"
     },
     {
@@ -552,6 +684,9 @@
       "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "name": "Fantastic Beasts: The Crimes of Grindelwald",
+       "genres": [
+        "Action"
+      ],
       "img": "https://image.tmdb.org/t/p/w500/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg",
       "overview": "Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.",
       "release_date": 1542153600
@@ -577,7 +712,7 @@
       "img": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
       "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
       "release_date": 1406682000,
-      "genres": []
+      "genres": ["Acion","Superhero"]
     },
     {
       "series": "False",
@@ -592,7 +727,7 @@
         "Action",
         "Comedy",
         "Fantasy",
-        "Adventure"
+        "Anime"
       ]
     },
     {
@@ -619,7 +754,7 @@
       "release_date": 1118365200,
       "genres": [
         "Action",
-        "Crime",
+        "Superhero",
         "Drama"
       ]
     },
@@ -647,7 +782,7 @@
       "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
       "release_date": 879811200,
       "genres": [
-        "Action",
+        
         "Drama",
         "History"
       ]
@@ -832,7 +967,7 @@
       "release_date": 1255136400,
       "genres": [
         "Drama",
-        "Romance"
+        "Action"
       ]
     },
     {
@@ -844,7 +979,7 @@
       "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
       "release_date": 1486512000,
       "genres": [
-        "Documentary"
+        "Action"
       ]
     },
     {
@@ -868,7 +1003,7 @@
       "img": "https://image.tmdb.org/t/p/w500/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
       "overview": "After being bitten by a genetically altered spider, nerdy high school student Peter Parker is endowed with amazing powers.",
       "release_date": 1020214800,
-      "genres": []
+      "genres": ["Action","Superhero"]
     },
     {
       "series": "False",
@@ -889,6 +1024,9 @@
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "id": "41439",
       "name": "Saw: The Final Chapter",
+       "genres": [
+        "Thriller"
+      ],
       "img": "https://image.tmdb.org/t/p/w500/z0pT5jNWwSdazvrqPBVs1sdKjxu.jpg",
       "overview": "As a deadly battle rages over Jigsaw's brutal legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.",
       "release_date": 1287622800
@@ -918,7 +1056,7 @@
       "genres": [
         "Horror",
         "Thriller",
-        "Crime",
+        "Action",
         "Drama",
         "Mystery"
       ]
@@ -947,6 +1085,7 @@
       "genres": [
         "Drama",
         "Science Fiction",
+        "Action",
         "War"
       ]
     },
@@ -960,7 +1099,7 @@
       "release_date": -1010880000,
       "genres": [
         "Romance",
-        "Fantasy"
+        "Coemdy"
       ]
     },
     {
@@ -988,7 +1127,7 @@
       "release_date": 1323475200,
       "genres": [
         "Action",
-        "Fantasy",
+        "Superhero",
         "Thriller"
       ]
     },
@@ -1000,7 +1139,7 @@
       "img": "https://image.tmdb.org/t/p/w500/1SWBSYJsnyhdNRfLI1T6RsCxAQ4.jpg",
       "overview": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
       "release_date": 1371690000,
-      "genres": []
+      "genres": ["Action"]
     },
     {
       "id": "284053",
@@ -1014,7 +1153,7 @@
         "Action",
         "Adventure",
         "Comedy",
-        "Fantasy"
+        "Superhero"
       ]
     },
     {
@@ -1027,7 +1166,7 @@
       "release_date": 1540342800,
       "genres": [
         "Music",
-        "Documentary"
+        "Drama"
       ]
     },
     {
@@ -1039,20 +1178,26 @@
       "overview": "King T'Challa returns home from America to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantel to join with girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
       "release_date": 1518480000,
       "genres": [
-        "Family",
-        "Drama"
+        "Action",
+        "Superhero"
       ]
     },
     {
       "name": "Toy Story 3",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "rank": "64",
+       "genres": [
+        "Comedy"
+      ],
       "series": "False",
       "img": "https://upload.wikimedia.org/wikipedia/en/6/69/Toy_Story_3_poster.jpg"
     },
     {
       "name": "The Shining",
       "series": "False",
+       "genres": [
+        "Thriller","Drama"
+      ],
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "rank": "46",
       "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg/220px-The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg"
@@ -1062,17 +1207,21 @@
       "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "name": "Venom",
+      
       "img": "https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
       "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
       "release_date": 1538096400,
       "genres": [
-        "Thriller"
+        "Thriller","Action"
       ]
     },
     {
       "img": "https://images-na.ssl-images-amazon.com/images/I/811ItMfg3lL._AC_SL1500_.jpg",
       "name": "Naruto the Movie: The Last",
       "series": "False",
+       "genres": [
+        "Anime"
+      ],
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2"
     },
     {
@@ -1092,6 +1241,9 @@
       "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "name": "Ant-Man and the Wasp",
+       "genres": [
+        "Comedy","Superhero"
+      ],
       "img": "https://image.tmdb.org/t/p/w500/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg",
       "overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
       "release_date": 1530666000
@@ -1116,6 +1268,9 @@
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "name": "Iron Man 2",
       "release_date": "2010-04-28",
+       "genres": [
+        "Action","Superhero"
+      ],
       "img": "https://static.wikia.nocookie.net/transcripts/images/1/14/Marvel%27s_Iron_Man_2_-_iTunes_Movie_Poster.jpeg/revision/latest?cb=20170206025128"
     },
     {
@@ -1123,6 +1278,9 @@
       "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "rank": "62",
+       "genres": [
+        "Comedy"
+      ],
       "img": "https://upload.wikimedia.org/wikipedia/en/c/c2/WALL-Eposter.jpg"
     },
     {
@@ -1149,7 +1307,7 @@
       "release_date": 1538528400,
       "genres": [
         "Documentary",
-        "Music"
+        "Drama"
       ]
     },
     {
@@ -1189,7 +1347,7 @@
       "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
       "release_date": 1507078800,
       "genres": [
-        "Documentary"
+        "Action"
       ]
     },
     {
@@ -1198,6 +1356,9 @@
       "name": "Thor",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "release_date": "2011-04-21",
+       "genres": [
+        "Superhero"
+      ],
       "img": "https://images-na.ssl-images-amazon.com/images/I/511PQT86A0L._AC_.jpg"
     },
     {
@@ -1240,7 +1401,7 @@
       "img": "https://image.tmdb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
       "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
       "release_date": 1413939600,
-      "genres": []
+      "genres": ["Action"]
     },
     {
       "id": "348350",
@@ -1302,6 +1463,9 @@
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "name": "Captain America: The First Avenger",
       "release_date": "2011-07-22",
+       "genres": [
+        "Superhero"
+      ],
       "img": "https://i.pinimg.com/originals/c9/50/47/c95047c24210408fbfd142fd7754a860.jpg"
     },
     {
@@ -1309,6 +1473,9 @@
       "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "name": "Avengers: Age of Ultron",
+       "genres": [
+        "Superhero","Action"
+      ],
       "img": "https://meshthemoviefreak.files.wordpress.com/2015/05/avengers-age-of-ultron-movie-poster-marvel.jpg?w=603&h=804",
       "release_date": "2015-04-22"
     },
@@ -1317,12 +1484,18 @@
       "id": "14",
       "series": "False",
       "name": "Doctor Strange",
+       "genres": [
+        "Superhero"
+      ],
       "img": "https://www.joblo.com/assets/images/oldsite/posters/images/full/Doctor_Strange_IMAX_3D_Preview_Exclusive_Poster_thumb.jpg",
       "release_date": "2016-10-25"
     },
     {
       "id": "15",
       "series": "False",
+       "genres": [
+        "Comedy","Superhero"
+      ],
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "name": "Guardians of the Galaxy Vol. 2",
       "img": "https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_UY1200_CR89,0,630,1200_AL_.jpg"
@@ -1402,18 +1575,7 @@
         "Animation"
       ]
     },
-    {
-      "series": "False",
-      "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
-      "id": "8966",
-      "name": "Twilight",
-      "img": "https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
-      "overview": "When Bella Swan moves to a small town in the Pacific Northwest to live with her father, she meets the reclusive Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't help but fall in love with him, a fatal move that endangers her own life when a coven of bloodsuckers try to challenge the Cullen clan.",
-      "release_date": 1227139200,
-      "genres": [
-        "Animation"
-      ]
-    },
+    
     {
       "series": "False",
       "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
@@ -1423,7 +1585,7 @@
       "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
       "release_date": 1310000400,
       "genres": [
-        "Fantasy",
+        "Action",
         "Adventure"
       ]
     },
@@ -1437,7 +1599,7 @@
       "release_date": 1422057600,
       "genres": [
         "Crime",
-        "Comedy",
+        
         "Action",
         "Adventure"
       ]
@@ -1463,7 +1625,7 @@
       "img": "https://image.tmdb.org/t/p/w500/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
       "overview": "When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order’s unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in “The Conjuring 2” as the abbey becomes a horrific battleground between the living and the damned.",
       "release_date": 1536109200,
-      "genres": []
+      "genres": ["Thriller"]
     },
     {
       "series": "False",
@@ -1473,7 +1635,7 @@
       "img": "https://image.tmdb.org/t/p/w500/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
       "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
       "release_date": 1443574800,
-      "genres": []
+      "genres": ["Drama"]
     },
     {
       "series": "False",
@@ -1501,7 +1663,7 @@
         "Science Fiction",
         "Action",
         "Adventure",
-        "Drama"
+        "Superhero"
       ]
     },
     {
@@ -1513,7 +1675,7 @@
       "overview": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
       "release_date": 1522198800,
       "genres": [
-        "Adventure",
+        "Action",
         "Science Fiction"
       ]
     },
@@ -1579,7 +1741,7 @@
       "genres": [
         "Action",
         "Adventure",
-        "Fantasy"
+        "Superhero"
       ]
     },
     {
@@ -1604,7 +1766,7 @@
       "img": "https://image.tmdb.org/t/p/w500/xlBivetfrtF84Yx0zISShnNtHYe.jpg",
       "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
       "release_date": 489200400,
-      "genres": []
+      "genres": ["Comedy"]
     },
     {
       "series": "False",
@@ -1712,7 +1874,7 @@
       "overview": "Harry starts his fourth year at Hogwarts, competes in the treacherous Triwizard Tournament and faces the evil Lord Voldemort. Ron and Hermione help Harry manage the pressure – but Voldemort lurks, awaiting his chance to destroy Harry and all that he stands for.",
       "release_date": 1132099200,
       "genres": [
-        "Adventure",
+        "Action",
         "Fantasy",
         "Family"
       ]
@@ -1725,7 +1887,7 @@
       "img": "https://image.tmdb.org/t/p/w500/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
       "overview": "James Sullivan and Mike Wazowski are monsters, they earn their living scaring children and are the best in the business... even though they're more afraid of the children than they are of them. When a child accidentally enters their world, James and Mike suddenly find that kids are not to be afraid of and they uncover a conspiracy that could threaten all children across the world.",
       "release_date": 1004572800,
-      "genres": []
+      "genres": ["Comedy"]
     },
     {
       "series": "False",
@@ -1751,7 +1913,7 @@
       "overview": "Six months after the events depicted in The Matrix, Neo has proved to be a good omen for the free humans, as more and more humans are being freed from the matrix and brought to Zion, the one and only stronghold of the Resistance.  Neo himself has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix and a certain degree of pre-cognition. But a nasty piece of news hits the human resistance: 250,000 machine sentinels are digging to Zion and would reach them in 72 hours. As Zion prepares for the ultimate war, Neo, Morpheus and Trinity are advised by the Oracle to find the Keymaker who would help them reach the Source.  Meanwhile Neo's recurrent dreams depicting Trinity's death have got him worried and as if it was not enough, Agent Smith has somehow escaped deletion, has become more powerful than before and has fixed Neo as his next target.",
       "release_date": 1052960400,
       "genres": [
-        "Documentary"
+        "Action","Thriller"
       ]
     },
     {
@@ -1763,7 +1925,7 @@
       "overview": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
       "release_date": 1278550800,
       "genres": [
-        "Animation",
+        "comedy",
         "Family"
       ]
     },
@@ -1803,7 +1965,7 @@
       "overview": "Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.",
       "release_date": 1372122000,
       "genres": [
-        "Animation"
+        "Comedy"
       ]
     },
     {
@@ -1843,7 +2005,7 @@
 "release_date": 1076371200,
 "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "series": "False",
-"genres": []
+"genres": ["Comedy"]
 },
 {
 "id": "1936",
@@ -1855,7 +2017,7 @@
       "series": "False",
 "genres": [
 "Adventure",
-"Western"
+"Thriller"
 ]
 },
 {
@@ -1894,7 +2056,7 @@
 "release_date": 763430400,
 "genres": [
 "Action",
-"Animation",
+"Anime",
 "Science Fiction"
 ]
 },
@@ -1916,6 +2078,9 @@
 "name": "Lara Croft: Tomb Raider – The Cradle of Life",
 "vid": "https://firebasestorage.googleapis.com/v0/b/movie-streamer-dec56.appspot.com/o/Movies%2Fezgif-7-56e17c68e201.mp4?alt=media&token=948b3036-9211-4de6-b6f1-27b1461c01e2",
       "series": "False",
+   "genres": [
+        "Action"
+      ],
 "img": "https://image.tmdb.org/t/p/w500/vzWqkXbqs3EEMi3jgFpiRPgFGlG.jpg",
 "overview": "Lara Croft ventures to an underwater temple in search of the mythological Pandora's Box but, after securing it, it is promptly stolen by the villainous leader of a Chinese crime syndicate. Lara must recover the box before the syndicate's evil mastermind uses it to construct a weapon of catastrophic capabilities.",
 "release_date": 1058749200
