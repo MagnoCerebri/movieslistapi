@@ -1866,7 +1866,7 @@
       "img": "https://image.tmdb.org/t/p/w500/hgWAcic93phg4DOuQ8NrsgQWiqu.jpg",
       "overview": "Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.",
       "release_date": 1548288000,
-      "genres": []
+      "genres": ["Drama"]
     },
     {
       "series": "False",
@@ -2139,7 +2139,7 @@
 "img": "https://image.tmdb.org/t/p/w500/9UDl3jgTsITaaIJw8nlo9TdW7if.jpg",
 "overview": "Master thief Will Montgomery is just released from the State penitentiary after serving a 10 year sentence, is contacted by Vincent, his ex comrade in crime, who is holding Will’s teenage daughter ransom in a hijacked taxi cab. Vincent will only surrender her when Will reveals the whereabouts of the 20 million dollars he contrived to conceal from their last robbery.",
 "release_date": 1346893200,
-"genres": []
+"genres": ["Thriller"]
 },
 {
 "id": "2024",
@@ -2342,7 +2342,7 @@
 "img": "https://image.tmdb.org/t/p/w500/dtMJQzCxw2AY6tfcxhzlFpiD3BM.jpg",
 "overview": "After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.",
 "release_date": 1476320400,
-"genres": []
+"genres": ["Drama"]
 },
 {
 "id": "365222",
@@ -2512,7 +2512,7 @@
 "img": "https://image.tmdb.org/t/p/w500/qRmQazyIBZR4pQIk9VruiZul0Au.jpg",
 "overview": "On a bleak future Earth, a soldier endures a radical genetic transformation to save humanity. But his wife fears he's becoming more creature than man.",
 "release_date": 1522371600,
-"genres": []
+"genres": ["action"]
 },
 {
 "id": "17295",
@@ -2522,7 +2522,7 @@
 "img": "https://image.tmdb.org/t/p/w500/9fHkCuYEKsu7j0xsI2HbBvlZNZc.jpg",
 "overview": "Tracing the struggle of the Algerian Front de Liberation Nationale to gain freedom from French colonial rule as seen through the eyes of Ali from his start as a petty thief to his rise to prominence in the organisation and capture by the French in 1957. The film traces the rebels' struggle and the increasingly extreme measures taken by the French government to quell the revolt.",
 "release_date": -104630400,
-"genres": []
+"genres": ["Action"]
 },
 {
 "id": "10303",
@@ -2628,7 +2628,7 @@
 "img": "https://image.tmdb.org/t/p/w500/yUpiEk2EojS9ZEXb3nIQonQCYYF.jpg",
 "overview": "Two gangsters seek revenge on the state jail worker who during their stay at a youth prison sexually abused them. A sensational court hearing takes place to charge him for the crimes.",
 "release_date": 845600400,
-"genres": []
+"genres": ["Drama"]
 },
 {
 "id": "3049",
