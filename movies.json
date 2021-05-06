@@ -1506,7 +1506,7 @@
     {
       "name": "Big Hero 6",
       "series": "False",
-       [
+      "genres":[
         "Comedy","Superhero"
       ],
       "img": "https://i.ytimg.com/vi/-AWpph_Rvoo/movieposter_en.jpg",
