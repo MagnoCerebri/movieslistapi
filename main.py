@@ -33,7 +33,7 @@ def query(query):
     return initial
                     
       
- @app.route('/genre/<string:query>')   
+@app.route('/genre/<string:query>')   
 def genre(query):
     with open("movies.json", encoding="utf8") as jsondata:
         items = json.load(jsondata)
